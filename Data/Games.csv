@@ -1,1 +1,582 @@
-﻿Id,Name,Platform,Release Date
+﻿Id,Name,Title ID,Release Date,Platform ID
+0,32 in 1,CX-26163,1988,4
+1,3-D Tic-Tac-Toe,CX-2618,1980,4
+2,Action Pak,PRO-810,1981,4
+3,Adventure,CX-2613,1979,4
+4,Air-Sea Battle,CX-2602,1977,4
+5,Alpha Beam with Ernie,CX-26103,1983,4
+6,Asterix,CX-2696,1983,4
+7,Asteroids,CX-2649,1981,4
+8,Atari Video Cube,CX-2670,1982,4
+9,Backgammon,CX-2617,1979,4
+10,Back To School Pak,PRO-812,1978,4
+11,Basic Math AKA Fun With Numbers,CX-2661,1977,4
+12,Basic Programming,CX-2620,1979,4
+13,Basketball,CX-2624,1978,4
+14,Battlezone,CX-2681,1983,4
+15,Berzerk,CX-2650,1982,4
+16,Big Bird's Egg Catch,CX-26104,1983,4
+17,Blackjack,CX-2651,1977,4
+18,Bowling,CX-2628,1979,4
+19,Brain Games,CX-2664,1978,4
+20,Breakout,CX-2622,1978,4
+21,Canyon Bomber,CX-2607,1979,4
+22,Casino,CX-2652,1978,4
+23,Centipede,CX-2676,1982,4
+24,Circus Atari,CX-2630,1980,4
+25,Codebreaker,CX-2643,1978,4
+26,Combat,CX-2601,1977,4
+27,Concentration aka A Game of Concentration,CX-2642,1978,4
+28,Cookie Monster Munch,CX-26102,1983,4
+29,Crazy Climber,CX-2683,1982,4
+30,Crossbow,CX-26139,1987,4
+31,Crystal Castles,CX-26110,1983,4
+32,Dark Chambers,CX-26151,1988,4
+33,Defender,CX-2609,1982,4
+34,Defender II,CX-26120,1988,4
+35,Demons to Diamonds,CX-2615,1982,4
+36,Desert Falcon,CX-26140,1987,4
+37,Diagnostic Cartridge,TE-016643,,4
+38,Dig Dug,CX-2677,1983,4
+39,Dodge 'Em,CX-2637,1980,4
+40,Double Dunk,CX-26159,1989,4
+41,E.T. the Extra-Terrestrial,CX-2674,1982,4
+42,Fatal Run,CX-26162,1990,4
+43,Flag Capture,CX-2644,1978,4
+44,Football,CX-2625,1978,4
+45,Frog Pond,CX-2665,,4
+46,Galaxian,CX-2684,1983,4
+47,Golf,CX-2634,1980,4
+48,Gravitar,CX-2685,1983,4
+49,Gremlins,CX-26127,1984,4
+50,Hangman,CX-2662,1978,4
+51,Haunted House,CX-2654,1982,4
+52,Home Run,CX-2623,1978,4
+53,Human Cannonball,CX-2627,1979,4
+54,Hunt &amp; Score (see Concentration),CX-2642,1978,4
+55,Ikari Warriors,CX-26177,1989,4
+56,Indy 500,CX-2611,1977,4
+57,Joust,CX-2691,1983,4
+58,Jr. Pac-Man,CX-26123,1986,4
+59,Jungle Hunt,CX-2688,1983,4
+60,Kangaroo,CX-2689,1983,4
+61,Klax,CX-26192,1990,4
+62,Krull,CX-2682,1983,4
+63,Mario Bros.,CX-2697,1983,4
+64,Math Gran Prix,CX-2658,1982,4
+65,Maze Craze: A Game of Cops and Robbers,CX-2635,1978,4
+66,Midnight Magic,CX-26129,1986,4
+67,Millipede,CX-26118,1984,4
+68,Miniature Golf,CX-2626,1979,4
+69,Missile Command,CX-2638,1981,4
+70,Moon Patrol,CX-2692,1983,4
+71,MotoRodeo,CX-26171,1990,4
+72,Ms. Pac-Man,CX-2675,1983,4
+73,Night Driver,CX-2633,1978,4
+74,Obelix,CX-26117,1983,4
+75,Off the Wall,CX-26168,1989,4
+76,Oscar's Trash Race,CX-26101,1983,4
+77,Othello,CX-2639,1980,4
+78,Outlaw,CX-2605,1978,4
+79,Pac-Man,CX-2646,1982,4
+80,PelÃ©'s Soccer,CX-2616,1980,4
+81,Pengo,CX-2690,1984,4
+82,Pepsi Invaders,CX-2632H,1983,4
+83,Phoenix,CX-2673,1982,4
+84,Pigs in Space,CX-26114,1983,4
+85,Polo,CX-PROTO,1983,4
+86,Pole Position,CX-2694,1983,4
+87,Quadrun,CX-2686,1983,4
+88,Racing Pak,PRO-811,1982,4
+89,Radar Lock,CX-26176,1989,4
+90,Raiders of the Lost Ark,CX-2659,1982,4
+91,RealSports Baseball,CX-2640,1982,4
+92,RealSports Boxing,CX-26135,1987,4
+93,RealSports Football,CX-2668,1982,4
+94,RealSports Soccer,CX-2667,1983,4
+95,RealSports Tennis,CX-2680,1983,4
+96,RealSports Volleyball,CX-2666,1982,4
+97,Road Runner,CX-2663,1989,4
+98,Rubik's Cube,CX-2698,1983,4
+99,Secret Quest,CX-26170,1989,4
+100,Sentinel,CX-26183,1990,4
+101,Signal Tracing Cartridge,CX-,-,4
+102,Sky Diver,CX-2629,1979,4
+103,Slot Machine,CX-2653,1979,4
+104,Slot Racers,CX-2606,1978,4
+105,Snoopy and the Red Baron,CX-26111,1983,4
+106,Solaris,CX-26136,1986,4
+107,Sorcerer's Apprentice,CX-26109,1983,4
+108,Space Invaders,CX-2632,1980,4
+109,Space War,CX-2604,1978,4
+110,Sprintmaster,CX-26155,1988,4
+111,Stargate,CX-26120,1984,4
+112,Star Raiders,CX-2660,1982,4
+113,Star Ship,CX-2603,1977,4
+114,Steeplechase,CX-2614,1980,4
+115,Stellar Track,CX-2619,1981,4
+116,Street Racer,CX-2612,1977,4
+117,Submarine Commander,CX-2647,1982,4
+118,Super Baseball,CX-26152,1988,4
+119,Super Breakout,CX-2608,1978,4
+120,Super Football,CX-26154,1988,4
+121,Superman,CX-2631,1978,4
+122,Surround,CX-2641,1977,4
+123,Swordquest: Earthworld,CX-2656,1982,4
+124,Swordquest: Fireworld,CX-2657,1983,4
+125,Swordquest: Waterworld,CX-2671,1983,4
+126,Taz,CX-2699,1983,4
+127,Track &amp; Field,CX-26125,1983,4
+128,Vanguard,CX-2669,1982,4
+129,Video Checkers,CX-2636,1980,4
+130,Video Chess,CX-2645,1979,4
+131,Video Olympics,CX-2621,1977,4
+132,Video Pinball,CX-2648,1980,4
+133,Warlords,CX-2610,1981,4
+134,Xenophobe,CX-26172,1990,4
+135,Yars' Revenge,CX-2655,1982,4
+136,Acid Drop,,1992,4
+137,Actionauts,,2008,4
+138,The Activision Decathlon,,1983,4
+139,Adventures of Tron,,1982,4
+140,Airlock,,1982,4
+141,Air Raid,,1982,4
+142,Air Raiders,,1982,4
+143,Alien,,1982,4
+144,Alien's Return,,1983,4
+145,Amidar,,1982,4
+146,Armor Ambush,,1982,4
+147,Artillery Duel/Chuck Norris Superkicks,,1983,4
+148,Artillery Duel/Ghost Manor,,1983,4
+149,Artillery Duel/Spike's Peak,,1983,4
+150,Artillery Duel,,1983,4
+151,Assault,,1983,4
+152,Astroblast,,1982,4
+153,Atlantis,,1982,4
+154,Atlantis II,,1982,4
+155,Bachelor Party,,1982,4
+156,Bachelorette Party,,1982,4
+157,Bank Heist,,1983,4
+158,Barnstorming,,1982,4
+159,Beamrider,,1983,4
+160,Beany Bopper,,1982,4
+161,Beat Em and Eat Em,,1983,4
+162,Berenstain Bears,,1983,4
+163,Bermuda Triangle,,1982,4
+164,Birthday Mania,,1984,4
+165,Blue Print,,1983,4
+166,BMX Airmaster,,1989,4
+167,Bobby Is Going Home,,1983,4
+168,Boing!,,1983,4
+169,Boxing,,1980,4
+170,Bridge,,1981,4
+171,Buck Rogers: Planet of Zoom,,1983,4
+172,Bugs,,1982,4
+173,Bumper Bash,,1983,4
+174,Bump 'n' Jump,,1983,4
+175,BurgerTime,,1982,4
+176,Burning Desire,,1983,4
+177,Busy Police,,1983,4
+178,Cakewalk,,1983,4
+179,California Games,,1987,4
+180,Carnival,,1982,4
+181,Cathouse Blues,,1982,4
+182,Challenge,,,4
+183,Challenge of Nexar,,1982,4
+184,Chase the Chuck Wagon,,1983,4
+185,Checkers,,1981,4
+186,China Syndrome,,1983,4
+187,Chopper Command,,1982,4
+188,Chuck Norris Superkicks/Ghost Manor,,1983,4
+189,Chuck Norris Superkicks/Spike's Peak,,1983,4
+190,Chuck Norris Superkicks,,1983,4
+191,Coconuts,,1982,4
+192,Commando,,1988,4
+193,Commando Raid,,1982,4
+194,Communist Mutants from Space (Cassette),,1982,4
+195,Condor Attack,,1983,4
+196,Confrontation,,1983,4
+197,Congo Bongo,,1983,4
+198,Cosmic Ark,,1982,4
+199,Cosmic Commuter,,1984,4
+200,Cosmic Corridor,,1983,4
+201,Cosmic Creeps,,1982,4
+202,Cosmic Free Fire,,,4
+203,Cosmic Swarm,,1982,4
+204,Crab Control,,,4
+205,Crackpots,,1983,4
+206,Crash Dive,,1983,4
+207,Cross Force,,1983,4
+208,Cruise Missile,,1987,4
+209,Crypts of Chaos,,1982,4
+210,Cubicolor,,1982,4
+211,Custer's Revenge,,1982,4
+212,Dancing Plate,,1982,4
+213,Dark Cavern,,1982,4
+214,Deadly Discs,,1983,4
+215,Deadly Duck,,1982,4
+216,Death Trap,,1983,4
+217,Demolition Herby,,1983,4
+218,Demon Attack,,1982,4
+219,Dice Puzzle,,1983,4
+220,Dishaster,,1983,4
+221,Dolphin,,1983,4
+222,Donkey Kong,,1982,4
+223,Donkey Kong Junior,,1983,4
+224,Double Dragon,,1989,4
+225,Dragon Treasure,,,4
+226,Dragonfire,,1982,4
+227,Dragonstomper (cassette),,1982,4
+228,Dumbo's Flying Circus,,1983,4
+229,Dragster,,1980,4
+230,Earth Dies Screaming,,1982,4
+231,Earth Attack,,,4
+232,"Eddy Langfinger, der Museumsdieb",,1983,4
+233,Eggomania,,1982,4
+234,Eli's Ladder,,1982,4
+235,Encounter at L-5,,1982,4
+236,Enduro,,1983,4
+237,Entombed,,1982,4
+238,Escape From The Mindmaster (Cassette),,1982,4
+239,Espial,,1984,4
+240,Exocet,,1983,4
+241,Exocet Missile,,,4
+242,Extra Terrestrials,,1984,4
+243,Fantastic Voyage,,1982,4
+244,Farmer Dan,,,4
+245,Fast Eddie,,1982,4
+246,Fast Food,,1982,4
+247,Fathom,,1983,4
+248,Fighter Pilot,,,4
+249,Final Approach,,1982,4
+250,Fireball (cassette),,1982,4
+251,Fire Fighter,,1982,4
+252,Fire Fly,,1983,4
+253,Fisher Price,,,4
+254,Fishing Derby,,1980,4
+255,Flash Gordon,,1983,4
+256,Frankenstein's Monster,,1983,4
+257,Freeway,,1981,4
+258,Frogger,,1982,4
+259,Frogs and Flies,,1982,4
+260,The Official Frogger (cassette),,1983,4
+261,Frogger II: Threeedeep!,,1984,4
+262,Front Line,,1984,4
+263,Frostbite,,1983,4
+264,Gamma-Attack,,1983,4
+265,Gangster Alley,,1983,4
+266,Gas Hog,,1983,4
+267,Gauntlet,,1983,4
+268,Ghostbusters,,1985,4
+269,Ghostbusters II,,1990/1992,4
+270,Ghost Manor/Spike's Peak,,1983,4
+271,Ghost Manor,,1983,4
+272,G.I. Joe: Cobra Strike,,1983,4
+273,Gigolo,,1982,4
+274,Glacier Patrol,,1983,4
+275,Glib,,1983,4
+276,Gopher,,1982,4
+277,Gorf,,1982,4
+278,Grand Prix,,1982,4
+279,Great Escape,,1983,4
+280,Guardian,,1982,4
+281,Gyruss,,1984,4
+282,Halloween,,1983,4
+283,Harbor Escape,,1983,4
+284,H.E.R.O.,,1984,4
+285,I Want My Mommy,,1983,4
+286,Ice Hockey,,1981,4
+287,Inca Gold,,,4
+288,Infiltrate,,1982,4
+289,International Soccer,,1982,4
+290,James Bond 007,,1983,4
+291,Jawbreaker,,1982,4
+292,Journey Escape,,1982,4
+293,Jungle Fever,,1982,4
+294,Kaboom!,,1981,4
+295,Karate,,1982,4
+296,Keystone Kapers,,1983,4
+297,Killer Satellites (Cassette),,1982,4
+298,King Kong,,1982,4
+299,Knight on the Town,,1982,4
+300,Kool-Aid Man,,1983,4
+301,Kung-Fu Master,,1987,4
+302,Lady in Wading,,1982,4
+303,Laser Blast,,1981,4
+304,Laser Gates,,1983,4
+305,Laser Volley,,1983,4
+306,Lochjaw,,1982,4
+307,Lock 'n' Chase,,1982,4
+308,London Blitz,,1983,4
+309,Lost Luggage,,1982,4
+310,M.A.D.,,1982,4
+311,MagiCard,,1981,4
+312,Malagai,,1983,4
+313,Mangia,,1983,4
+314,Marauder,,1982,4
+315,Marine Wars,,1983,4
+316,M*A*S*H,,1982,4
+317,Master Builder,,1983,4
+318,Masters of the Universe: The Power of He-Man,,1983,4
+319,MegaBoy,,,4
+320,Mega Force,,1982,4
+321,Megamania,,1982,4
+322,Miner 2049er,,1983,4
+323,Miner 2049er II,,1982,4
+324,Mines of Minos,,1983,4
+325,Missile Control,,1983,4
+326,Mission 3000 A.D.,,1983,4
+327,Mission Survive,,1983,4
+328,Mogul Maniac,,1983,4
+329,Montezuma's Revenge: Starring Panama Joe,,1984,4
+330,Moonsweeper,,1983,4
+331,Motocross,,1983,4
+332,Motocross Racer,,1984,4
+333,Mountain King,,1983,4
+334,Mouse Trap,,1982,4
+335,Mr. Do!,,1983,4
+336,Mr. Do's Castle,,1984,4
+337,Mr. Postman,,1983,4
+338,The Music Machine,,1983,4
+339,My Golf,,1990,4
+340,Name This Game,,1982,4
+341,Nightmare,,1983,4
+342,Night Stalker,,1989,4
+343,No Escape!,,1983,4
+344,Nuts,,1983,4
+345,Ocean City Defender,,,4
+346,Off Your Rocker,,1983,4
+347,Oink!,,1983,4
+348,Omega Race,,1983,4
+349,Open Sesame,,1983,4
+350,Out of Control,,1983,4
+351,Pac-Kong,,1983,4
+352,Panda Chase,,,4
+353,Parachute,,1983,4
+354,Party Mix (cassette),,1983,4
+355,Pete Rose Baseball,,1988,4
+356,Phantom Tank,,,4
+357,Phantom-Panzer,,1983,4
+358,Phaser Patrol (cassette),,1982,4
+359,Philly Flasher,,1982,4
+360,Pick 'n Pile,,1990,4
+361,Pick Up,,2002,4
+362,Picnic,,1983,4
+363,Piece o' Cake,,1983,4
+364,Pinball,,,4
+365,Piraten-Schiff,,,4
+366,Pitfall!,,1982,4
+367,Pitfall II: Lost Caverns,,1984,4
+368,Planet Patrol,,1983,4
+369,Planeten Patrouile,,,4
+370,Plaque Attack,,1983,4
+371,Polaris,,1982,4
+372,Pooyan,,1983,4
+373,Popeye,,1983,4
+374,Porky's,,1983,4
+375,Pressure Cooker,,1983,4
+376,Private Eye,,1983,4
+377,Pyramid War,,,4
+378,Q*bert,,1983,4
+379,Q*bert's Qubes,,1984,4
+380,Quest for Quintana Roo,,1983,4
+381,Quick Step,,1983,4
+382,Rabbit Transit (cassette),,1983,4
+383,Racquetball,,1981,4
+384,Radar,,,4
+385,Raft Rider,,1983,4
+386,Ram It,,1983,4
+387,Rampage,,1989,4
+388,Reactor,,1982,4
+389,Red Sea Crossing,,1983,4
+390,Rescue Terra 1,,1982,4
+391,Revenge of the Beefsteak Tomatoes,,1983,4
+392,Riddle of the Sphinx,,1982,4
+393,River Patrol,,1984,4
+394,River Raid,,1982,4
+395,River Raid II,,1988,4
+396,Robin Hood/Sir Lancelot - The Joust,,1983,4
+397,Robin Hood,,1983,4
+398,Robot Commando Raid,,,4
+399,Robot Tank,,1983,4
+400,Roc 'N Rope,,1984,4
+401,Room of Doom,,1982,4
+402,Save Our Ship,,,4
+403,Save the Whales,,1983,4
+404,Scraper Caper,,,4
+405,Scuba Diver,,,4
+406,Sea Hawk,,1988,4
+407,Seahawk,,1982,4
+408,Seamonster,,1982,4
+409,Seaquest,,1983,4
+410,Shark Attack,,1982,4
+411,Shootin' Gallery,,1983,4
+412,Shuttle Orbiter,,1983,4
+413,Sir Lancelot,,1983,4
+414,Skate Boardin': A Radical Adventure,,1987,4
+415,Skeet Shoot,,1981,4
+416,Skiing,,1980,4
+417,Sky Jinks,,1982,4
+418,Sky Skipper,,1983,4
+419,Smurf: Rescue in Gargamel's Castle,,1982,4
+420,Snail Against Squirrel,,1983,4
+421,Sneak 'N Peek,,1982,4
+422,Solar Fox,,1983,4
+423,Solar Storm,,1983,4
+424,Sorcerer,,1983,4
+425,Space Adventure,,,4
+426,Space Attack,,1982,4
+427,Space Canyon,,1983,4
+428,Space Cavern,,1982,4
+429,Spacechase,,1981,4
+430,Space Grid,,,4
+431,Space Jockey,,1982,4
+432,Spacemaster X-7,,1983,4
+433,Space Shuttle: A Journey into Space,,1983,4
+434,Spiderdroid,,1987,4
+435,Spider Fighter,,1982,4
+436,Spider-Man,,1982,4
+437,Spider Maze,,,4
+438,Spike's Peak,,1983,4
+439,Spitfire Attack,,1983,4
+440,Springer,,1983,4
+441,Spy Hunter,,1984,4
+442,Squeeze Box,,1982,4
+443,Sssnake,,1982,4
+444,Stampede,,1981,4
+445,Star Fox,,1983,4
+446,Stargunner,,1982,4
+447,Starmaster,,1982,4
+448,Star Strike,,1982,4
+449,Star Trek: Strategic Operations Simulator,,1983,4
+450,Star Voyager,,1982,4
+451,Star Wars: The Arcade Game,,1984,4
+452,Star Wars: Jedi Arena,,1983,4
+453,Star Wars Return of the Jedi: Death Star Battle,,1983,4
+454,Star Wars: The Empire Strikes Back,,1982,4
+455,Strategy X,,1983,4
+456,Strawberry Shortcake: Musical Match-ups,,1983,4
+457,Stronghold,,1983,4
+458,Stunt Man,,1983,4
+459,Sub-Scan,,1983,4
+460,Subterranea,,1983,4
+461,Suicide Mission (cassette),,1982,4
+462,Summer Games,,1987,4
+463,Super Baumeister,,,4
+464,Super Challenge Baseball,,1982,4
+465,Super Challenge Football,,1982,4
+466,Super Cobra,,1983,4
+467,Surfer's Paradise: But Danger Below!,,1983,4
+468,Survival Island (cassette),,1983,4
+469,Survival Run,,1983,4
+470,Swedish Erotica: Bachelor Party,,1983,4
+471,Swedish Erotica: Beat' Em &amp; Eat 'Em,,1982,4
+472,Swedish Erotica: Custer's Revenge,,1983,4
+473,Sword of Saros (cassette),,1983,4
+474,Tac-Scan,,1983,4
+475,Tank Brigade,,1983,4
+476,Tank City,,,4
+477,Tanks But No Tanks,,1983,4
+478,Tapeworm,,1982,4
+479,Tapper,,1984,4
+480,Task Force,,1988,4
+481,Tax Avoiders,,1982,4
+482,Tennis,,1981,4
+483,The Texas Chainsaw Massacre,,1983,4
+484,The Smurfs Save the Day[13],,1983,4
+485,Threshold,,1983,4
+486,Thunderground,,1983,4
+487,Time Pilot,,1983,4
+488,Time Warp,,,4
+489,Title Match Pro Wrestling,,1987,4
+490,Tomarc The Barbarian,,1983,4
+491,Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator,,1988,4
+492,Tooth Protectors,,1983,4
+493,Towering Inferno,,1982,4
+494,Treasure Below,,,4
+495,Trick Shot,,1983,4
+496,Tron: Deadly Discs,,1982,4
+497,Tunnel Runner,,1983,4
+498,Turmoil,,1982,4
+499,Tutankham,,1983,4
+500,Universal Chaos,,1983,4
+501,Up'n Down,,1984,4
+502,Venture,,1982,4
+503,Video Jogger,,1983,4
+504,Video Life,,1981,4
+505,Video Reflex,,1983,4
+506,Vulture Attack,,,4
+507,Wabbit,,1982,4
+508,Wall Ball,,1983,4
+509,Wall Defender,,1983,4
+510,War Zone,,,4
+511,Warplock,,1982,4
+512,Weltraumtunnel (Space Tunnel),,1982,4
+513,Wing War,,1983,4
+514,Winter Games,,1987,4
+515,Wizard of Wor,,1982,4
+516,Word Zapper,,1982,4
+517,Worm War I,,1982,4
+518,X-man,,1983,4
+519,Z-Tack,,1983,4
+520,Zaxxon,,1982,4
+521,Zoo Fun,,,4
+136,2005 Minigame Multicart,,2005,4
+137,2048 2600,,2014,4
+138,A-VCS-tec Challenge,,2006,4
+139,Alfred Challenge,,1998,4
+140,Allia Quest,,2001,4
+141,Alien Greed,,2007,4
+142,Alien Greed 2,,2008,4
+143,Alien Greed 3,,2010,4
+144,Alien Greed 4,,2012,4
+145,Bee-Ball,,2007,4
+146,Bell Hopper,,2011,4
+147,Boulder Dash,,2011,4
+148,Climber 5,,2004,4
+149,Conquest of Mars,,2006,4
+150,Duck Attack!,,2010,4
+151,Edtris 2600,,1995,4
+152,Euchre,,2002,4
+153,Fall Down,,2005,4
+154,FlapPing,,2004,4
+155,Four-Play,,2006,4
+156,Go Fish!,,2005,4
+157,Gunfight,,2001,4
+158,Halo 2600,,2010,4
+159,Hunchy II,,2005,4
+160,Jammed,,2001,4
+161,Juno First,,2009,4
+162,K.O. Cruiser,,2010,4
+163,Lady Bug,,2006,4
+164,Marble Craze,,2002,4
+165,Mean Santa,,2009,4
+166,Medieval Mayhem,,2006,4
+167,Okie Dokie,,1996,4
+168,Oystron,,1997,4
+169,Pesco,,1999,4
+170,Pressure Gauge,,1999,4
+171,Qb,,2001,4
+172,SCSIcide,,2001,4
+173,Seawolf,,2004,4
+174,Skeleton+,,2003,4
+175,Snappy,,2012,4
+176,Sound X,,1994,4
+177,Space Rocks,,2013,4
+178,Space Treat Deluxe,,2003,4
+179,Space Instigators,,2002,4
+180,Squish 'Em,,2007,4
+181,Star Fire,,2003,4
+182,Stay Frosty,,2007,4
+183,Stay Frosty 2,,2014,4
+184,Stell-A-Sketch/Okie Dokie,,1997,4
+185,Strat-O-Gems Deluxe,,2005,4
+186,SWOOPS!,,2005,4
+187,Synthcart,,2002,4
+188,The Wicked Father,,2011,4
+189,Thrust,,2000,4
+190,Toyshop Trouble,,2007,4
+191,Turbo,,2010,4
+192,Vault Assault,,2001,4
+193,Vong,,2008,4
+194,Warring Worms,,2002,4
