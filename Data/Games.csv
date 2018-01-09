@@ -1,1473 +1,2154 @@
-﻿Id,Name,Title ID,Release Date,Platform ID,
-0,32 in 1,CX-26163,1988,4,
-1,3-D Tic-Tac-Toe,CX-2618,1980,4,
-2,Action Pak,PRO-810,1981,4,
-3,Adventure,CX-2613,1979,4,
-4,Air-Sea Battle,CX-2602,1977,4,
-5,Alpha Beam with Ernie,CX-26103,1983,4,
-6,Asterix,CX-2696,1983,4,
-7,Asteroids,CX-2649,1981,4,
-8,Atari Video Cube,CX-2670,1982,4,
-9,Backgammon,CX-2617,1979,4,
-10,Back To School Pak,PRO-812,1978,4,
-11,Basic Math AKA Fun With Numbers,CX-2661,1977,4,
-12,Basic Programming,CX-2620,1979,4,
-13,Basketball,CX-2624,1978,4,
-14,Battlezone,CX-2681,1983,4,
-15,Berzerk,CX-2650,1982,4,
-16,Big Bird's Egg Catch,CX-26104,1983,4,
-17,Blackjack,CX-2651,1977,4,
-18,Bowling,CX-2628,1979,4,
-19,Brain Games,CX-2664,1978,4,
-20,Breakout,CX-2622,1978,4,
-21,Canyon Bomber,CX-2607,1979,4,
-22,Casino,CX-2652,1978,4,
-23,Centipede,CX-2676,1982,4,
-24,Circus Atari,CX-2630,1980,4,
-25,Codebreaker,CX-2643,1978,4,
-26,Combat,CX-2601,1977,4,
-27,Concentration aka A Game of Concentration,CX-2642,1978,4,
-28,Cookie Monster Munch,CX-26102,1983,4,
-29,Crazy Climber,CX-2683,1982,4,
-30,Crossbow,CX-26139,1987,4,
-31,Crystal Castles,CX-26110,1983,4,
-32,Dark Chambers,CX-26151,1988,4,
-33,Defender,CX-2609,1982,4,
-34,Defender II,CX-26120,1988,4,
-35,Demons to Diamonds,CX-2615,1982,4,
-36,Desert Falcon,CX-26140,1987,4,
-37,Diagnostic Cartridge,TE-016643,,4,
-38,Dig Dug,CX-2677,1983,4,
-39,Dodge 'Em,CX-2637,1980,4,
-40,Double Dunk,CX-26159,1989,4,
-41,E.T. the Extra-Terrestrial,CX-2674,1982,4,
-42,Fatal Run,CX-26162,1990,4,
-43,Flag Capture,CX-2644,1978,4,
-44,Football,CX-2625,1978,4,
-45,Frog Pond,CX-2665,,4,
-46,Galaxian,CX-2684,1983,4,
-47,Golf,CX-2634,1980,4,
-48,Gravitar,CX-2685,1983,4,
-49,Gremlins,CX-26127,1984,4,
-50,Hangman,CX-2662,1978,4,
-51,Haunted House,CX-2654,1982,4,
-52,Home Run,CX-2623,1978,4,
-53,Human Cannonball,CX-2627,1979,4,
-54,Hunt &amp; Score (see Concentration),CX-2642,1978,4,
-55,Ikari Warriors,CX-26177,1989,4,
-56,Indy 500,CX-2611,1977,4,
-57,Joust,CX-2691,1983,4,
-58,Jr. Pac-Man,CX-26123,1986,4,
-59,Jungle Hunt,CX-2688,1983,4,
-60,Kangaroo,CX-2689,1983,4,
-61,Klax,CX-26192,1990,4,
-62,Krull,CX-2682,1983,4,
-63,Mario Bros.,CX-2697,1983,4,
-64,Math Gran Prix,CX-2658,1982,4,
-65,Maze Craze: A Game of Cops and Robbers,CX-2635,1978,4,
-66,Midnight Magic,CX-26129,1986,4,
-67,Millipede,CX-26118,1984,4,
-68,Miniature Golf,CX-2626,1979,4,
-69,Missile Command,CX-2638,1981,4,
-70,Moon Patrol,CX-2692,1983,4,
-71,MotoRodeo,CX-26171,1990,4,
-72,Ms. Pac-Man,CX-2675,1983,4,
-73,Night Driver,CX-2633,1978,4,
-74,Obelix,CX-26117,1983,4,
-75,Off the Wall,CX-26168,1989,4,
-76,Oscar's Trash Race,CX-26101,1983,4,
-77,Othello,CX-2639,1980,4,
-78,Outlaw,CX-2605,1978,4,
-79,Pac-Man,CX-2646,1982,4,
-80,PelÃ©'s Soccer,CX-2616,1980,4,
-81,Pengo,CX-2690,1984,4,
-82,Pepsi Invaders,CX-2632H,1983,4,
-83,Phoenix,CX-2673,1982,4,
-84,Pigs in Space,CX-26114,1983,4,
-85,Polo,CX-PROTO,1983,4,
-86,Pole Position,CX-2694,1983,4,
-87,Quadrun,CX-2686,1983,4,
-88,Racing Pak,PRO-811,1982,4,
-89,Radar Lock,CX-26176,1989,4,
-90,Raiders of the Lost Ark,CX-2659,1982,4,
-91,RealSports Baseball,CX-2640,1982,4,
-92,RealSports Boxing,CX-26135,1987,4,
-93,RealSports Football,CX-2668,1982,4,
-94,RealSports Soccer,CX-2667,1983,4,
-95,RealSports Tennis,CX-2680,1983,4,
-96,RealSports Volleyball,CX-2666,1982,4,
-97,Road Runner,CX-2663,1989,4,
-98,Rubik's Cube,CX-2698,1983,4,
-99,Secret Quest,CX-26170,1989,4,
-100,Sentinel,CX-26183,1990,4,
-101,Signal Tracing Cartridge,CX-,-,4,
-102,Sky Diver,CX-2629,1979,4,
-103,Slot Machine,CX-2653,1979,4,
-104,Slot Racers,CX-2606,1978,4,
-105,Snoopy and the Red Baron,CX-26111,1983,4,
-106,Solaris,CX-26136,1986,4,
-107,Sorcerer's Apprentice,CX-26109,1983,4,
-108,Space Invaders,CX-2632,1980,4,
-109,Space War,CX-2604,1978,4,
-110,Sprintmaster,CX-26155,1988,4,
-111,Stargate,CX-26120,1984,4,
-112,Star Raiders,CX-2660,1982,4,
-113,Star Ship,CX-2603,1977,4,
-114,Steeplechase,CX-2614,1980,4,
-115,Stellar Track,CX-2619,1981,4,
-116,Street Racer,CX-2612,1977,4,
-117,Submarine Commander,CX-2647,1982,4,
-118,Super Baseball,CX-26152,1988,4,
-119,Super Breakout,CX-2608,1978,4,
-120,Super Football,CX-26154,1988,4,
-121,Superman,CX-2631,1978,4,
-122,Surround,CX-2641,1977,4,
-123,Swordquest: Earthworld,CX-2656,1982,4,
-124,Swordquest: Fireworld,CX-2657,1983,4,
-125,Swordquest: Waterworld,CX-2671,1983,4,
-126,Taz,CX-2699,1983,4,
-127,Track &amp; Field,CX-26125,1983,4,
-128,Vanguard,CX-2669,1982,4,
-129,Video Checkers,CX-2636,1980,4,
-130,Video Chess,CX-2645,1979,4,
-131,Video Olympics,CX-2621,1977,4,
-132,Video Pinball,CX-2648,1980,4,
-133,Warlords,CX-2610,1981,4,
-134,Xenophobe,CX-26172,1990,4,
-135,Yars' Revenge,CX-2655,1982,4,
-136,Acid Drop,,1992,4,
-137,Actionauts,,2008,4,
-138,The Activision Decathlon,,1983,4,
-139,Adventures of Tron,,1982,4,
-140,Airlock,,1982,4,
-141,Air Raid,,1982,4,
-142,Air Raiders,,1982,4,
-143,Alien,,1982,4,
-144,Alien's Return,,1983,4,
-145,Amidar,,1982,4,
-146,Armor Ambush,,1982,4,
-147,Artillery Duel/Chuck Norris Superkicks,,1983,4,
-148,Artillery Duel/Ghost Manor,,1983,4,
-149,Artillery Duel/Spike's Peak,,1983,4,
-150,Artillery Duel,,1983,4,
-151,Assault,,1983,4,
-152,Astroblast,,1982,4,
-153,Atlantis,,1982,4,
-154,Atlantis II,,1982,4,
-155,Bachelor Party,,1982,4,
-156,Bachelorette Party,,1982,4,
-157,Bank Heist,,1983,4,
-158,Barnstorming,,1982,4,
-159,Beamrider,,1983,4,
-160,Beany Bopper,,1982,4,
-161,Beat Em and Eat Em,,1983,4,
-162,Berenstain Bears,,1983,4,
-163,Bermuda Triangle,,1982,4,
-164,Birthday Mania,,1984,4,
-165,Blue Print,,1983,4,
-166,BMX Airmaster,,1989,4,
-167,Bobby Is Going Home,,1983,4,
-168,Boing!,,1983,4,
-169,Boxing,,1980,4,
-170,Bridge,,1981,4,
-171,Buck Rogers: Planet of Zoom,,1983,4,
-172,Bugs,,1982,4,
-173,Bumper Bash,,1983,4,
-174,Bump 'n' Jump,,1983,4,
-175,BurgerTime,,1982,4,
-176,Burning Desire,,1983,4,
-177,Busy Police,,1983,4,
-178,Cakewalk,,1983,4,
-179,California Games,,1987,4,
-180,Carnival,,1982,4,
-181,Cathouse Blues,,1982,4,
-182,Challenge,,,4,
-183,Challenge of Nexar,,1982,4,
-184,Chase the Chuck Wagon,,1983,4,
-185,Checkers,,1981,4,
-186,China Syndrome,,1983,4,
-187,Chopper Command,,1982,4,
-188,Chuck Norris Superkicks/Ghost Manor,,1983,4,
-189,Chuck Norris Superkicks/Spike's Peak,,1983,4,
-190,Chuck Norris Superkicks,,1983,4,
-191,Coconuts,,1982,4,
-192,Commando,,1988,4,
-193,Commando Raid,,1982,4,
-194,Communist Mutants from Space (Cassette),,1982,4,
-195,Condor Attack,,1983,4,
-196,Confrontation,,1983,4,
-197,Congo Bongo,,1983,4,
-198,Cosmic Ark,,1982,4,
-199,Cosmic Commuter,,1984,4,
-200,Cosmic Corridor,,1983,4,
-201,Cosmic Creeps,,1982,4,
-202,Cosmic Free Fire,,,4,
-203,Cosmic Swarm,,1982,4,
-204,Crab Control,,,4,
-205,Crackpots,,1983,4,
-206,Crash Dive,,1983,4,
-207,Cross Force,,1983,4,
-208,Cruise Missile,,1987,4,
-209,Crypts of Chaos,,1982,4,
-210,Cubicolor,,1982,4,
-211,Custer's Revenge,,1982,4,
-212,Dancing Plate,,1982,4,
-213,Dark Cavern,,1982,4,
-214,Deadly Discs,,1983,4,
-215,Deadly Duck,,1982,4,
-216,Death Trap,,1983,4,
-217,Demolition Herby,,1983,4,
-218,Demon Attack,,1982,4,
-219,Dice Puzzle,,1983,4,
-220,Dishaster,,1983,4,
-221,Dolphin,,1983,4,
-222,Donkey Kong,,1982,4,
-223,Donkey Kong Junior,,1983,4,
-224,Double Dragon,,1989,4,
-225,Dragon Treasure,,,4,
-226,Dragonfire,,1982,4,
-227,Dragonstomper (cassette),,1982,4,
-228,Dumbo's Flying Circus,,1983,4,
-229,Dragster,,1980,4,
-230,Earth Dies Screaming,,1982,4,
-231,Earth Attack,,,4,
-232,"Eddy Langfinger, der Museumsdieb",,1983,4,
-233,Eggomania,,1982,4,
-234,Eli's Ladder,,1982,4,
-235,Encounter at L-5,,1982,4,
-236,Enduro,,1983,4,
-237,Entombed,,1982,4,
-238,Escape From The Mindmaster (Cassette),,1982,4,
-239,Espial,,1984,4,
-240,Exocet,,1983,4,
-241,Exocet Missile,,,4,
-242,Extra Terrestrials,,1984,4,
-243,Fantastic Voyage,,1982,4,
-244,Farmer Dan,,,4,
-245,Fast Eddie,,1982,4,
-246,Fast Food,,1982,4,
-247,Fathom,,1983,4,
-248,Fighter Pilot,,,4,
-249,Final Approach,,1982,4,
-250,Fireball (cassette),,1982,4,
-251,Fire Fighter,,1982,4,
-252,Fire Fly,,1983,4,
-253,Fisher Price,,,4,
-254,Fishing Derby,,1980,4,
-255,Flash Gordon,,1983,4,
-256,Frankenstein's Monster,,1983,4,
-257,Freeway,,1981,4,
-258,Frogger,,1982,4,
-259,Frogs and Flies,,1982,4,
-260,The Official Frogger (cassette),,1983,4,
-261,Frogger II: Threeedeep!,,1984,4,
-262,Front Line,,1984,4,
-263,Frostbite,,1983,4,
-264,Gamma-Attack,,1983,4,
-265,Gangster Alley,,1983,4,
-266,Gas Hog,,1983,4,
-267,Gauntlet,,1983,4,
-268,Ghostbusters,,1985,4,
-269,Ghostbusters II,,1990/1992,4,
-270,Ghost Manor/Spike's Peak,,1983,4,
-271,Ghost Manor,,1983,4,
-272,G.I. Joe: Cobra Strike,,1983,4,
-273,Gigolo,,1982,4,
-274,Glacier Patrol,,1983,4,
-275,Glib,,1983,4,
-276,Gopher,,1982,4,
-277,Gorf,,1982,4,
-278,Grand Prix,,1982,4,
-279,Great Escape,,1983,4,
-280,Guardian,,1982,4,
-281,Gyruss,,1984,4,
-282,Halloween,,1983,4,
-283,Harbor Escape,,1983,4,
-284,H.E.R.O.,,1984,4,
-285,I Want My Mommy,,1983,4,
-286,Ice Hockey,,1981,4,
-287,Inca Gold,,,4,
-288,Infiltrate,,1982,4,
-289,International Soccer,,1982,4,
-290,James Bond 007,,1983,4,
-291,Jawbreaker,,1982,4,
-292,Journey Escape,,1982,4,
-293,Jungle Fever,,1982,4,
-294,Kaboom!,,1981,4,
-295,Karate,,1982,4,
-296,Keystone Kapers,,1983,4,
-297,Killer Satellites (Cassette),,1982,4,
-298,King Kong,,1982,4,
-299,Knight on the Town,,1982,4,
-300,Kool-Aid Man,,1983,4,
-301,Kung-Fu Master,,1987,4,
-302,Lady in Wading,,1982,4,
-303,Laser Blast,,1981,4,
-304,Laser Gates,,1983,4,
-305,Laser Volley,,1983,4,
-306,Lochjaw,,1982,4,
-307,Lock 'n' Chase,,1982,4,
-308,London Blitz,,1983,4,
-309,Lost Luggage,,1982,4,
-310,M.A.D.,,1982,4,
-311,MagiCard,,1981,4,
-312,Malagai,,1983,4,
-313,Mangia,,1983,4,
-314,Marauder,,1982,4,
-315,Marine Wars,,1983,4,
-316,M*A*S*H,,1982,4,
-317,Master Builder,,1983,4,
-318,Masters of the Universe: The Power of He-Man,,1983,4,
-319,MegaBoy,,,4,
-320,Mega Force,,1982,4,
-321,Megamania,,1982,4,
-322,Miner 2049er,,1983,4,
-323,Miner 2049er II,,1982,4,
-324,Mines of Minos,,1983,4,
-325,Missile Control,,1983,4,
-326,Mission 3000 A.D.,,1983,4,
-327,Mission Survive,,1983,4,
-328,Mogul Maniac,,1983,4,
-329,Montezuma's Revenge: Starring Panama Joe,,1984,4,
-330,Moonsweeper,,1983,4,
-331,Motocross,,1983,4,
-332,Motocross Racer,,1984,4,
-333,Mountain King,,1983,4,
-334,Mouse Trap,,1982,4,
-335,Mr. Do!,,1983,4,
-336,Mr. Do's Castle,,1984,4,
-337,Mr. Postman,,1983,4,
-338,The Music Machine,,1983,4,
-339,My Golf,,1990,4,
-340,Name This Game,,1982,4,
-341,Nightmare,,1983,4,
-342,Night Stalker,,1989,4,
-343,No Escape!,,1983,4,
-344,Nuts,,1983,4,
-345,Ocean City Defender,,,4,
-346,Off Your Rocker,,1983,4,
-347,Oink!,,1983,4,
-348,Omega Race,,1983,4,
-349,Open Sesame,,1983,4,
-350,Out of Control,,1983,4,
-351,Pac-Kong,,1983,4,
-352,Panda Chase,,,4,
-353,Parachute,,1983,4,
-354,Party Mix (cassette),,1983,4,
-355,Pete Rose Baseball,,1988,4,
-356,Phantom Tank,,,4,
-357,Phantom-Panzer,,1983,4,
-358,Phaser Patrol (cassette),,1982,4,
-359,Philly Flasher,,1982,4,
-360,Pick 'n Pile,,1990,4,
-361,Pick Up,,2002,4,
-362,Picnic,,1983,4,
-363,Piece o' Cake,,1983,4,
-364,Pinball,,,4,
-365,Piraten-Schiff,,,4,
-366,Pitfall!,,1982,4,
-367,Pitfall II: Lost Caverns,,1984,4,
-368,Planet Patrol,,1983,4,
-369,Planeten Patrouile,,,4,
-370,Plaque Attack,,1983,4,
-371,Polaris,,1982,4,
-372,Pooyan,,1983,4,
-373,Popeye,,1983,4,
-374,Porky's,,1983,4,
-375,Pressure Cooker,,1983,4,
-376,Private Eye,,1983,4,
-377,Pyramid War,,,4,
-378,Q*bert,,1983,4,
-379,Q*bert's Qubes,,1984,4,
-380,Quest for Quintana Roo,,1983,4,
-381,Quick Step,,1983,4,
-382,Rabbit Transit (cassette),,1983,4,
-383,Racquetball,,1981,4,
-384,Radar,,,4,
-385,Raft Rider,,1983,4,
-386,Ram It,,1983,4,
-387,Rampage,,1989,4,
-388,Reactor,,1982,4,
-389,Red Sea Crossing,,1983,4,
-390,Rescue Terra 1,,1982,4,
-391,Revenge of the Beefsteak Tomatoes,,1983,4,
-392,Riddle of the Sphinx,,1982,4,
-393,River Patrol,,1984,4,
-394,River Raid,,1982,4,
-395,River Raid II,,1988,4,
-396,Robin Hood/Sir Lancelot - The Joust,,1983,4,
-397,Robin Hood,,1983,4,
-398,Robot Commando Raid,,,4,
-399,Robot Tank,,1983,4,
-400,Roc 'N Rope,,1984,4,
-401,Room of Doom,,1982,4,
-402,Save Our Ship,,,4,
-403,Save the Whales,,1983,4,
-404,Scraper Caper,,,4,
-405,Scuba Diver,,,4,
-406,Sea Hawk,,1988,4,
-407,Seahawk,,1982,4,
-408,Seamonster,,1982,4,
-409,Seaquest,,1983,4,
-410,Shark Attack,,1982,4,
-411,Shootin' Gallery,,1983,4,
-412,Shuttle Orbiter,,1983,4,
-413,Sir Lancelot,,1983,4,
-414,Skate Boardin': A Radical Adventure,,1987,4,
-415,Skeet Shoot,,1981,4,
-416,Skiing,,1980,4,
-417,Sky Jinks,,1982,4,
-418,Sky Skipper,,1983,4,
-419,Smurf: Rescue in Gargamel's Castle,,1982,4,
-420,Snail Against Squirrel,,1983,4,
-421,Sneak 'N Peek,,1982,4,
-422,Solar Fox,,1983,4,
-423,Solar Storm,,1983,4,
-424,Sorcerer,,1983,4,
-425,Space Adventure,,,4,
-426,Space Attack,,1982,4,
-427,Space Canyon,,1983,4,
-428,Space Cavern,,1982,4,
-429,Spacechase,,1981,4,
-430,Space Grid,,,4,
-431,Space Jockey,,1982,4,
-432,Spacemaster X-7,,1983,4,
-433,Space Shuttle: A Journey into Space,,1983,4,
-434,Spiderdroid,,1987,4,
-435,Spider Fighter,,1982,4,
-436,Spider-Man,,1982,4,
-437,Spider Maze,,,4,
-438,Spike's Peak,,1983,4,
-439,Spitfire Attack,,1983,4,
-440,Springer,,1983,4,
-441,Spy Hunter,,1984,4,
-442,Squeeze Box,,1982,4,
-443,Sssnake,,1982,4,
-444,Stampede,,1981,4,
-445,Star Fox,,1983,4,
-446,Stargunner,,1982,4,
-447,Starmaster,,1982,4,
-448,Star Strike,,1982,4,
-449,Star Trek: Strategic Operations Simulator,,1983,4,
-450,Star Voyager,,1982,4,
-451,Star Wars: The Arcade Game,,1984,4,
-452,Star Wars: Jedi Arena,,1983,4,
-453,Star Wars Return of the Jedi: Death Star Battle,,1983,4,
-454,Star Wars: The Empire Strikes Back,,1982,4,
-455,Strategy X,,1983,4,
-456,Strawberry Shortcake: Musical Match-ups,,1983,4,
-457,Stronghold,,1983,4,
-458,Stunt Man,,1983,4,
-459,Sub-Scan,,1983,4,
-460,Subterranea,,1983,4,
-461,Suicide Mission (cassette),,1982,4,
-462,Summer Games,,1987,4,
-463,Super Baumeister,,,4,
-464,Super Challenge Baseball,,1982,4,
-465,Super Challenge Football,,1982,4,
-466,Super Cobra,,1983,4,
-467,Surfer's Paradise: But Danger Below!,,1983,4,
-468,Survival Island (cassette),,1983,4,
-469,Survival Run,,1983,4,
-470,Swedish Erotica: Bachelor Party,,1983,4,
-471,Swedish Erotica: Beat' Em &amp; Eat 'Em,,1982,4,
-472,Swedish Erotica: Custer's Revenge,,1983,4,
-473,Sword of Saros (cassette),,1983,4,
-474,Tac-Scan,,1983,4,
-475,Tank Brigade,,1983,4,
-476,Tank City,,,4,
-477,Tanks But No Tanks,,1983,4,
-478,Tapeworm,,1982,4,
-479,Tapper,,1984,4,
-480,Task Force,,1988,4,
-481,Tax Avoiders,,1982,4,
-482,Tennis,,1981,4,
-483,The Texas Chainsaw Massacre,,1983,4,
-484,The Smurfs Save the Day[13],,1983,4,
-485,Threshold,,1983,4,
-486,Thunderground,,1983,4,
-487,Time Pilot,,1983,4,
-488,Time Warp,,,4,
-489,Title Match Pro Wrestling,,1987,4,
-490,Tomarc The Barbarian,,1983,4,
-491,Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator,,1988,4,
-492,Tooth Protectors,,1983,4,
-493,Towering Inferno,,1982,4,
-494,Treasure Below,,,4,
-495,Trick Shot,,1983,4,
-496,Tron: Deadly Discs,,1982,4,
-497,Tunnel Runner,,1983,4,
-498,Turmoil,,1982,4,
-499,Tutankham,,1983,4,
-500,Universal Chaos,,1983,4,
-501,Up'n Down,,1984,4,
-502,Venture,,1982,4,
-503,Video Jogger,,1983,4,
-504,Video Life,,1981,4,
-505,Video Reflex,,1983,4,
-506,Vulture Attack,,,4,
-507,Wabbit,,1982,4,
-508,Wall Ball,,1983,4,
-509,Wall Defender,,1983,4,
-510,War Zone,,,4,
-511,Warplock,,1982,4,
-512,Weltraumtunnel (Space Tunnel),,1982,4,
-513,Wing War,,1983,4,
-514,Winter Games,,1987,4,
-515,Wizard of Wor,,1982,4,
-516,Word Zapper,,1982,4,
-517,Worm War I,,1982,4,
-518,X-man,,1983,4,
-519,Z-Tack,,1983,4,
-520,Zaxxon,,1982,4,
-521,Zoo Fun,,,4,
-522,2005 Minigame Multicart,,2005,4,
-523,2048 2600,,2014,4,
-524,A-VCS-tec Challenge,,2006,4,
-525,Alfred Challenge,,1998,4,
-526,Allia Quest,,2001,4,
-527,Alien Greed,,2007,4,
-528,Alien Greed 2,,2008,4,
-529,Alien Greed 3,,2010,4,
-530,Alien Greed 4,,2012,4,
-531,Bee-Ball,,2007,4,
-532,Bell Hopper,,2011,4,
-533,Boulder Dash,,2011,4,
-534,Climber 5,,2004,4,
-535,Conquest of Mars,,2006,4,
-536,Duck Attack!,,2010,4,
-537,Edtris 2600,,1995,4,
-538,Euchre,,2002,4,
-539,Fall Down,,2005,4,
-540,FlapPing,,2004,4,
-541,Four-Play,,2006,4,
-542,Go Fish!,,2005,4,
-543,Gunfight,,2001,4,
-544,Halo 2600,,2010,4,
-545,Hunchy II,,2005,4,
-546,Jammed,,2001,4,
-547,Juno First,,2009,4,
-548,K.O. Cruiser,,2010,4,
-549,Lady Bug,,2006,4,
-550,Marble Craze,,2002,4,
-551,Mean Santa,,2009,4,
-552,Medieval Mayhem,,2006,4,
-553,Okie Dokie,,1996,4,
-554,Oystron,,1997,4,
-555,Pesco,,1999,4,
-556,Pressure Gauge,,1999,4,
-557,Qb,,2001,4,
-558,SCSIcide,,2001,4,
-559,Seawolf,,2004,4,
-560,Skeleton+,,2003,4,
-561,Snappy,,2012,4,
-562,Sound X,,1994,4,
-563,Space Rocks,,2013,4,
-564,Space Treat Deluxe,,2003,4,
-565,Space Instigators,,2002,4,
-566,Squish 'Em,,2007,4,
-567,Star Fire,,2003,4,
-568,Stay Frosty,,2007,4,
-569,Stay Frosty 2,,2014,4,
-570,Stell-A-Sketch/Okie Dokie,,1997,4,
-571,Strat-O-Gems Deluxe,,2005,4,
-572,SWOOPS!,,2005,4,
-573,Synthcart,,2002,4,
-574,The Wicked Father,,2011,4,
-575,Thrust,,2000,4,
-576,Toyshop Trouble,,2007,4,
-577,Turbo,,2010,4,
-578,Vault Assault,,2001,4,
-579,Vong,,2008,4,
-580,Warring Worms,,2002,4,
-581,#IDARB,,1/30/2015,69,
-582,#KILLALLZOMBIES,,8/10/2016,69,
-583,'n Verlore Verstand,,4/21/2017,69,
-584,10 Second Ninja X,,7/19/2016,69,
-585,101 Ways To Die,,3/18/2016,69,
-586,10tons Adventure Puzzles Bundle,,11/25/2016,69,
-587,140,,8/30/2016,69,
-588,2Dark,,3/10/2017,69,
-589,30 Song Mega Pack,,12/5/2014,69,
-590,6180 the moon,,12/11/2015,69,
-591,7 Days to Die,,6/28/2016,69,
-592,88 Heroes,,3/24/2017,69,
-593,8DAYS,,2/7/2017,69,
-594,[PROTOTYPE®],,8/12/2015,69,
-595,A Boy and His Blob,,1/20/2016,69,
-596,A KING'S TALE: FINAL FANTASY XV,,11/29/2016,69,
-597,A Pixel Story,,2/24/2017,69,
-598,A Walk in the Dark,,5/20/2017,69,
-599,Aaero,,4/11/2017,69,
-600,ABZU,,12/6/2016,69,
-601,Acorn Assault: Rodent Revolution,,1/11/2017,69,
-602,Action Henk,,3/4/2016,69,
-603,Action News Heroes,,7/27/2016,69,
-604,Active Soccer 2 DX,,3/30/2016,69,
-605,Adventure Pop,,2/7/2017,69,
-606,Adventure Time: Finn and Jake Investigations,,10/20/2015,69,
-607,Adventures of Pip,,8/21/2015,69,
-608,AFL Evolution,,5/5/2017,69,
-609,Agatha Christie - The ABC Murders,,2/23/2016,69,
-610,Agents of Mayhem,,8/15/2017,69,
-611,Air Guitar Warrior for Kinect,,3/29/2017,69,
-612,AirMech® Arena,,5/12/2015,69,
-613,Alien: Isolation - The Collection,,10/27/2015,69,
-614,Amazing Princess Sarah,,1/29/2016,69,
-615,Among the Sleep,,6/3/2016,69,
-616,Anarcute,,7/12/2016,69,
-617,Anima: Gate of Memories,,6/3/2016,69,
-618,Anode,,8/10/2016,69,
-619,Another World - 20th Anniversary Edition,,6/25/2014,69,
-620,Anoxemia,,3/28/2017,69,
-621,APB Reloaded,,6/3/2016,69,
-622,AQUA KITTY UDX: Xbox One Ultra Edition,,2/3/2017,69,
-623,ARCADE GAME SERIES 3-in-1 Pack,,4/20/2016,69,
-624,ARCADE GAME SERIES: DIG DUG,,4/20/2016,69,
-625,ARCADE GAME SERIES: GALAGA,,4/20/2016,69,
-626,ARCADE GAME SERIES: Ms. PAC-MAN,,4/20/2016,69,
-627,ARCADE GAME SERIES: PAC-MAN,,4/20/2016,69,
-628,ARK: Survival Evolved,,8/29/2017,69,
-629,Armello,,8/30/2016,69,
-630,Armikrog,,8/23/2016,69,
-631,ARSLAN: THE WARRIORS OF LEGEND,,2/9/2016,69,
-632,Artifex Mundi Essential Bundle,,12/16/2016,69,
-633,Artifex Mundi Fantasy Bundle,,3/24/2017,69,
-634,Assassin's Creed IV Black Flag,,11/22/2013,69,
-635,Assassin's Creed Unity,,11/11/2014,69,
-636,Assassin's Creed® Chronicles: China,,4/21/2015,69,
-637,Assassin's Creed® Chronicles: India,,1/12/2016,69,
-638,Assassin's Creed® Chronicles: Russia,,2/9/2016,69,
-639,Assassin's Creed® Origins,,10/27/2017,69,
-640,Assassin's Creed® Syndicate,,10/23/2015,69,
-641,Assassin's Creed® The Ezio Collection,,11/15/2016,69,
-642,Assetto Corsa,,8/30/2016,69,
-643,ASTRONEER (Game Preview),,12/17/2016,69,
-644,Atari Flashback Classics Vol. 1,,11/2/2016,69,
-645,Atari Flashback Classics Vol. 2,,11/2/2016,69,
-646,Attack on Titan,,8/30/2016,69,
-647,ATV Renegades,,4/18/2017,69,
-648,Aven Colony,,7/25/2017,69,
-649,Awesomenauts Assemble!,,9/7/2016,69,
-650,Axiom Verge,,9/30/2016,69,
-651,Back to the Future: The Game - 30th Anniversary Edition,,10/14/2015,69,
-652,BADLAND: Game of the Year Edition,,5/29/2015,69,
-653,Baila Latino,,8/17/2016,69,
-654,Bard's Gold,,6/17/2016,69,
-655,Baseball Riot,,12/9/2015,69,
-656,Bastion,,12/12/2016,69,
-657,Batman: Return to Arkham,,10/18/2016,69,
-658,Batman: The Telltale Series - The Complete Season (Episodes 1-5),,8/2/2016,69,
-659,Batman™: Arkham Knight,,6/23/2015,69,
-660,Battle Ages,,4/20/2016,69,
-661,Battle Islands,,10/9/2015,69,
-662,Battle Islands: Commanders,,2/14/2017,69,
-663,Battle Worlds: Kronos,,4/26/2016,69,
-664,Battleborn,,5/3/2016,69,
-665,Battlefield 4,,11/22/2013,69,
-666,Battlefield Bundle,,6/24/2015,69,
-667,Battlefield™ 1,,10/21/2016,69,
-668,Battlefield™ Hardline Standard Edition,,3/17/2015,69,
-669,BATTLESHIP®,,8/2/2016,69,
-670,Beach Buggy Racing,,5/29/2015,69,
-671,Beatsplosion for Kinect,,12/30/2015,69,
-672,Bedlam - The Game By Christopher Brookmyre,,10/16/2015,69,
-673,Ben-Hur,,8/9/2016,69,
-674,Beyond Eyes,,8/4/2015,69,
-675,Big Buck Hunter Arcade,,10/25/2016,69,
-676,Bike Mayhem 2,,2/5/2016,69,
-677,BioShock: The Collection,,9/13/2016,69,
-678,Bit Dungeon Plus,,5/5/2017,69,
-679,Black &amp; White Bushido,,5/17/2017,69,
-680,Black The Fall,,7/11/2017,69,
-681,Blackwood Crossing,,4/5/2017,69,
-682,BLADESTORM: Nightmare,,3/17/2015,69,
-683,Blast Brawl 2,,10/26/2016,69,
-684,BLAZBLUE CHRONOPHANTASMA EXTEND,,6/30/2015,69,
-685,Blood Bowl 2,,9/22/2015,69,
-686,Bloons TD 5,,3/3/2017,69,
-687,Blue Estate,,2/18/2015,69,
-688,Blue-Collar Astronaut,,3/17/2017,69,
-689,Blues and Bullets - Episode 1,,8/28/2015,69,
-690,Boggle,,8/4/2015,69,
-691,Bombing Busters,,11/18/2016,69,
-692,Boom Ball 2 for Kinect,,12/21/2016,69,
-693,Boom Ball for Kinect,,11/28/2014,69,
-694,Borderlands: The Handsome Collection,,3/24/2015,69,
-695,Breach &amp; Clear: Deadline,,8/3/2016,69,
-696,Brick Breaker,,4/26/2016,69,
-697,Bridge Constructor,,8/21/2015,69,
-698,Bridge Constructor Stunts,,12/16/2016,69,
-699,Broken Sword 5 - the Serpent’s Curse,,9/4/2015,69,
-700,Brothers: a Tale of Two Sons,,8/12/2015,69,
-701,Brunswick® Pro Bowling,,11/27/2015,69,
-702,Bulletstorm: Full Clip Edition Duke Nukem Bundle,,4/7/2017,69,
-703,BUTCHER,,5/10/2017,69,
-704,Cabela’s® African Adventures,,3/17/2015,69,
-705,Call of Duty®: Advanced Warfare Digital Pro Edition,,11/3/2014,69,
-706,Call of Duty®: Black Ops III - Gold Edition,,7/12/2016,69,
-707,Call of Duty®: Ghosts,,11/22/2013,69,
-708,Call of Duty®: Infinite Warfare - Launch Edition,,11/4/2016,69,
-709,Call of Duty®: WWII - Launch Edition,,11/3/2017,69,
-710,Candleman,,2/1/2017,69,
-711,Cannon Brawl,,8/5/2016,69,
-712,Carmageddon: Max Damage,,7/8/2016,69,
-713,Cartoon Network: Battle Crashers,,11/8/2016,69,
-714,Casey Powell Lacrosse 16,,3/9/2016,69,
-715,Cast of the Seven Godsends - Redux,,7/20/2016,69,
-716,Castle Crashers Remastered,,9/9/2015,69,
-717,Castle Invasion: Throne Out,,10/12/2016,69,
-718,Castles,,10/5/2016,69,
-719,CastleStorm - Definitive Edition,,9/24/2014,69,
-720,Cel Damage HD,,3/11/2016,69,
-721,Chariot Bundle,,9/21/2015,69,
-722,Chess Ultra,,6/23/2017,69,
-723,Child of Light,,4/30/2014,69,
-724,Chime Sharp,,2/24/2017,69,
-725,Chivalry: Medieval Warfare,,12/2/2015,69,
-726,Chroma Squad,,5/19/2017,69,
-727,Cities: Skylines - Xbox One Edition,,4/21/2017,69,
-728,Clash,,8/21/2015,69,
-729,Clicker Heroes,,3/10/2017,69,
-730,Clockwork Tales: Of Glass and Ink,,1/22/2016,69,
-731,Clouds &amp; Sheep 2,,11/18/2016,69,
-732,ClusterTruck,,10/28/2016,69,
-733,Cobalt,,2/2/2016,69,
-734,Coffin Dodgers,,5/6/2016,69,
-735,Commander Cherry for Kinect,,8/14/2015,69,
-736,Conan Exiles (Game Preview),,12/31/2799,69,
-737,Conga Master,,7/21/2017,69,
-738,Contrast,,6/26/2014,69,
-739,Costume Quest 2,,10/29/2014,69,
-740,Crawl,,4/11/2017,69,
-741,Crazy Sports Bundle,,8/12/2016,69,
-742,Crimson Dragon,,11/22/2013,69,
-743,Crimsonland,,10/14/2015,69,
-744,Crossout,,5/30/2017,69,
-745,Crypt of the NecroDancer,,2/10/2017,69,
-746,Crypt of the Serpent King,,12/21/2016,69,
-747,Cubot - The Complexity of Simplicity,,1/8/2016,69,
-748,Cuphead,,9/30/2017,69,
-749,D4: Dark Dreams Don't Die,,9/19/2014,69,
-750,Dad Beat Dads,,2/5/2016,69,
-751,Dance Central Spotlight,,9/2/2014,69,
-752,Danger Zone,,10/10/2017,69,
-753,Dangerous Golf,,6/3/2016,69,
-754,Dark Arcana: The Carnival,,3/17/2017,69,
-755,DARK SOULS™ III,,4/12/2016,69,
-756,Darksiders Fury's Collection - War and Death,,5/2/2017,69,
-757,Darksiders II Deathinitive Edition,,10/30/2015,69,
-758,Darksiders III,,12/31/2799,69,
-759,Darksiders Warmastered Edition,,11/22/2016,69,
-760,DC Universe Online,,4/29/2016,69,
-761,Dead Effect 2,,1/13/2017,69,
-762,Dead Island Definitive Edition,,5/31/2016,69,
-763,Dead Island Retro Revenge,,8/1/2016,69,
-764,Dead Island: Riptide Definitive Edition,,5/31/2016,69,
-765,DEAD OR ALIVE 5 Last Round: Core Fighters,,2/19/2015,69,
-766,Dead Rising,,9/13/2016,69,
-767,Dead Rising 2,,9/13/2016,69,
-768,Dead Rising 3: Apocalypse Edition,,11/8/2014,69,
-769,Dead Rising 4 Deluxe Edition,,12/6/2016,69,
-770,Deadbeat Heroes,,10/10/2017,69,
-771,Deadlight: Director's Cut,,6/21/2016,69,
-772,Deadpool,,11/17/2015,69,
-773,Dear Esther: Landmark Edition,,9/20/2016,69,
-774,Death God University,,10/14/2016,69,
-775,Death Squared,,3/14/2017,69,
-776,Defense Grid 2,,9/24/2014,69,
-777,Deformers,,4/21/2017,69,
-778,Demon's Crystals,,5/12/2017,69,
-779,Destiny - The Collection,,9/20/2016,69,
-780,Destiny 2 - Launch Edition,,9/6/2017,69,
-781,Deus Ex: Mankind Divided™,,8/23/2016,69,
-782,Devil May Cry 4 Special Edition,,6/23/2015,69,
-783,Dex,,7/8/2016,69,
-784,Diablo III: Reaper of Souls – Ultimate Evil Edition,,8/19/2014,69,
-785,DiRT Rally,,4/5/2016,69,
-786,Dishonored 2,,11/11/2016,69,
-787,Dishonored®: Death of the Outsider™ Deluxe Bundle,,9/15/2017,69,
-788,Disney Fantasia: Music Evolved – Digital Bundle,,10/21/2014,69,
-789,Disney Infinity 3.0 Edition,,8/30/2015,69,
-790,Disneyland Adventures,,10/31/2017,69,
-791,Divekick,,10/8/2014,69,
-792,Divinity: Original Sin - Enhanced Edition,,10/27/2015,69,
-793,DmC Devil May Cry: Definitive Edition,,3/10/2015,69,
-794,DMC4SE Demon Hunter Bundle,,7/5/2016,69,
-795,Dogos,,9/7/2016,69,
-796,Don Bradman Cricket,,2/11/2015,69,
-797,Don Bradman Cricket 17,,12/15/2016,69,
-798,Don't Starve: Giant Edition,,8/26/2015,69,
-799,Doodle God: Ultimate Edition,,1/27/2017,69,
-800,DOOM,,5/13/2016,69,
-801,Dovetail Games Euro Fishing,,6/10/2016,69,
-802,Dragon Age™: Inquisition - Game of the Year Edition,,10/6/2015,69,
-803,DRAGON BALL XENOVERSE,,2/24/2015,69,
-804,DRAGON BALL XENOVERSE 2,,10/25/2016,69,
-805,Draw a Stickman: EPIC,,9/11/2015,69,
-806,Drawful 2,,6/21/2016,69,
-807,Dreamfall Chapters,,5/5/2017,69,
-808,Duck Dynasty,,10/14/2014,69,
-809,Duke Nukem 3D: 20th Anniversary World Tour,,10/11/2016,69,
-810,Dungeon of the Endless,,3/16/2016,69,
-811,Dungeon Punks,,7/26/2016,69,
-812,Dying Light: The Following - Enhanced Edition,,2/9/2016,69,
-813,Dynamite Fishing - World Games,,7/1/2016,69,
-814,DYNASTY WARRIORS 8 Empires,,2/24/2015,69,
-815,EA Family Bundle,,12/28/2016,69,
-816,EA SPORTS™ FIFA 17,,9/27/2016,69,
-817,EA SPORTS™ NBA LIVE 16,,9/29/2015,69,
-818,EA SPORTS™ NHL® 17,,9/13/2016,69,
-819,EA SPORTS™ NHL® 18 Standard Edition,,9/15/2017,69,
-820,EA SPORTS™ Rory McIlroy PGA TOUR®,,7/14/2015,69,
-821,EA SPORTS™ UFC®,,6/17/2014,69,
-822,EA SPORTS™ UFC® 2,,3/15/2016,69,
-823,EA SPORTS™ UFC® 3 Standard Edition,,2/2/2018,69,
-824,EARTH'S DAWN,,11/2/2016,69,
-825,Earthlock: Festival of Magic,,9/1/2016,69,
-826,Eekeemoo Splinters of the Dark Shard,,3/3/2017,69,
-827,Electronic Super Joy,,1/20/2016,69,
-828,Elex,,10/17/2017,69,
-829,Elite Dangerous Standard Edition,,4/26/2016,69,
-830,Elliot Quest,,5/12/2017,69,
-831,Embers of Mirrim,,5/24/2017,69,
-832,Emerald Glazed Bundle,,5/16/2017,69,
-833,Emily Wants To Play,,9/9/2016,69,
-834,Energy Cycle,,12/7/2016,69,
-835,Enigmatis 2: The Mists of Ravenwood,,11/25/2016,69,
-836,Enigmatis Bundle,,5/19/2017,69,
-837,Enigmatis: The Ghosts of Maple Creek,,4/8/2016,69,
-838,Enter The Gungeon,,4/6/2017,69,
-839,Ethan: Meteor Hunter,,7/1/2016,69,
-840,Eventide: Slavic Fable,,9/23/2016,69,
-841,EVERSPACE™,,5/26/2017,69,
-842,Evolve,,2/10/2015,69,
-843,F1™ 2016,,8/19/2016,69,
-844,F1™ 2017 Special Edition,,8/25/2017,69,
-845,Fable Fortune (Game Preview),,7/26/2017,69,
-846,Fallout 4,,11/10/2015,69,
-847,Fallout Shelter,,2/8/2017,69,
-848,Far Cry 5,,2/27/2018,69,
-849,Far Cry Primal,,2/23/2016,69,
-850,Farming Simulator 15,,5/19/2015,69,
-851,Farming Simulator 17,,10/25/2016,69,
-852,Feist,,12/13/2016,69,
-853,Fibbage: The Hilarious Bluffing Party Game,,8/21/2014,69,
-854,FIFA 16 Deluxe Edition,,12/4/2015,69,
-855,FIFA 18,,10/10/2017,69,
-856,FINAL FANTASY TYPE-0 HD,,3/17/2015,69,
-857,FINAL FANTASY XV,,11/29/2016,69,
-858,Firewatch,,9/21/2016,69,
-859,First-person bundle,,11/25/2015,69,
-860,FlatOut 4 : Total Insanity,,5/2/2017,69,
-861,Flinthook,,4/18/2017,69,
-862,FOR HONOR™ Standard Edition,,2/14/2017,69,
-863,FORCED,,10/21/2015,69,
-864,Fortified,,2/3/2016,69,
-865,Fortnite - Standard Founder’s Pack,,7/21/2017,69,
-866,Forza Horizon 2 Standard - 10th Anniversary Edition,,8/18/2015,69,
-867,Forza Horizon 3 Ultimate Edition,,9/28/2016,69,
-868,Forza Motorsport 6 Standard Edition,,9/15/2015,69,
-869,Forza Motorsport 7 Standard Edition,,10/4/2017,69,
-870,Four Sided Fantasy,,3/31/2017,69,
-871,Fragments of Him,,6/1/2016,69,
-872,FreezeME,,9/2/2016,69,
-873,Friday Night Bullet Arena,,1/13/2017,69,
-874,Friday the 13th: The Game,,5/26/2017,69,
-875,Frozen Free Fall: Snowball Fight,,9/15/2015,69,
-876,FRU,,7/13/2016,69,
-877,Fruit Ninja Kinect 2,,3/18/2015,69,
-878,Full Mojo Rampage,,6/28/2016,69,
-879,Funk of Titans,,1/9/2015,69,
-880,Furi,,12/2/2016,69,
-881,Game of Thrones - The Complete First Season (Episodes 1-6),,5/18/2015,69,
-882,Gas Guzzlers Extreme,,11/4/2016,69,
-883,Gears of War 3,,3/27/2012,69,
-884,Gears of War 4,,10/12/2016,69,
-885,Gemini: Heroes Reborn,,1/19/2016,69,
-886,Gems of War,,11/11/2015,69,
-887,Geometry Wars™ 3: Dimensions Evolved,,4/1/2015,69,
-888,Ghost Blade HD,,2/28/2017,69,
-889,Ghostbusters™,,7/12/2016,69,
-890,Giana Sisters: Dream Runners,,8/19/2015,69,
-891,Giana Sisters: Twisted Dreams - Director's Cut,,12/12/2014,69,
-892,Gigantic,,6/23/2017,69,
-893,Goat Simulator,,4/17/2015,69,
-894,Gone Home: Console Edition,,1/13/2016,69,
-895,Goosebumps: The Game,,10/14/2015,69,
-896,Grand Prix Rock 'N Racing,,5/13/2016,69,
-897,Grand Theft Auto V,,11/18/2014,69,
-898,GRIDD: Retroenhanced,,7/26/2017,69,
-899,Grim Legends: The Forsaken Bride,,6/10/2016,69,
-900,GROW UP,,8/16/2016,69,
-901,Guacamelee! Super Turbo Championship Edition,,7/2/2014,69,
-902,"Guns, Gore and Cannoli",,9/25/2015,69,
-903,Gunscape,,3/2/2016,69,
-904,GunWorld: Xbox One Edition,,9/16/2015,69,
-905,Gwent: The Witcher Card Game (Game Preview),,1/1/2800,69,
-906,"Hack, Slash &amp; Backstab",,8/31/2016,69,
-907,Halo 3,,7/6/2010,69,
-908,Halo 5: Guardians,,10/27/2015,69,
-909,Halo Wars 2: Standard Edition,,2/21/2017,69,
-910,Halo Wars: Definitive Edition,,12/20/2016,69,
-911,Halo: Spartan Assault,,12/23/2013,69,
-912,Halo: The Master Chief Collection Digital,,11/11/2014,69,
-913,Hand of Fate,,2/18/2015,69,
-914,Handball 17,,11/11/2016,69,
-915,Happy Dungeons,,10/5/2016,69,
-916,Happy Wars,,4/24/2015,69,
-917,Hard Reset Redux,,6/3/2016,69,
-918,Has-Been Heroes,,3/28/2017,69,
-919,Hasbro Family Fun Pack,,10/20/2015,69,
-920,Hawken,,7/1/2016,69,
-921,Headlander,,11/18/2016,69,
-922,Heart&amp;Slash,,6/24/2016,69,
-923,HeartZ: Co-Hope Puzzles,,6/8/2016,69,
-924,Hello Neighbor,,12/8/2017,69,
-925,Her Majesty's SPIFFING,,12/7/2016,69,
-926,HITMAN™,,3/11/2016,69,
-927,Homefront®: The Revolution,,5/17/2016,69,
-928,Horse Racing 2016,,10/21/2016,69,
-929,How To Survive 2,,2/13/2017,69,
-930,How to Survive: Storm Warning Edition,,10/29/2014,69,
-931,Hue,,8/30/2016,69,
-932,Human Fall Flat,,5/12/2017,69,
-933,Hunter's Legacy,,1/20/2017,69,
-934,Hyper Light Drifter,,7/26/2016,69,
-935,Hyper Void,,1/6/2016,69,
-936,Hyperdrive Massacre,,1/13/2016,69,
-937,I Am Bread,,1/20/2017,69,
-938,"I, Zombie",,8/31/2016,69,
-939,In Between,,6/8/2016,69,
-940,Industry Giant 2,,12/20/2016,69,
-941,Infinite Air with Mark McMorris,,10/25/2016,69,
-942,Injustice™ 2,,5/16/2017,69,
-943,INSIDE,,6/29/2016,69,
-944,Instant Indie Collection: Vol. 1,,9/25/2015,69,
-945,Instant Indie Collection: Vol. 3,,9/27/2016,69,
-946,Instant Indie Collection: Vol. 4,,1/17/2017,69,
-947,Instant Indie Collection: Vol. 5,,5/12/2017,69,
-948,Into the Belly of the Beast,,6/22/2016,69,
-949,iO,,2/14/2017,69,
-950,Jet Car Stunts,,3/13/2015,69,
-951,Joe Dever’s Lone Wolf Console Edition,,3/16/2016,69,
-952,Jotun: Valhalla Edition,,9/9/2016,69,
-953,JumpJet Rex,,4/29/2016,69,
-954,Just Cause 3,,12/1/2015,69,
-955,Just Dance 2016 &amp; Just Dance Disney Party 2,,3/9/2016,69,
-956,Just Dance 2017®,,10/25/2016,69,
-957,Just Dance® 2016,,10/20/2015,69,
-958,Just Dance® Disney Party 2,,10/20/2015,69,
-959,Just Sing,,9/15/2016,69,
-960,KALIMBA,,12/17/2014,69,
-961,Kick &amp; Fennick,,6/3/2016,69,
-962,KickBeat Special Edition,,9/26/2014,69,
-963,Kill The Bad Guy,,1/31/2017,69,
-964,Killer Instinct,,3/29/2016,69,
-965,Killing Floor 2,,8/29/2017,69,
-966,Kinect Bundle: Boom Ball 2 + Squid Hero,,5/16/2017,69,
-967,Kinect Mega Bundle: 4 in 1,,11/23/2016,69,
-968,Kinect Sports Rivals,,4/8/2014,69,
-969,Kinect Triple Bundle: Beats &amp; Booms &amp; Squids,,9/25/2016,69,
-970,King Oddball,,9/9/2016,69,
-971,King's Quest™,,7/29/2015,69,
-972,Kingdom: New Lands,,8/9/2016,69,
-973,Kitty Powers' Matchmaker,,3/10/2017,69,
-974,Knight Squad,,11/16/2015,69,
-975,Kona,,3/17/2017,69,
-976,Kung Fu Panda Showdown of Legendary Legends,,12/1/2015,69,
-977,Kung-Fu for Kinect,,6/24/2016,69,
-978,KYUB,,7/13/2016,69,
-979,KYURINAGA'S REVENGE,,10/25/2016,69,
-980,L.A. Noire,,11/14/2017,69,
-981,LA Cops,,3/13/2015,69,
-982,Land It!,,6/22/2016,69,
-983,Lara Croft and the Temple of Osiris,,12/9/2014,69,
-984,LASTFIGHT,,9/20/2016,69,
-985,Late Shift,,4/18/2017,69,
-986,Layers of Fear,,2/16/2016,69,
-987,Layers of Fear: Masterpiece Edition,,8/2/2016,69,
-988,LEGO Marvel Super Heroes,,11/22/2013,69,
-989,LEGO® Batman™ 3: Beyond Gotham,,11/11/2014,69,
-990,LEGO® CITY Undercover,,4/4/2017,69,
-991,LEGO® Jurassic World™,,6/12/2015,69,
-992,LEGO® Marvel Super Heroes 2,,11/14/2017,69,
-993,LEGO® Marvel's Avengers,,1/26/2016,69,
-994,LEGO® STAR WARS™: The Force Awakens,,6/28/2016,69,
-995,LEGO® The Hobbit™,,4/8/2014,69,
-996,LEGO® Worlds,,3/7/2017,69,
-997,Leo's Fortune,,9/11/2015,69,
-998,Lethal League,,5/10/2017,69,
-999,Letter Quest: Grimm's Journey Remastered,,4/8/2016,69,
-1000,Level 22,,1/29/2016,69,
-1001,Lichdom: Battlemage,,4/19/2016,69,
-1002,Lies Of Astaroth,,8/12/2016,69,
-1003,Life is Strange Complete Season (Episodes 1-5),,1/30/2015,69,
-1004,Life is Strange: Before the Storm Complete Season,,8/31/2017,69,
-1005,Lifeless Planet: Premier Edition,,5/13/2015,69,
-1006,Light &amp; Dark Bundle,,10/26/2016,69,
-1007,LIMBO,,12/5/2014,69,
-1008,Little Nightmares,,4/28/2017,69,
-1009,Livelock,,8/30/2016,69,
-1010,LOOT Ultimate Games Bundle,,7/1/2016,69,
-1011,Lords of the Fallen,,10/28/2014,69,
-1012,Lost Grimoires: Stolen Kingdom,,4/28/2017,69,
-1013,Lovely Planet,,1/8/2016,69,
-1014,Lovers in a Dangerous Spacetime,,9/9/2015,69,
-1015,Mad Max,,9/1/2015,69,
-1016,Madden NFL 16,,8/25/2015,69,
-1017,Madden NFL 17,,8/23/2016,69,
-1018,Madden NFL 18,,8/25/2017,69,
-1019,Mafia III,,10/7/2016,69,
-1020,Magic Duels,,7/31/2015,69,
-1021,Mahjong,,8/30/2016,69,
-1022,Maldita Castilla EX - Cursed Castile,,7/20/2016,69,
-1023,Mantis Burn Racing,,10/12/2016,69,
-1024,Manual Samuel,,10/14/2016,69,
-1025,Marvel Heroes Omega,,6/30/2017,69,
-1026,Marvel Puzzle Quest: Dark Reign,,2/5/2016,69,
-1027,MARVEL VS. CAPCOM: INFINITE,,9/20/2017,69,
-1028,Marvel: Ultimate Alliance,,7/28/2016,69,
-1029,Marvel: Ultimate Alliance 2,,7/28/2016,69,
-1030,Marvel’s Guardians of the Galaxy: The Telltale Series - The Complete Season (Episodes 1-5),,4/18/2017,69,
-1031,Mass Effect™: Andromeda,,3/21/2017,69,
-1032,MASSIVE CHALICE,,6/1/2015,69,
-1033,Max: The Curse of Brotherhood,,12/20/2013,69,
-1034,Mayan Death Robots: Arena,,5/19/2017,69,
-1035,Mega Coin Squad,,5/20/2015,69,
-1036,Mega Man Legacy Collection 2,,8/8/2017,69,
-1037,Mega Man® Legacy Collection,,8/25/2015,69,
-1038,Mekazoo,,11/15/2016,69,
-1039,METAL GEAR SOLID V: THE PHANTOM PAIN,,9/1/2015,69,
-1040,Metro 2033 Redux,,8/26/2014,69,
-1041,Metro Redux Bundle,,8/26/2014,69,
-1042,Metro: Last Light Redux,,8/26/2014,69,
-1043,Middle-earth™: Shadow of Mordor™ - Game of the Year Edition,,5/5/2015,69,
-1044,Middle-earth™: Shadow of War™,,10/11/2017,69,
-1045,Mighty No. 9,,6/21/2016,69,
-1046,Mimic Arena,,5/18/2016,69,
-1047,Minecraft,,9/21/2017,69,
-1048,Minecraft: Story Mode - The Complete Adventure (Episodes 1-8),,4/12/2016,69,
-1049,Mirror's Edge™,,6/22/2010,69,
-1050,Mirror's Edge™ Catalyst,,6/7/2016,69,
-1051,Mitsurugi Kamui Hikae,,2/16/2016,69,
-1052,Momodora: Reverie Under the Moonlight,,3/17/2017,69,
-1053,Momonga Pinball Adventures,,12/21/2016,69,
-1054,Monochroma,,6/24/2016,69,
-1055,MONOPOLY PLUS,,11/25/2014,69,
-1056,MONSTER HUNTER: WORLD™,,1/26/2018,69,
-1057,Monster Jam: Crush It!,,10/25/2016,69,
-1058,Moon Hunters,,7/19/2017,69,
-1059,Mordheim: City of the Damned,,10/18/2016,69,
-1060,Morphite,,9/20/2017,69,
-1061,Mortal Kombat XL,,3/1/2016,69,
-1062,Moto Racer 4,,1/24/2017,69,
-1063,Mount &amp; Blade: Warband,,9/16/2016,69,
-1064,Mr. Pumpkin Adventure,,5/17/2017,69,
-1065,Murdered: Soul Suspect,,6/3/2014,69,
-1066,MX vs. ATV Supercross Encore,,7/15/2016,69,
-1067,MXGP2,,6/21/2016,69,
-1068,N.E.R.O.: Nothing Ever Remains Obscure,,5/15/2015,69,
-1069,Narcosis,,5/10/2017,69,
-1070,NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4,,2/9/2016,69,
-1071,NASCAR Heat Evolution,,9/13/2016,69,
-1072,NBA 2K16 Michael Jordan Special Edition,,9/29/2015,69,
-1073,NBA 2K17,,9/20/2016,69,
-1074,NBA 2K18,,9/19/2017,69,
-1075,NBA LIVE 18:  The One Edition,,9/15/2017,69,
-1076,NBA Playgrounds,,5/9/2017,69,
-1077,Nebulous,,11/16/2016,69,
-1078,Necropolis,,10/4/2016,69,
-1079,Need for Speed Rivals,,11/22/2013,69,
-1080,Need for Speed™,,11/3/2015,69,
-1081,Need for Speed™ Payback - Standard Edition,,11/10/2017,69,
-1082,Neon Chrome,,6/8/2016,69,
-1083,NeuroVoider,,3/17/2017,69,
-1084,Never Alone Arctic Collection,,8/21/2015,69,
-1085,Nevermind,,1/11/2017,69,
-1086,Neverwinter,,3/31/2015,69,
-1087,Nightmares from the Deep 2: The Siren's Call,,8/26/2016,69,
-1088,Ninja Pizza Girl,,7/20/2016,69,
-1089,No Time To Explain,,5/17/2016,69,
-1090,NOT A HERO: SUPER SNAZZY EDITION,,5/24/2016,69,
-1091,Nutjitsu,,5/8/2014,69,
-1092,Obliteracers,,8/26/2016,69,
-1093,Oceanhorn - Monster of Uncharted Seas,,9/7/2016,69,
-1094,Octodad: Dadliest Catch,,8/26/2015,69,
-1095,Oddworld: New 'n' Tasty,,3/27/2015,69,
-1096,Oh My Godheads,,12/5/2017,69,
-1097,OlliOlli,,3/6/2015,69,
-1098,OlliOlli2: XL Edition,,5/24/2016,69,
-1099,One Hundred Ways,,10/7/2016,69,
-1100,One Piece: Burning Blood,,5/31/2016,69,
-1101,Onigiri,,10/2/2015,69,
-1102,Ori and the Blind Forest: Definitive Edition,,3/11/2016,69,
-1103,Outcast: Second Contact for Xbox One,,,69,
-1104,Outlast,,6/19/2014,69,
-1105,Outlast 2,,4/25/2017,69,
-1106,Outlast: Bundle of Terror,,5/27/2015,69,
-1107,Overcooked,,8/3/2016,69,
-1108,Overlord: Fellowship of Evil,,10/20/2015,69,
-1109,Overwatch® Game of the Year Edition,,5/23/2017,69,
-1110,Oxenfree,,1/15/2016,69,
-1111,PAC-MAN 256,,6/21/2016,69,
-1112,PAC-MAN™ CHAMPIONSHIP EDITION 2,,9/13/2016,69,
-1113,Paladins,,5/3/2017,69,
-1114,Pang Adventures,,4/19/2016,69,
-1115,Party Hard,,4/26/2016,69,
-1116,Path of Exile,,8/24/2017,69,
-1117,PAYDAY 2: CRIMEWAVE EDITION,,6/16/2015,69,
-1118,Peggle 2,,12/9/2013,69,
-1119,Phantom Dust,,5/17/2017,69,
-1120,Pier Solar and the Great Architects,,11/21/2014,69,
-1121,Pinball Arcade,,11/26/2014,69,
-1122,Pinball FX2,,8/14/2014,69,
-1123,Pixel Heroes: Byte &amp; Magic,,2/3/2017,69,
-1124,Pixel Piracy,,2/16/2016,69,
-1125,Plague Inc: Evolved,,9/18/2015,69,
-1126,Planetbase,,5/3/2017,69,
-1127,Plants vs. Zombies Garden Warfare,,2/25/2014,69,
-1128,Plants vs. Zombies™ Garden Warfare 2,,2/23/2016,69,
-1129,Pneuma: Breath of Life,,2/27/2015,69,
-1130,Polychromatic,,10/2/2015,69,
-1131,Pool Nation FX,,4/1/2015,69,
-1132,PopCap Bundle,,6/24/2015,69,
-1133,Portal Knights,,5/23/2017,69,
-1134,Powerstar Golf,,11/22/2013,69,
-1135,Premium Starter Pack,,9/21/2015,69,
-1136,Prey,,5/5/2017,69,
-1137,Prison Architect: All Day And A Night Edition,,8/12/2016,69,
-1138,Prison Architect: Xbox One Edition,,7/1/2016,69,
-1139,Pro Evolution Soccer 2017 Trial Edition,,11/25/2016,69,
-1140,PRO EVOLUTION SOCCER 2018,,9/12/2017,69,
-1141,Professional Farmer 2017,,6/10/2016,69,
-1142,Project CARS - Game of the Year Edition,,5/6/2016,69,
-1143,Project CARS 2,,9/22/2017,69,
-1144,Prominence Poker,,8/16/2016,69,
-1145,Prototype® Biohazard Bundle,,7/14/2015,69,
-1146,Prototype®2,,8/12/2015,69,
-1147,Pumped BMX +,,9/18/2015,69,
-1148,Punch Club,,3/31/2017,69,
-1149,Pure Chess Grandmaster Edition,,9/9/2016,69,
-1150,Pure Hold'em™,,8/21/2015,69,
-1151,Pure Pool,,11/14/2014,69,
-1152,Q,,6/26/2015,69,
-1153,Q*bert REBOOTED: The XBOX One @!#?@! Edition,,2/12/2016,69,
-1154,Q.U.B.E: Director's Cut,,7/24/2015,69,
-1155,Quantum Break,,4/5/2016,69,
-1156,Quatros Origins,,7/29/2016,69,
-1157,Quest of Dungeons,,9/4/2015,69,
-1158,Quiplash,,6/30/2015,69,
-1159,R.B.I. Baseball 16,,3/29/2016,69,
-1160,R.B.I. Baseball 17,,3/28/2017,69,
-1161,RABBIDS INVASION - GOLD EDITION,,12/9/2014,69,
-1162,Rabbids Invasion : The Interactive TV Show,,11/18/2014,69,
-1163,Race The Sun,,4/21/2017,69,
-1164,Raiden V,,5/11/2016,69,
-1165,Raiders of the Broken Planet - Founders Pack,,9/22/2017,69,
-1166,Rare Replay,,8/4/2015,69,
-1167,Rayman Legends,,2/18/2014,69,
-1168,Reagan Gorbachev,,2/24/2016,69,
-1169,Real Farm,,10/20/2017,69,
-1170,Rebel Galaxy,,1/13/2016,69,
-1171,ReCore,,9/14/2016,69,
-1172,Red Dead Redemption 2,,12/31/2018,69,
-1173,Redout: Lightspeed Edition,,8/29/2017,69,
-1174,Resident Evil,,1/20/2015,69,
-1175,Resident Evil 0,,1/19/2016,69,
-1176,resident evil 4,,8/30/2016,69,
-1177,RESIDENT EVIL 5,,6/28/2016,69,
-1178,Resident Evil 6,,3/29/2016,69,
-1179,RESIDENT EVIL 7 biohazard,,1/24/2017,69,
-1180,RESIDENT EVIL REVELATIONS 2 (Episode One),,2/25/2015,69,
-1181,Resident Evil Revelations 2 Deluxe Edition,,11/16/2015,69,
-1182,Resident Evil: Deluxe Origins Bundle,,3/21/2016,69,
-1183,Reus,,10/11/2016,69,
-1184,RIDE,,10/6/2015,69,
-1185,Ride 2,,2/14/2017,69,
-1186,RiME,,5/26/2017,69,
-1187,Riptide GP2,,1/23/2015,69,
-1188,Riptide GP: Renegade,,2/25/2017,69,
-1189,Rise &amp; Shine,,1/13/2017,69,
-1190,Rise of the Tomb Raider,,11/10/2015,69,
-1191,RISK,,2/3/2015,69,
-1192,Risk: Urban Assault,,8/2/2016,69,
-1193,ROBLOX,,1/27/2016,69,
-1194,Rock 'N Racing Off Road DX,,10/16/2015,69,
-1195,Rock Band™ 4 Rivals Bundle,,10/18/2016,69,
-1196,Rock Zombie,,12/4/2015,69,
-1197,Rocket League®,,2/17/2016,69,
-1198,Rocksmith® 2014 Edition - Remastered,,10/4/2016,69,
-1199,Rogue Legacy,,5/27/2015,69,
-1200,Rogue Stormers,,10/7/2016,69,
-1201,ROMANCE OF THE THREE KINGDOMS XIII: Fame and Strategy Expansion Pack Bundle,,4/25/2017,69,
-1202,Roundabout,,2/20/2015,69,
-1203,Rugby 15,,2/24/2015,69,
-1204,RUGBY 18,,10/31/2017,69,
-1205,Rugby Challenge 3,,4/22/2016,69,
-1206,Rush: A DisneyPixar Adventure,,11/1/2017,69,
-1207,RWBY: Grimm Eclipse,,1/17/2017,69,
-1208,Ryse: Legendary Edition,,10/7/2014,69,
-1209,Saban’s Mighty Morphin Power Rangers: Mega Battle,,1/17/2017,69,
-1210,Saints Row IV: Re-Elected &amp; Gat out of Hell,,1/20/2015,69,
-1211,Saints Row: Gat out of Hell,,1/20/2015,69,
-1212,Saturday Morning RPG,,10/26/2016,69,
-1213,Save the Ninja Clan,,5/5/2017,69,
-1214,Scrabble,,6/30/2015,69,
-1215,ScreamRide,,3/3/2015,69,
-1216,Screencheat,,3/1/2016,69,
-1217,Sea of Thieves Technical Alpha,,12/31/2799,69,
-1218,Seasons after Fall,,5/16/2017,69,
-1219,Serial Cleaner,,7/14/2017,69,
-1220,Shadow Complex Remastered,,3/16/2016,69,
-1221,Shadow Warrior,,10/24/2014,69,
-1222,Shantae and the Pirate's Curse,,3/16/2016,69,
-1223,Shantae: Half-Genie Hero,,12/20/2016,69,
-1224,Shape Up,,11/11/2014,69,
-1225,Sheltered,,3/15/2016,69,
-1226,Sherlock Holmes: Crimes and Punishments,,9/30/2014,69,
-1227,Sherlock Holmes: The Devil's Daughter,,10/25/2016,69,
-1228,Shift Happens,,2/22/2017,69,
-1229,Shiftlings,,3/4/2015,69,
-1230,Shiness: The Lightning Kingdom,,4/18/2017,69,
-1231,Shovel Knight: Treasure Trove,,4/29/2015,69,
-1232,Shred It!,,3/18/2016,69,
-1233,Siegecraft Commander,,1/17/2017,69,
-1234,Silence - The Whispered World 2,,12/9/2016,69,
-1235,Sixty Second Shooter Prime,,6/18/2014,69,
-1236,Skate 3,,9/23/2014,69,
-1237,Sky Force Anniversary,,12/9/2016,69,
-1238,Skyforge,,11/10/2017,69,
-1239,SkyKeepers,,3/31/2017,69,
-1240,Skylanders SuperChargers Portal Owner's Pack,,9/20/2015,69,
-1241,Skylar &amp; Plux: Adventure on Clover Island,,5/19/2017,69,
-1242,Skyling: Garden Defense,,4/19/2016,69,
-1243,Slain: Back from Hell,,10/21/2016,69,
-1244,SlashDash,,7/17/2015,69,
-1245,Sleeping Dogs™ Definitive Edition,,10/14/2014,69,
-1246,Slender: The Arrival,,3/25/2015,69,
-1247,Slice Zombies for Kinect,,5/8/2015,69,
-1248,Slime Rancher,,8/1/2017,69,
-1249,SMITE,,8/19/2015,69,
-1250,Snake Pass,,3/29/2017,69,
-1251,Sniper Elite 4,,2/14/2017,69,
-1252,Sniper Ghost Warrior 3 Season Pass Edition,,4/25/2017,69,
-1253,So Many Me,,7/16/2015,69,
-1254,Soda Drinker Pro,,4/14/2016,69,
-1255,Solitaire,,10/11/2016,69,
-1256,Song of the Deep,,7/12/2016,69,
-1257,SONIC FORCES,,11/7/2017,69,
-1258,Sonic Mania,,8/15/2017,69,
-1259,South Park™: The Fractured but Whole™ Pre-order,,10/17/2017,69,
-1260,Sparkle 2,,1/27/2016,69,
-1261,Sparkle Unleashed,,6/3/2015,69,
-1262,Spectra,,5/8/2015,69,
-1263,Speedboat Challenge,,10/5/2016,69,
-1264,Spellspire,,5/26/2017,69,
-1265,Spheroids,,2/10/2017,69,
-1266,Spintires: MudRunner,,10/31/2017,69,
-1267,Spy Chameleon,,5/22/2015,69,
-1268,Squid Hero for Kinect,,7/29/2015,69,
-1269,Star Hammer: The Vanguard Prophecy,,8/25/2016,69,
-1270,Star Trek Online,,9/6/2016,69,
-1271,STAR WARS™ Battlefront™ II Standard Edition,,11/17/2017,69,
-1272,STAR WARS™ Battlefront™ Ultimate Edition,,11/17/2015,69,
-1273,Stardew Valley,,12/14/2016,69,
-1274,Stardust Galaxy Warriors: Stellar Climax,,9/9/2016,69,
-1275,Starpoint Gemini 2,,12/11/2015,69,
-1276,STARWHAL,,12/9/2015,69,
-1277,State of Decay: Year-One Survival Edition,,4/28/2015,69,
-1278,Stealth Inc. 2: A Game of Clones,,4/3/2015,69,
-1279,SteamWorld Dig,,6/5/2015,69,
-1280,Steel Rain X,,12/16/2016,69,
-1281,STEEP,,12/2/2016,69,
-1282,Steep and The Crew,,5/2/2017,69,
-1283,Steredenn,,4/1/2016,69,
-1284,Stern Pinball Arcade,,12/29/2016,69,
-1285,Stikbold! A Dodgeball Adventure,,4/8/2016,69,
-1286,Strider,,2/19/2014,69,
-1287,Strike Suit Zero: Director's Cut,,4/8/2014,69,
-1288,Styx: Master of Shadows,,10/8/2014,69,
-1289,Styx: Shards of Darkness,,3/14/2017,69,
-1290,Subject 13,,1/31/2017,69,
-1291,Sublevel Zero Redux,,3/8/2017,69,
-1292,Submerged,,8/7/2015,69,
-1293,Subterrain,,1/27/2017,69,
-1294,Sunset Overdrive,,10/28/2014,69,
-1295,Super Cloudbuilt,,7/28/2017,69,
-1296,Super Dungeon Bros,,11/1/2016,69,
-1297,Super Dungeon Bros MEGA Bundle Pack,,3/21/2017,69,
-1298,Super Lucky's Tale,,11/8/2017,69,
-1299,Super Mega Baseball: Extra Innings,,8/14/2015,69,
-1300,Super Party Sports: Football,,12/4/2015,69,
-1301,Super Time Force,,5/14/2014,69,
-1302,Super Toy Cars,,9/4/2015,69,
-1303,SUPERHOT,,5/3/2016,69,
-1304,Sword Coast Legends™,,7/19/2016,69,
-1305,Syberia 3,,4/25/2017,69,
-1306,Sylvio,,1/13/2017,69,
-1307,Sébastien Loeb Rally EVO,,3/22/2016,69,
-1308,Table Top Racing: World Tour,,3/10/2017,69,
-1309,Tacoma,,8/3/2017,69,
-1310,Talent Not Included,,4/5/2017,69,
-1311,Tales from the Borderlands Complete Season (Episodes 1-5),,5/15/2015,69,
-1312,Tango Fiesta,,5/17/2017,69,
-1313,Team17 Indie Collection,,10/18/2016,69,
-1314,Tekken 7,,6/2/2017,69,
-1315,TEMBO THE BADASS ELEPHANT,,7/21/2015,69,
-1316,Tennis in the Face,,12/9/2016,69,
-1317,Terraria,,11/14/2014,69,
-1318,Teslagrad,,3/9/2016,69,
-1319,Tetraminos,,3/8/2016,69,
-1320,Tetris® Ultimate,,12/16/2014,69,
-1321,The Assembly,,1/20/2017,69,
-1322,The Banner Saga,,1/12/2016,69,
-1323,The Banner Saga 2,,7/1/2016,69,
-1324,The Binding of Isaac: Rebirth,,7/24/2015,69,
-1325,The Book of Unwritten Tales 2,,9/18/2015,69,
-1326,The Bridge,,8/14/2015,69,
-1327,The Bug Butcher,,10/19/2016,69,
-1328,The Bunker,,9/23/2016,69,
-1329,The BunnyLord Pro Hater Pack,,5/24/2016,69,
-1330,The Crew,,12/2/2014,69,
-1331,The Crew® 2 - Standard Edition,,3/16/2018,69,
-1332,The Deer God,,9/1/2015,69,
-1333,The Disney Afternoon Collection,,4/18/2017,69,
-1334,The Dwarves,,12/1/2016,69,
-1335,The Elder Scrolls Online: Morrowind,,6/6/2017,69,
-1336,The Elder Scrolls V: Skyrim Special Edition,,10/28/2016,69,
-1337,The Escapists,,2/13/2015,69,
-1338,The Escapists: The Walking Dead,,9/30/2015,69,
-1339,The Evil Within,,10/14/2014,69,
-1340,The Evil Within® 2,,10/13/2017,69,
-1341,The Fall,,7/15/2015,69,
-1342,The Final Station,,9/2/2016,69,
-1343,The Flame in the Flood,,2/24/2016,69,
-1344,The Golf Club,,8/19/2014,69,
-1345,The Incredible Adventures of Van Helsing II,,7/1/2016,69,
-1346,The Inner World,,3/31/2017,69,
-1347,The Jackbox Party Trilogy,,2/16/2017,69,
-1348,The Legend of Korra™,,10/22/2014,69,
-1349,The LEGO Movie Videogame,,2/7/2014,69,
-1350,The Little Acre,,12/13/2016,69,
-1351,The Long Dark,,8/1/2017,69,
-1352,The Park,,5/3/2016,69,
-1353,The Pure Bundle,,5/6/2016,69,
-1354,The Sexy Brutale,,4/12/2017,69,
-1355,The Solus Project,,7/12/2016,69,
-1356,The Sun and Moon,,1/27/2017,69,
-1357,The Surge,,5/16/2017,69,
-1358,The Swapper,,6/5/2015,69,
-1359,The Swindle,,8/7/2015,69,
-1360,The Technomancer,,6/28/2016,69,
-1361,The Telltale Undead Survival Bundle,,11/8/2016,69,
-1362,The Turing Test,,8/30/2016,69,
-1363,The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5),,12/20/2016,69,
-1364,The Walking Dead: Michonne - A Telltale Miniseries,,2/23/2016,69,
-1365,The Walking Dead: Season Two,,10/21/2014,69,
-1366,The Walking Dead: The Complete First Season,,10/14/2014,69,
-1367,The Witcher 3: Wild Hunt,,5/19/2015,69,
-1368,The Witness,,9/13/2016,69,
-1369,The Wolf Among Us,,11/4/2014,69,
-1370,theHunter: Call of the Wild,,10/2/2017,69,
-1371,Thief,,2/25/2014,69,
-1372,Thimbleweed Park,,3/31/2017,69,
-1373,This Is the Police,,3/22/2017,69,
-1374,This War of Mine: The Little Ones,,1/29/2016,69,
-1375,Thomas Was Alone,,11/21/2014,69,
-1376,Three Fourths Home: Extended Edition,,11/27/2015,69,
-1377,Threes!,,12/5/2014,69,
-1378,Thumper,,10/19/2017,69,
-1379,Tiny Troopers Joint Ops,,2/26/2016,69,
-1380,Titanfall® 2,,10/28/2016,69,
-1381,Toby: The Secret Mine,,1/20/2017,69,
-1382,Tom Clancy's Rainbow Six Siege,,12/1/2015,69,
-1383,Tom Clancy's The Division,,3/8/2016,69,
-1384,Tom Clancy’s Ghost Recon® Wildlands - Standard Edition,,3/7/2017,69,
-1385,Tomb Raider: Definitive Edition,,1/28/2014,69,
-1386,Tony Hawk's® Pro Skater™ 5,,9/29/2015,69,
-1387,Torment: Tides of Numenera,,2/28/2017,69,
-1388,Toto Temple Deluxe,,9/30/2015,69,
-1389,Tour de France 2016,,6/16/2016,69,
-1390,TowerFall Ascension,,1/25/2017,69,
-1391,Toy Odyssey,,9/21/2016,69,
-1392,Toy Soldiers: War Chest,,8/11/2015,69,
-1393,Trackmania® Turbo,,3/22/2016,69,
-1394,TRANSFORMERS: Fall of Cybertron,,8/9/2016,69,
-1395,Transformers: Rise of the Dark Spark,,6/24/2014,69,
-1396,TRANSFORMERS™: Devastation,,10/6/2015,69,
-1397,Trials Fusion,,4/16/2014,69,
-1398,Trials Fusion: The Awesome Max Edition,,7/14/2015,69,
-1399,Trials of the Blood Dragon,,6/13/2016,69,
-1400,TRIVIAL PURSUIT LIVE!,,2/17/2015,69,
-1401,Troll &amp; I™,,3/21/2017,69,
-1402,TRON RUN/r,,4/8/2016,69,
-1403,Tropico 5 - Penultimate Edition,,5/24/2016,69,
-1404,Trove,,3/14/2017,69,
-1405,Trulon: The Shadow Engine,,2/24/2017,69,
-1406,Tumblestone,,7/16/2016,69,
-1407,TurnOn,,6/1/2016,69,
-1408,Typoman,,2/17/2017,69,
-1409,ULTIMATE MARVEL VS. CAPCOM 3,,3/7/2017,69,
-1410,Unbox: Newbie's Adventure,,7/26/2017,69,
-1411,Uncanny Valley,,2/10/2017,69,
-1412,Unepic,,1/8/2016,69,
-1413,Unit 4,,5/24/2017,69,
-1414,UNO®,,8/16/2016,69,
-1415,Unravel,,2/9/2016,69,
-1416,Use Your Words,,4/4/2017,69,
-1417,Vaccine,,2/21/2017,69,
-1418,Valentino Rossi The Game,,8/16/2016,69,
-1419,Valhalla Hills - Definitive Edition,,4/25/2017,69,
-1420,Valiant Hearts: The Great War,,6/25/2014,69,
-1421,Valley,,8/24/2016,69,
-1422,Verdun,,3/8/2017,69,
-1423,Vermintide - Digital Value Pack,,3/17/2017,69,
-1424,Vertical Drop Heroes HD,,2/17/2017,69,
-1425,VIDEOBALL,,7/13/2016,69,
-1426,Vikings - Wolves of Midgard,,3/28/2017,69,
-1427,Virginia,,9/22/2016,69,
-1428,"Voice Commander, a Microsoft Garage project",,10/22/2014,69,
-1429,Volgarr the Viking,,10/31/2014,69,
-1430,Voodoo Vince: Remastered,,4/19/2017,69,
-1431,Wand Wars,,12/6/2016,69,
-1432,Warframe,,9/2/2014,69,
-1433,Warhammer Quest,,2/24/2017,69,
-1434,Warhammer: End Times - Vermintide,,10/4/2016,69,
-1435,WARRIORS OROCHI 3 Ultimate,,9/2/2014,69,
-1436,Wasteland 2: Director's Cut,,10/13/2015,69,
-1437,Watch Dogs®2 - Deluxe Edition,,11/15/2016,69,
-1438,WATCH_DOGS™,,5/27/2014,69,
-1439,We Happy Few (Game Preview),,4/13/2018,69,
-1440,Wells,,1/30/2017,69,
-1441,Westerado: Double Barreled,,12/9/2016,69,
-1442,White Night,,3/6/2015,69,
-1443,Wick,,12/21/2016,69,
-1444,Wolfenstein: The New Order,,5/20/2014,69,
-1445,Wolfenstein® II: The New Colossus™,,10/27/2017,69,
-1446,Wonder Boy: The Dragon's Trap,,4/18/2017,69,
-1447,World II:Hunting Boss,,7/15/2016,69,
-1448,World of Tanks,,7/28/2015,69,
-1449,World of Van Helsing: Deathtrap,,12/30/2016,69,
-1450,World to the West,,5/5/2017,69,
-1451,Worlds of Magic: Planar Conquest,,3/24/2017,69,
-1452,Worms Anniversary Edition,,11/15/2016,69,
-1453,Worms Battlegrounds,,5/30/2014,69,
-1454,Worms W.M.D,,8/23/2016,69,
-1455,WRC 6 FIA World Rally Championship,,3/7/2017,69,
-1456,WRC 7 FIA World Rally Championship,,9/26/2017,69,
-1457,WWE 2K17,,10/11/2016,69,
-1458,WWE 2K18 Pre-Order,,10/17/2017,69,
-1459,XCOM® 2,,9/27/2016,69,
-1460,Xenoraid,,11/8/2016,69,
-1461,Yasai Ninja,,8/26/2015,69,
-1462,Yesterday Origins,,11/17/2016,69,
-1463,Yooka-Laylee,,4/11/2017,69,
-1464,Yu-Gi-Oh! Legacy of the Duelist,,7/30/2015,69,
-1465,Zenith,,9/30/2016,69,
-1466,ZOMBI,,8/18/2015,69,
-1467,Zombie Army Trilogy,,3/6/2015,69,
-1468,Zombie Driver Ultimate Edition,,7/1/2014,69,
-1469,Zombie Vikings,,2/22/2017,69,
-1470,Zoo Tycoon,,11/22/2013,69,
-1471,Zumba Fitness World Party,,11/22/2013,69,
+﻿Id,Name,Title ID,Release Date,Platform ID
+0,32 in 1,CX-26163,1988,4
+1,3-D Tic-Tac-Toe,CX-2618,1980,4
+2,Action Pak,PRO-810,1981,4
+3,Adventure,CX-2613,1979,4
+4,Air-Sea Battle,CX-2602,1977,4
+5,Alpha Beam with Ernie,CX-26103,1983,4
+6,Asterix,CX-2696,1983,4
+7,Asteroids,CX-2649,1981,4
+8,Atari Video Cube,CX-2670,1982,4
+9,Backgammon,CX-2617,1979,4
+10,Back To School Pak,PRO-812,1978,4
+11,Basic Math AKA Fun With Numbers,CX-2661,1977,4
+12,Basic Programming,CX-2620,1979,4
+13,Basketball,CX-2624,1978,4
+14,Battlezone,CX-2681,1983,4
+15,Berzerk,CX-2650,1982,4
+16,Big Bird's Egg Catch,CX-26104,1983,4
+17,Blackjack,CX-2651,1977,4
+18,Bowling,CX-2628,1979,4
+19,Brain Games,CX-2664,1978,4
+20,Breakout,CX-2622,1978,4
+21,Canyon Bomber,CX-2607,1979,4
+22,Casino,CX-2652,1978,4
+23,Centipede,CX-2676,1982,4
+24,Circus Atari,CX-2630,1980,4
+25,Codebreaker,CX-2643,1978,4
+26,Combat,CX-2601,1977,4
+27,Concentration aka A Game of Concentration,CX-2642,1978,4
+28,Cookie Monster Munch,CX-26102,1983,4
+29,Crazy Climber,CX-2683,1982,4
+30,Crossbow,CX-26139,1987,4
+31,Crystal Castles,CX-26110,1983,4
+32,Dark Chambers,CX-26151,1988,4
+33,Defender,CX-2609,1982,4
+34,Defender II,CX-26120,1988,4
+35,Demons to Diamonds,CX-2615,1982,4
+36,Desert Falcon,CX-26140,1987,4
+37,Diagnostic Cartridge,TE-016643,,4
+38,Dig Dug,CX-2677,1983,4
+39,Dodge 'Em,CX-2637,1980,4
+40,Double Dunk,CX-26159,1989,4
+41,E.T. the Extra-Terrestrial,CX-2674,1982,4
+42,Fatal Run,CX-26162,1990,4
+43,Flag Capture,CX-2644,1978,4
+44,Football,CX-2625,1978,4
+45,Frog Pond,CX-2665,,4
+46,Galaxian,CX-2684,1983,4
+47,Golf,CX-2634,1980,4
+48,Gravitar,CX-2685,1983,4
+49,Gremlins,CX-26127,1984,4
+50,Hangman,CX-2662,1978,4
+51,Haunted House,CX-2654,1982,4
+52,Home Run,CX-2623,1978,4
+53,Human Cannonball,CX-2627,1979,4
+54,Hunt &amp; Score (see Concentration),CX-2642,1978,4
+55,Ikari Warriors,CX-26177,1989,4
+56,Indy 500,CX-2611,1977,4
+57,Joust,CX-2691,1983,4
+58,Jr. Pac-Man,CX-26123,1986,4
+59,Jungle Hunt,CX-2688,1983,4
+60,Kangaroo,CX-2689,1983,4
+61,Klax,CX-26192,1990,4
+62,Krull,CX-2682,1983,4
+63,Mario Bros.,CX-2697,1983,4
+64,Math Gran Prix,CX-2658,1982,4
+65,Maze Craze: A Game of Cops and Robbers,CX-2635,1978,4
+66,Midnight Magic,CX-26129,1986,4
+67,Millipede,CX-26118,1984,4
+68,Miniature Golf,CX-2626,1979,4
+69,Missile Command,CX-2638,1981,4
+70,Moon Patrol,CX-2692,1983,4
+71,MotoRodeo,CX-26171,1990,4
+72,Ms. Pac-Man,CX-2675,1983,4
+73,Night Driver,CX-2633,1978,4
+74,Obelix,CX-26117,1983,4
+75,Off the Wall,CX-26168,1989,4
+76,Oscar's Trash Race,CX-26101,1983,4
+77,Othello,CX-2639,1980,4
+78,Outlaw,CX-2605,1978,4
+79,Pac-Man,CX-2646,1982,4
+80,PelÃ©'s Soccer,CX-2616,1980,4
+81,Pengo,CX-2690,1984,4
+82,Pepsi Invaders,CX-2632H,1983,4
+83,Phoenix,CX-2673,1982,4
+84,Pigs in Space,CX-26114,1983,4
+85,Polo,CX-PROTO,1983,4
+86,Pole Position,CX-2694,1983,4
+87,Quadrun,CX-2686,1983,4
+88,Racing Pak,PRO-811,1982,4
+89,Radar Lock,CX-26176,1989,4
+90,Raiders of the Lost Ark,CX-2659,1982,4
+91,RealSports Baseball,CX-2640,1982,4
+92,RealSports Boxing,CX-26135,1987,4
+93,RealSports Football,CX-2668,1982,4
+94,RealSports Soccer,CX-2667,1983,4
+95,RealSports Tennis,CX-2680,1983,4
+96,RealSports Volleyball,CX-2666,1982,4
+97,Road Runner,CX-2663,1989,4
+98,Rubik's Cube,CX-2698,1983,4
+99,Secret Quest,CX-26170,1989,4
+100,Sentinel,CX-26183,1990,4
+101,Signal Tracing Cartridge,CX-,-,4
+102,Sky Diver,CX-2629,1979,4
+103,Slot Machine,CX-2653,1979,4
+104,Slot Racers,CX-2606,1978,4
+105,Snoopy and the Red Baron,CX-26111,1983,4
+106,Solaris,CX-26136,1986,4
+107,Sorcerer's Apprentice,CX-26109,1983,4
+108,Space Invaders,CX-2632,1980,4
+109,Space War,CX-2604,1978,4
+110,Sprintmaster,CX-26155,1988,4
+111,Stargate,CX-26120,1984,4
+112,Star Raiders,CX-2660,1982,4
+113,Star Ship,CX-2603,1977,4
+114,Steeplechase,CX-2614,1980,4
+115,Stellar Track,CX-2619,1981,4
+116,Street Racer,CX-2612,1977,4
+117,Submarine Commander,CX-2647,1982,4
+118,Super Baseball,CX-26152,1988,4
+119,Super Breakout,CX-2608,1978,4
+120,Super Football,CX-26154,1988,4
+121,Superman,CX-2631,1978,4
+122,Surround,CX-2641,1977,4
+123,Swordquest: Earthworld,CX-2656,1982,4
+124,Swordquest: Fireworld,CX-2657,1983,4
+125,Swordquest: Waterworld,CX-2671,1983,4
+126,Taz,CX-2699,1983,4
+127,Track &amp; Field,CX-26125,1983,4
+128,Vanguard,CX-2669,1982,4
+129,Video Checkers,CX-2636,1980,4
+130,Video Chess,CX-2645,1979,4
+131,Video Olympics,CX-2621,1977,4
+132,Video Pinball,CX-2648,1980,4
+133,Warlords,CX-2610,1981,4
+134,Xenophobe,CX-26172,1990,4
+135,Yars' Revenge,CX-2655,1982,4
+136,Acid Drop,,1992,4
+137,Actionauts,,2008,4
+138,The Activision Decathlon,,1983,4
+139,Adventures of Tron,,1982,4
+140,Airlock,,1982,4
+141,Air Raid,,1982,4
+142,Air Raiders,,1982,4
+143,Alien,,1982,4
+144,Alien's Return,,1983,4
+145,Amidar,,1982,4
+146,Armor Ambush,,1982,4
+147,Artillery Duel/Chuck Norris Superkicks,,1983,4
+148,Artillery Duel/Ghost Manor,,1983,4
+149,Artillery Duel/Spike's Peak,,1983,4
+150,Artillery Duel,,1983,4
+151,Assault,,1983,4
+152,Astroblast,,1982,4
+153,Atlantis,,1982,4
+154,Atlantis II,,1982,4
+155,Bachelor Party,,1982,4
+156,Bachelorette Party,,1982,4
+157,Bank Heist,,1983,4
+158,Barnstorming,,1982,4
+159,Beamrider,,1983,4
+160,Beany Bopper,,1982,4
+161,Beat Em and Eat Em,,1983,4
+162,Berenstain Bears,,1983,4
+163,Bermuda Triangle,,1982,4
+164,Birthday Mania,,1984,4
+165,Blue Print,,1983,4
+166,BMX Airmaster,,1989,4
+167,Bobby Is Going Home,,1983,4
+168,Boing!,,1983,4
+169,Boxing,,1980,4
+170,Bridge,,1981,4
+171,Buck Rogers: Planet of Zoom,,1983,4
+172,Bugs,,1982,4
+173,Bumper Bash,,1983,4
+174,Bump 'n' Jump,,1983,4
+175,BurgerTime,,1982,4
+176,Burning Desire,,1983,4
+177,Busy Police,,1983,4
+178,Cakewalk,,1983,4
+179,California Games,,1987,4
+180,Carnival,,1982,4
+181,Cathouse Blues,,1982,4
+182,Challenge,,,4
+183,Challenge of Nexar,,1982,4
+184,Chase the Chuck Wagon,,1983,4
+185,Checkers,,1981,4
+186,China Syndrome,,1983,4
+187,Chopper Command,,1982,4
+188,Chuck Norris Superkicks/Ghost Manor,,1983,4
+189,Chuck Norris Superkicks/Spike's Peak,,1983,4
+190,Chuck Norris Superkicks,,1983,4
+191,Coconuts,,1982,4
+192,Commando,,1988,4
+193,Commando Raid,,1982,4
+194,Communist Mutants from Space (Cassette),,1982,4
+195,Condor Attack,,1983,4
+196,Confrontation,,1983,4
+197,Congo Bongo,,1983,4
+198,Cosmic Ark,,1982,4
+199,Cosmic Commuter,,1984,4
+200,Cosmic Corridor,,1983,4
+201,Cosmic Creeps,,1982,4
+202,Cosmic Free Fire,,,4
+203,Cosmic Swarm,,1982,4
+204,Crab Control,,,4
+205,Crackpots,,1983,4
+206,Crash Dive,,1983,4
+207,Cross Force,,1983,4
+208,Cruise Missile,,1987,4
+209,Crypts of Chaos,,1982,4
+210,Cubicolor,,1982,4
+211,Custer's Revenge,,1982,4
+212,Dancing Plate,,1982,4
+213,Dark Cavern,,1982,4
+214,Deadly Discs,,1983,4
+215,Deadly Duck,,1982,4
+216,Death Trap,,1983,4
+217,Demolition Herby,,1983,4
+218,Demon Attack,,1982,4
+219,Dice Puzzle,,1983,4
+220,Dishaster,,1983,4
+221,Dolphin,,1983,4
+222,Donkey Kong,,1982,4
+223,Donkey Kong Junior,,1983,4
+224,Double Dragon,,1989,4
+225,Dragon Treasure,,,4
+226,Dragonfire,,1982,4
+227,Dragonstomper (cassette),,1982,4
+228,Dumbo's Flying Circus,,1983,4
+229,Dragster,,1980,4
+230,Earth Dies Screaming,,1982,4
+231,Earth Attack,,,4
+232,"Eddy Langfinger, der Museumsdieb",,1983,4
+233,Eggomania,,1982,4
+234,Eli's Ladder,,1982,4
+235,Encounter at L-5,,1982,4
+236,Enduro,,1983,4
+237,Entombed,,1982,4
+238,Escape From The Mindmaster (Cassette),,1982,4
+239,Espial,,1984,4
+240,Exocet,,1983,4
+241,Exocet Missile,,,4
+242,Extra Terrestrials,,1984,4
+243,Fantastic Voyage,,1982,4
+244,Farmer Dan,,,4
+245,Fast Eddie,,1982,4
+246,Fast Food,,1982,4
+247,Fathom,,1983,4
+248,Fighter Pilot,,,4
+249,Final Approach,,1982,4
+250,Fireball (cassette),,1982,4
+251,Fire Fighter,,1982,4
+252,Fire Fly,,1983,4
+253,Fisher Price,,,4
+254,Fishing Derby,,1980,4
+255,Flash Gordon,,1983,4
+256,Frankenstein's Monster,,1983,4
+257,Freeway,,1981,4
+258,Frogger,,1982,4
+259,Frogs and Flies,,1982,4
+260,The Official Frogger (cassette),,1983,4
+261,Frogger II: Threeedeep!,,1984,4
+262,Front Line,,1984,4
+263,Frostbite,,1983,4
+264,Gamma-Attack,,1983,4
+265,Gangster Alley,,1983,4
+266,Gas Hog,,1983,4
+267,Gauntlet,,1983,4
+268,Ghostbusters,,1985,4
+269,Ghostbusters II,,1990/1992,4
+270,Ghost Manor/Spike's Peak,,1983,4
+271,Ghost Manor,,1983,4
+272,G.I. Joe: Cobra Strike,,1983,4
+273,Gigolo,,1982,4
+274,Glacier Patrol,,1983,4
+275,Glib,,1983,4
+276,Gopher,,1982,4
+277,Gorf,,1982,4
+278,Grand Prix,,1982,4
+279,Great Escape,,1983,4
+280,Guardian,,1982,4
+281,Gyruss,,1984,4
+282,Halloween,,1983,4
+283,Harbor Escape,,1983,4
+284,H.E.R.O.,,1984,4
+285,I Want My Mommy,,1983,4
+286,Ice Hockey,,1981,4
+287,Inca Gold,,,4
+288,Infiltrate,,1982,4
+289,International Soccer,,1982,4
+290,James Bond 007,,1983,4
+291,Jawbreaker,,1982,4
+292,Journey Escape,,1982,4
+293,Jungle Fever,,1982,4
+294,Kaboom!,,1981,4
+295,Karate,,1982,4
+296,Keystone Kapers,,1983,4
+297,Killer Satellites (Cassette),,1982,4
+298,King Kong,,1982,4
+299,Knight on the Town,,1982,4
+300,Kool-Aid Man,,1983,4
+301,Kung-Fu Master,,1987,4
+302,Lady in Wading,,1982,4
+303,Laser Blast,,1981,4
+304,Laser Gates,,1983,4
+305,Laser Volley,,1983,4
+306,Lochjaw,,1982,4
+307,Lock 'n' Chase,,1982,4
+308,London Blitz,,1983,4
+309,Lost Luggage,,1982,4
+310,M.A.D.,,1982,4
+311,MagiCard,,1981,4
+312,Malagai,,1983,4
+313,Mangia,,1983,4
+314,Marauder,,1982,4
+315,Marine Wars,,1983,4
+316,M*A*S*H,,1982,4
+317,Master Builder,,1983,4
+318,Masters of the Universe: The Power of He-Man,,1983,4
+319,MegaBoy,,,4
+320,Mega Force,,1982,4
+321,Megamania,,1982,4
+322,Miner 2049er,,1983,4
+323,Miner 2049er II,,1982,4
+324,Mines of Minos,,1983,4
+325,Missile Control,,1983,4
+326,Mission 3000 A.D.,,1983,4
+327,Mission Survive,,1983,4
+328,Mogul Maniac,,1983,4
+329,Montezuma's Revenge: Starring Panama Joe,,1984,4
+330,Moonsweeper,,1983,4
+331,Motocross,,1983,4
+332,Motocross Racer,,1984,4
+333,Mountain King,,1983,4
+334,Mouse Trap,,1982,4
+335,Mr. Do!,,1983,4
+336,Mr. Do's Castle,,1984,4
+337,Mr. Postman,,1983,4
+338,The Music Machine,,1983,4
+339,My Golf,,1990,4
+340,Name This Game,,1982,4
+341,Nightmare,,1983,4
+342,Night Stalker,,1989,4
+343,No Escape!,,1983,4
+344,Nuts,,1983,4
+345,Ocean City Defender,,,4
+346,Off Your Rocker,,1983,4
+347,Oink!,,1983,4
+348,Omega Race,,1983,4
+349,Open Sesame,,1983,4
+350,Out of Control,,1983,4
+351,Pac-Kong,,1983,4
+352,Panda Chase,,,4
+353,Parachute,,1983,4
+354,Party Mix (cassette),,1983,4
+355,Pete Rose Baseball,,1988,4
+356,Phantom Tank,,,4
+357,Phantom-Panzer,,1983,4
+358,Phaser Patrol (cassette),,1982,4
+359,Philly Flasher,,1982,4
+360,Pick 'n Pile,,1990,4
+361,Pick Up,,2002,4
+362,Picnic,,1983,4
+363,Piece o' Cake,,1983,4
+364,Pinball,,,4
+365,Piraten-Schiff,,,4
+366,Pitfall!,,1982,4
+367,Pitfall II: Lost Caverns,,1984,4
+368,Planet Patrol,,1983,4
+369,Planeten Patrouile,,,4
+370,Plaque Attack,,1983,4
+371,Polaris,,1982,4
+372,Pooyan,,1983,4
+373,Popeye,,1983,4
+374,Porky's,,1983,4
+375,Pressure Cooker,,1983,4
+376,Private Eye,,1983,4
+377,Pyramid War,,,4
+378,Q*bert,,1983,4
+379,Q*bert's Qubes,,1984,4
+380,Quest for Quintana Roo,,1983,4
+381,Quick Step,,1983,4
+382,Rabbit Transit (cassette),,1983,4
+383,Racquetball,,1981,4
+384,Radar,,,4
+385,Raft Rider,,1983,4
+386,Ram It,,1983,4
+387,Rampage,,1989,4
+388,Reactor,,1982,4
+389,Red Sea Crossing,,1983,4
+390,Rescue Terra 1,,1982,4
+391,Revenge of the Beefsteak Tomatoes,,1983,4
+392,Riddle of the Sphinx,,1982,4
+393,River Patrol,,1984,4
+394,River Raid,,1982,4
+395,River Raid II,,1988,4
+396,Robin Hood/Sir Lancelot - The Joust,,1983,4
+397,Robin Hood,,1983,4
+398,Robot Commando Raid,,,4
+399,Robot Tank,,1983,4
+400,Roc 'N Rope,,1984,4
+401,Room of Doom,,1982,4
+402,Save Our Ship,,,4
+403,Save the Whales,,1983,4
+404,Scraper Caper,,,4
+405,Scuba Diver,,,4
+406,Sea Hawk,,1988,4
+407,Seahawk,,1982,4
+408,Seamonster,,1982,4
+409,Seaquest,,1983,4
+410,Shark Attack,,1982,4
+411,Shootin' Gallery,,1983,4
+412,Shuttle Orbiter,,1983,4
+413,Sir Lancelot,,1983,4
+414,Skate Boardin': A Radical Adventure,,1987,4
+415,Skeet Shoot,,1981,4
+416,Skiing,,1980,4
+417,Sky Jinks,,1982,4
+418,Sky Skipper,,1983,4
+419,Smurf: Rescue in Gargamel's Castle,,1982,4
+420,Snail Against Squirrel,,1983,4
+421,Sneak 'N Peek,,1982,4
+422,Solar Fox,,1983,4
+423,Solar Storm,,1983,4
+424,Sorcerer,,1983,4
+425,Space Adventure,,,4
+426,Space Attack,,1982,4
+427,Space Canyon,,1983,4
+428,Space Cavern,,1982,4
+429,Spacechase,,1981,4
+430,Space Grid,,,4
+431,Space Jockey,,1982,4
+432,Spacemaster X-7,,1983,4
+433,Space Shuttle: A Journey into Space,,1983,4
+434,Spiderdroid,,1987,4
+435,Spider Fighter,,1982,4
+436,Spider-Man,,1982,4
+437,Spider Maze,,,4
+438,Spike's Peak,,1983,4
+439,Spitfire Attack,,1983,4
+440,Springer,,1983,4
+441,Spy Hunter,,1984,4
+442,Squeeze Box,,1982,4
+443,Sssnake,,1982,4
+444,Stampede,,1981,4
+445,Star Fox,,1983,4
+446,Stargunner,,1982,4
+447,Starmaster,,1982,4
+448,Star Strike,,1982,4
+449,Star Trek: Strategic Operations Simulator,,1983,4
+450,Star Voyager,,1982,4
+451,Star Wars: The Arcade Game,,1984,4
+452,Star Wars: Jedi Arena,,1983,4
+453,Star Wars Return of the Jedi: Death Star Battle,,1983,4
+454,Star Wars: The Empire Strikes Back,,1982,4
+455,Strategy X,,1983,4
+456,Strawberry Shortcake: Musical Match-ups,,1983,4
+457,Stronghold,,1983,4
+458,Stunt Man,,1983,4
+459,Sub-Scan,,1983,4
+460,Subterranea,,1983,4
+461,Suicide Mission (cassette),,1982,4
+462,Summer Games,,1987,4
+463,Super Baumeister,,,4
+464,Super Challenge Baseball,,1982,4
+465,Super Challenge Football,,1982,4
+466,Super Cobra,,1983,4
+467,Surfer's Paradise: But Danger Below!,,1983,4
+468,Survival Island (cassette),,1983,4
+469,Survival Run,,1983,4
+470,Swedish Erotica: Bachelor Party,,1983,4
+471,Swedish Erotica: Beat' Em &amp; Eat 'Em,,1982,4
+472,Swedish Erotica: Custer's Revenge,,1983,4
+473,Sword of Saros (cassette),,1983,4
+474,Tac-Scan,,1983,4
+475,Tank Brigade,,1983,4
+476,Tank City,,,4
+477,Tanks But No Tanks,,1983,4
+478,Tapeworm,,1982,4
+479,Tapper,,1984,4
+480,Task Force,,1988,4
+481,Tax Avoiders,,1982,4
+482,Tennis,,1981,4
+483,The Texas Chainsaw Massacre,,1983,4
+484,The Smurfs Save the Day[13],,1983,4
+485,Threshold,,1983,4
+486,Thunderground,,1983,4
+487,Time Pilot,,1983,4
+488,Time Warp,,,4
+489,Title Match Pro Wrestling,,1987,4
+490,Tomarc The Barbarian,,1983,4
+491,Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator,,1988,4
+492,Tooth Protectors,,1983,4
+493,Towering Inferno,,1982,4
+494,Treasure Below,,,4
+495,Trick Shot,,1983,4
+496,Tron: Deadly Discs,,1982,4
+497,Tunnel Runner,,1983,4
+498,Turmoil,,1982,4
+499,Tutankham,,1983,4
+500,Universal Chaos,,1983,4
+501,Up'n Down,,1984,4
+502,Venture,,1982,4
+503,Video Jogger,,1983,4
+504,Video Life,,1981,4
+505,Video Reflex,,1983,4
+506,Vulture Attack,,,4
+507,Wabbit,,1982,4
+508,Wall Ball,,1983,4
+509,Wall Defender,,1983,4
+510,War Zone,,,4
+511,Warplock,,1982,4
+512,Weltraumtunnel (Space Tunnel),,1982,4
+513,Wing War,,1983,4
+514,Winter Games,,1987,4
+515,Wizard of Wor,,1982,4
+516,Word Zapper,,1982,4
+517,Worm War I,,1982,4
+518,X-man,,1983,4
+519,Z-Tack,,1983,4
+520,Zaxxon,,1982,4
+521,Zoo Fun,,,4
+522,2005 Minigame Multicart,,2005,4
+523,2048 2600,,2014,4
+524,A-VCS-tec Challenge,,2006,4
+525,Alfred Challenge,,1998,4
+526,Allia Quest,,2001,4
+527,Alien Greed,,2007,4
+528,Alien Greed 2,,2008,4
+529,Alien Greed 3,,2010,4
+530,Alien Greed 4,,2012,4
+531,Bee-Ball,,2007,4
+532,Bell Hopper,,2011,4
+533,Boulder Dash,,2011,4
+534,Climber 5,,2004,4
+535,Conquest of Mars,,2006,4
+536,Duck Attack!,,2010,4
+537,Edtris 2600,,1995,4
+538,Euchre,,2002,4
+539,Fall Down,,2005,4
+540,FlapPing,,2004,4
+541,Four-Play,,2006,4
+542,Go Fish!,,2005,4
+543,Gunfight,,2001,4
+544,Halo 2600,,2010,4
+545,Hunchy II,,2005,4
+546,Jammed,,2001,4
+547,Juno First,,2009,4
+548,K.O. Cruiser,,2010,4
+549,Lady Bug,,2006,4
+550,Marble Craze,,2002,4
+551,Mean Santa,,2009,4
+552,Medieval Mayhem,,2006,4
+553,Okie Dokie,,1996,4
+554,Oystron,,1997,4
+555,Pesco,,1999,4
+556,Pressure Gauge,,1999,4
+557,Qb,,2001,4
+558,SCSIcide,,2001,4
+559,Seawolf,,2004,4
+560,Skeleton+,,2003,4
+561,Snappy,,2012,4
+562,Sound X,,1994,4
+563,Space Rocks,,2013,4
+564,Space Treat Deluxe,,2003,4
+565,Space Instigators,,2002,4
+566,Squish 'Em,,2007,4
+567,Star Fire,,2003,4
+568,Stay Frosty,,2007,4
+569,Stay Frosty 2,,2014,4
+570,Stell-A-Sketch/Okie Dokie,,1997,4
+571,Strat-O-Gems Deluxe,,2005,4
+572,SWOOPS!,,2005,4
+573,Synthcart,,2002,4
+574,The Wicked Father,,2011,4
+575,Thrust,,2000,4
+576,Toyshop Trouble,,2007,4
+577,Turbo,,2010,4
+578,Vault Assault,,2001,4
+579,Vong,,2008,4
+580,Warring Worms,,2002,4
+581,#IDARB,,1/30/2015,69
+582,#KILLALLZOMBIES,,8/10/2016,69
+583,'n Verlore Verstand,,4/21/2017,69
+584,10 Second Ninja X,,7/19/2016,69
+585,101 Ways To Die,,3/18/2016,69
+586,10tons Adventure Puzzles Bundle,,11/25/2016,69
+587,140,,8/30/2016,69
+588,2Dark,,3/10/2017,69
+589,30 Song Mega Pack,,12/5/2014,69
+590,6180 the moon,,12/11/2015,69
+591,7 Days to Die,,6/28/2016,69
+592,88 Heroes,,3/24/2017,69
+593,8DAYS,,2/7/2017,69
+594,[PROTOTYPE®],,8/12/2015,69
+595,A Boy and His Blob,,1/20/2016,69
+596,A KING'S TALE: FINAL FANTASY XV,,11/29/2016,69
+597,A Pixel Story,,2/24/2017,69
+598,A Walk in the Dark,,5/20/2017,69
+599,Aaero,,4/11/2017,69
+600,ABZU,,12/6/2016,69
+601,Acorn Assault: Rodent Revolution,,1/11/2017,69
+602,Action Henk,,3/4/2016,69
+603,Action News Heroes,,7/27/2016,69
+604,Active Soccer 2 DX,,3/30/2016,69
+605,Adventure Pop,,2/7/2017,69
+606,Adventure Time: Finn and Jake Investigations,,10/20/2015,69
+607,Adventures of Pip,,8/21/2015,69
+608,AFL Evolution,,5/5/2017,69
+609,Agatha Christie - The ABC Murders,,2/23/2016,69
+610,Agents of Mayhem,,8/15/2017,69
+611,Air Guitar Warrior for Kinect,,3/29/2017,69
+612,AirMech® Arena,,5/12/2015,69
+613,Alien: Isolation - The Collection,,10/27/2015,69
+614,Amazing Princess Sarah,,1/29/2016,69
+615,Among the Sleep,,6/3/2016,69
+616,Anarcute,,7/12/2016,69
+617,Anima: Gate of Memories,,6/3/2016,69
+618,Anode,,8/10/2016,69
+619,Another World - 20th Anniversary Edition,,6/25/2014,69
+620,Anoxemia,,3/28/2017,69
+621,APB Reloaded,,6/3/2016,69
+622,AQUA KITTY UDX: Xbox One Ultra Edition,,2/3/2017,69
+623,ARCADE GAME SERIES 3-in-1 Pack,,4/20/2016,69
+624,ARCADE GAME SERIES: DIG DUG,,4/20/2016,69
+625,ARCADE GAME SERIES: GALAGA,,4/20/2016,69
+626,ARCADE GAME SERIES: Ms. PAC-MAN,,4/20/2016,69
+627,ARCADE GAME SERIES: PAC-MAN,,4/20/2016,69
+628,ARK: Survival Evolved,,8/29/2017,69
+629,Armello,,8/30/2016,69
+630,Armikrog,,8/23/2016,69
+631,ARSLAN: THE WARRIORS OF LEGEND,,2/9/2016,69
+632,Artifex Mundi Essential Bundle,,12/16/2016,69
+633,Artifex Mundi Fantasy Bundle,,3/24/2017,69
+634,Assassin's Creed IV Black Flag,,11/22/2013,69
+635,Assassin's Creed Unity,,11/11/2014,69
+636,Assassin's Creed® Chronicles: China,,4/21/2015,69
+637,Assassin's Creed® Chronicles: India,,1/12/2016,69
+638,Assassin's Creed® Chronicles: Russia,,2/9/2016,69
+639,Assassin's Creed® Origins,,10/27/2017,69
+640,Assassin's Creed® Syndicate,,10/23/2015,69
+641,Assassin's Creed® The Ezio Collection,,11/15/2016,69
+642,Assetto Corsa,,8/30/2016,69
+643,ASTRONEER (Game Preview),,12/17/2016,69
+644,Atari Flashback Classics Vol. 1,,11/2/2016,69
+645,Atari Flashback Classics Vol. 2,,11/2/2016,69
+646,Attack on Titan,,8/30/2016,69
+647,ATV Renegades,,4/18/2017,69
+648,Aven Colony,,7/25/2017,69
+649,Awesomenauts Assemble!,,9/7/2016,69
+650,Axiom Verge,,9/30/2016,69
+651,Back to the Future: The Game - 30th Anniversary Edition,,10/14/2015,69
+652,BADLAND: Game of the Year Edition,,5/29/2015,69
+653,Baila Latino,,8/17/2016,69
+654,Bard's Gold,,6/17/2016,69
+655,Baseball Riot,,12/9/2015,69
+656,Bastion,,12/12/2016,69
+657,Batman: Return to Arkham,,10/18/2016,69
+658,Batman: The Telltale Series - The Complete Season (Episodes 1-5),,8/2/2016,69
+659,Batman™: Arkham Knight,,6/23/2015,69
+660,Battle Ages,,4/20/2016,69
+661,Battle Islands,,10/9/2015,69
+662,Battle Islands: Commanders,,2/14/2017,69
+663,Battle Worlds: Kronos,,4/26/2016,69
+664,Battleborn,,5/3/2016,69
+665,Battlefield 4,,11/22/2013,69
+666,Battlefield Bundle,,6/24/2015,69
+667,Battlefield™ 1,,10/21/2016,69
+668,Battlefield™ Hardline Standard Edition,,3/17/2015,69
+669,BATTLESHIP®,,8/2/2016,69
+670,Beach Buggy Racing,,5/29/2015,69
+671,Beatsplosion for Kinect,,12/30/2015,69
+672,Bedlam - The Game By Christopher Brookmyre,,10/16/2015,69
+673,Ben-Hur,,8/9/2016,69
+674,Beyond Eyes,,8/4/2015,69
+675,Big Buck Hunter Arcade,,10/25/2016,69
+676,Bike Mayhem 2,,2/5/2016,69
+677,BioShock: The Collection,,9/13/2016,69
+678,Bit Dungeon Plus,,5/5/2017,69
+679,Black &amp; White Bushido,,5/17/2017,69
+680,Black The Fall,,7/11/2017,69
+681,Blackwood Crossing,,4/5/2017,69
+682,BLADESTORM: Nightmare,,3/17/2015,69
+683,Blast Brawl 2,,10/26/2016,69
+684,BLAZBLUE CHRONOPHANTASMA EXTEND,,6/30/2015,69
+685,Blood Bowl 2,,9/22/2015,69
+686,Bloons TD 5,,3/3/2017,69
+687,Blue Estate,,2/18/2015,69
+688,Blue-Collar Astronaut,,3/17/2017,69
+689,Blues and Bullets - Episode 1,,8/28/2015,69
+690,Boggle,,8/4/2015,69
+691,Bombing Busters,,11/18/2016,69
+692,Boom Ball 2 for Kinect,,12/21/2016,69
+693,Boom Ball for Kinect,,11/28/2014,69
+694,Borderlands: The Handsome Collection,,3/24/2015,69
+695,Breach &amp; Clear: Deadline,,8/3/2016,69
+696,Brick Breaker,,4/26/2016,69
+697,Bridge Constructor,,8/21/2015,69
+698,Bridge Constructor Stunts,,12/16/2016,69
+699,Broken Sword 5 - the Serpent’s Curse,,9/4/2015,69
+700,Brothers: a Tale of Two Sons,,8/12/2015,69
+701,Brunswick® Pro Bowling,,11/27/2015,69
+702,Bulletstorm: Full Clip Edition Duke Nukem Bundle,,4/7/2017,69
+703,BUTCHER,,5/10/2017,69
+704,Cabela’s® African Adventures,,3/17/2015,69
+705,Call of Duty®: Advanced Warfare Digital Pro Edition,,11/3/2014,69
+706,Call of Duty®: Black Ops III - Gold Edition,,7/12/2016,69
+707,Call of Duty®: Ghosts,,11/22/2013,69
+708,Call of Duty®: Infinite Warfare - Launch Edition,,11/4/2016,69
+709,Call of Duty®: WWII - Launch Edition,,11/3/2017,69
+710,Candleman,,2/1/2017,69
+711,Cannon Brawl,,8/5/2016,69
+712,Carmageddon: Max Damage,,7/8/2016,69
+713,Cartoon Network: Battle Crashers,,11/8/2016,69
+714,Casey Powell Lacrosse 16,,3/9/2016,69
+715,Cast of the Seven Godsends - Redux,,7/20/2016,69
+716,Castle Crashers Remastered,,9/9/2015,69
+717,Castle Invasion: Throne Out,,10/12/2016,69
+718,Castles,,10/5/2016,69
+719,CastleStorm - Definitive Edition,,9/24/2014,69
+720,Cel Damage HD,,3/11/2016,69
+721,Chariot Bundle,,9/21/2015,69
+722,Chess Ultra,,6/23/2017,69
+723,Child of Light,,4/30/2014,69
+724,Chime Sharp,,2/24/2017,69
+725,Chivalry: Medieval Warfare,,12/2/2015,69
+726,Chroma Squad,,5/19/2017,69
+727,Cities: Skylines - Xbox One Edition,,4/21/2017,69
+728,Clash,,8/21/2015,69
+729,Clicker Heroes,,3/10/2017,69
+730,Clockwork Tales: Of Glass and Ink,,1/22/2016,69
+731,Clouds &amp; Sheep 2,,11/18/2016,69
+732,ClusterTruck,,10/28/2016,69
+733,Cobalt,,2/2/2016,69
+734,Coffin Dodgers,,5/6/2016,69
+735,Commander Cherry for Kinect,,8/14/2015,69
+736,Conan Exiles (Game Preview),,12/31/2799,69
+737,Conga Master,,7/21/2017,69
+738,Contrast,,6/26/2014,69
+739,Costume Quest 2,,10/29/2014,69
+740,Crawl,,4/11/2017,69
+741,Crazy Sports Bundle,,8/12/2016,69
+742,Crimson Dragon,,11/22/2013,69
+743,Crimsonland,,10/14/2015,69
+744,Crossout,,5/30/2017,69
+745,Crypt of the NecroDancer,,2/10/2017,69
+746,Crypt of the Serpent King,,12/21/2016,69
+747,Cubot - The Complexity of Simplicity,,1/8/2016,69
+748,Cuphead,,9/30/2017,69
+749,D4: Dark Dreams Don't Die,,9/19/2014,69
+750,Dad Beat Dads,,2/5/2016,69
+751,Dance Central Spotlight,,9/2/2014,69
+752,Danger Zone,,10/10/2017,69
+753,Dangerous Golf,,6/3/2016,69
+754,Dark Arcana: The Carnival,,3/17/2017,69
+755,DARK SOULS™ III,,4/12/2016,69
+756,Darksiders Fury's Collection - War and Death,,5/2/2017,69
+757,Darksiders II Deathinitive Edition,,10/30/2015,69
+758,Darksiders III,,12/31/2799,69
+759,Darksiders Warmastered Edition,,11/22/2016,69
+760,DC Universe Online,,4/29/2016,69
+761,Dead Effect 2,,1/13/2017,69
+762,Dead Island Definitive Edition,,5/31/2016,69
+763,Dead Island Retro Revenge,,8/1/2016,69
+764,Dead Island: Riptide Definitive Edition,,5/31/2016,69
+765,DEAD OR ALIVE 5 Last Round: Core Fighters,,2/19/2015,69
+766,Dead Rising,,9/13/2016,69
+767,Dead Rising 2,,9/13/2016,69
+768,Dead Rising 3: Apocalypse Edition,,11/8/2014,69
+769,Dead Rising 4 Deluxe Edition,,12/6/2016,69
+770,Deadbeat Heroes,,10/10/2017,69
+771,Deadlight: Director's Cut,,6/21/2016,69
+772,Deadpool,,11/17/2015,69
+773,Dear Esther: Landmark Edition,,9/20/2016,69
+774,Death God University,,10/14/2016,69
+775,Death Squared,,3/14/2017,69
+776,Defense Grid 2,,9/24/2014,69
+777,Deformers,,4/21/2017,69
+778,Demon's Crystals,,5/12/2017,69
+779,Destiny - The Collection,,9/20/2016,69
+780,Destiny 2 - Launch Edition,,9/6/2017,69
+781,Deus Ex: Mankind Divided™,,8/23/2016,69
+782,Devil May Cry 4 Special Edition,,6/23/2015,69
+783,Dex,,7/8/2016,69
+784,Diablo III: Reaper of Souls – Ultimate Evil Edition,,8/19/2014,69
+785,DiRT Rally,,4/5/2016,69
+786,Dishonored 2,,11/11/2016,69
+787,Dishonored®: Death of the Outsider™ Deluxe Bundle,,9/15/2017,69
+788,Disney Fantasia: Music Evolved – Digital Bundle,,10/21/2014,69
+789,Disney Infinity 3.0 Edition,,8/30/2015,69
+790,Disneyland Adventures,,10/31/2017,69
+791,Divekick,,10/8/2014,69
+792,Divinity: Original Sin - Enhanced Edition,,10/27/2015,69
+793,DmC Devil May Cry: Definitive Edition,,3/10/2015,69
+794,DMC4SE Demon Hunter Bundle,,7/5/2016,69
+795,Dogos,,9/7/2016,69
+796,Don Bradman Cricket,,2/11/2015,69
+797,Don Bradman Cricket 17,,12/15/2016,69
+798,Don't Starve: Giant Edition,,8/26/2015,69
+799,Doodle God: Ultimate Edition,,1/27/2017,69
+800,DOOM,,5/13/2016,69
+801,Dovetail Games Euro Fishing,,6/10/2016,69
+802,Dragon Age™: Inquisition - Game of the Year Edition,,10/6/2015,69
+803,DRAGON BALL XENOVERSE,,2/24/2015,69
+804,DRAGON BALL XENOVERSE 2,,10/25/2016,69
+805,Draw a Stickman: EPIC,,9/11/2015,69
+806,Drawful 2,,6/21/2016,69
+807,Dreamfall Chapters,,5/5/2017,69
+808,Duck Dynasty,,10/14/2014,69
+809,Duke Nukem 3D: 20th Anniversary World Tour,,10/11/2016,69
+810,Dungeon of the Endless,,3/16/2016,69
+811,Dungeon Punks,,7/26/2016,69
+812,Dying Light: The Following - Enhanced Edition,,2/9/2016,69
+813,Dynamite Fishing - World Games,,7/1/2016,69
+814,DYNASTY WARRIORS 8 Empires,,2/24/2015,69
+815,EA Family Bundle,,12/28/2016,69
+816,EA SPORTS™ FIFA 17,,9/27/2016,69
+817,EA SPORTS™ NBA LIVE 16,,9/29/2015,69
+818,EA SPORTS™ NHL® 17,,9/13/2016,69
+819,EA SPORTS™ NHL® 18 Standard Edition,,9/15/2017,69
+820,EA SPORTS™ Rory McIlroy PGA TOUR®,,7/14/2015,69
+821,EA SPORTS™ UFC®,,6/17/2014,69
+822,EA SPORTS™ UFC® 2,,3/15/2016,69
+823,EA SPORTS™ UFC® 3 Standard Edition,,2/2/2018,69
+824,EARTH'S DAWN,,11/2/2016,69
+825,Earthlock: Festival of Magic,,9/1/2016,69
+826,Eekeemoo Splinters of the Dark Shard,,3/3/2017,69
+827,Electronic Super Joy,,1/20/2016,69
+828,Elex,,10/17/2017,69
+829,Elite Dangerous Standard Edition,,4/26/2016,69
+830,Elliot Quest,,5/12/2017,69
+831,Embers of Mirrim,,5/24/2017,69
+832,Emerald Glazed Bundle,,5/16/2017,69
+833,Emily Wants To Play,,9/9/2016,69
+834,Energy Cycle,,12/7/2016,69
+835,Enigmatis 2: The Mists of Ravenwood,,11/25/2016,69
+836,Enigmatis Bundle,,5/19/2017,69
+837,Enigmatis: The Ghosts of Maple Creek,,4/8/2016,69
+838,Enter The Gungeon,,4/6/2017,69
+839,Ethan: Meteor Hunter,,7/1/2016,69
+840,Eventide: Slavic Fable,,9/23/2016,69
+841,EVERSPACE™,,5/26/2017,69
+842,Evolve,,2/10/2015,69
+843,F1™ 2016,,8/19/2016,69
+844,F1™ 2017 Special Edition,,8/25/2017,69
+845,Fable Fortune (Game Preview),,7/26/2017,69
+846,Fallout 4,,11/10/2015,69
+847,Fallout Shelter,,2/8/2017,69
+848,Far Cry 5,,2/27/2018,69
+849,Far Cry Primal,,2/23/2016,69
+850,Farming Simulator 15,,5/19/2015,69
+851,Farming Simulator 17,,10/25/2016,69
+852,Feist,,12/13/2016,69
+853,Fibbage: The Hilarious Bluffing Party Game,,8/21/2014,69
+854,FIFA 16 Deluxe Edition,,12/4/2015,69
+855,FIFA 18,,10/10/2017,69
+856,FINAL FANTASY TYPE-0 HD,,3/17/2015,69
+857,FINAL FANTASY XV,,11/29/2016,69
+858,Firewatch,,9/21/2016,69
+859,First-person bundle,,11/25/2015,69
+860,FlatOut 4 : Total Insanity,,5/2/2017,69
+861,Flinthook,,4/18/2017,69
+862,FOR HONOR™ Standard Edition,,2/14/2017,69
+863,FORCED,,10/21/2015,69
+864,Fortified,,2/3/2016,69
+865,Fortnite - Standard Founder’s Pack,,7/21/2017,69
+866,Forza Horizon 2 Standard - 10th Anniversary Edition,,8/18/2015,69
+867,Forza Horizon 3 Ultimate Edition,,9/28/2016,69
+868,Forza Motorsport 6 Standard Edition,,9/15/2015,69
+869,Forza Motorsport 7 Standard Edition,,10/4/2017,69
+870,Four Sided Fantasy,,3/31/2017,69
+871,Fragments of Him,,6/1/2016,69
+872,FreezeME,,9/2/2016,69
+873,Friday Night Bullet Arena,,1/13/2017,69
+874,Friday the 13th: The Game,,5/26/2017,69
+875,Frozen Free Fall: Snowball Fight,,9/15/2015,69
+876,FRU,,7/13/2016,69
+877,Fruit Ninja Kinect 2,,3/18/2015,69
+878,Full Mojo Rampage,,6/28/2016,69
+879,Funk of Titans,,1/9/2015,69
+880,Furi,,12/2/2016,69
+881,Game of Thrones - The Complete First Season (Episodes 1-6),,5/18/2015,69
+882,Gas Guzzlers Extreme,,11/4/2016,69
+883,Gears of War 3,,3/27/2012,69
+884,Gears of War 4,,10/12/2016,69
+885,Gemini: Heroes Reborn,,1/19/2016,69
+886,Gems of War,,11/11/2015,69
+887,Geometry Wars™ 3: Dimensions Evolved,,4/1/2015,69
+888,Ghost Blade HD,,2/28/2017,69
+889,Ghostbusters™,,7/12/2016,69
+890,Giana Sisters: Dream Runners,,8/19/2015,69
+891,Giana Sisters: Twisted Dreams - Director's Cut,,12/12/2014,69
+892,Gigantic,,6/23/2017,69
+893,Goat Simulator,,4/17/2015,69
+894,Gone Home: Console Edition,,1/13/2016,69
+895,Goosebumps: The Game,,10/14/2015,69
+896,Grand Prix Rock 'N Racing,,5/13/2016,69
+897,Grand Theft Auto V,,11/18/2014,69
+898,GRIDD: Retroenhanced,,7/26/2017,69
+899,Grim Legends: The Forsaken Bride,,6/10/2016,69
+900,GROW UP,,8/16/2016,69
+901,Guacamelee! Super Turbo Championship Edition,,7/2/2014,69
+902,"Guns, Gore and Cannoli",,9/25/2015,69
+903,Gunscape,,3/2/2016,69
+904,GunWorld: Xbox One Edition,,9/16/2015,69
+905,Gwent: The Witcher Card Game (Game Preview),,1/1/2800,69
+906,"Hack, Slash &amp; Backstab",,8/31/2016,69
+907,Halo 3,,7/6/2010,69
+908,Halo 5: Guardians,,10/27/2015,69
+909,Halo Wars 2: Standard Edition,,2/21/2017,69
+910,Halo Wars: Definitive Edition,,12/20/2016,69
+911,Halo: Spartan Assault,,12/23/2013,69
+912,Halo: The Master Chief Collection Digital,,11/11/2014,69
+913,Hand of Fate,,2/18/2015,69
+914,Handball 17,,11/11/2016,69
+915,Happy Dungeons,,10/5/2016,69
+916,Happy Wars,,4/24/2015,69
+917,Hard Reset Redux,,6/3/2016,69
+918,Has-Been Heroes,,3/28/2017,69
+919,Hasbro Family Fun Pack,,10/20/2015,69
+920,Hawken,,7/1/2016,69
+921,Headlander,,11/18/2016,69
+922,Heart&amp;Slash,,6/24/2016,69
+923,HeartZ: Co-Hope Puzzles,,6/8/2016,69
+924,Hello Neighbor,,12/8/2017,69
+925,Her Majesty's SPIFFING,,12/7/2016,69
+926,HITMAN™,,3/11/2016,69
+927,Homefront®: The Revolution,,5/17/2016,69
+928,Horse Racing 2016,,10/21/2016,69
+929,How To Survive 2,,2/13/2017,69
+930,How to Survive: Storm Warning Edition,,10/29/2014,69
+931,Hue,,8/30/2016,69
+932,Human Fall Flat,,5/12/2017,69
+933,Hunter's Legacy,,1/20/2017,69
+934,Hyper Light Drifter,,7/26/2016,69
+935,Hyper Void,,1/6/2016,69
+936,Hyperdrive Massacre,,1/13/2016,69
+937,I Am Bread,,1/20/2017,69
+938,"I, Zombie",,8/31/2016,69
+939,In Between,,6/8/2016,69
+940,Industry Giant 2,,12/20/2016,69
+941,Infinite Air with Mark McMorris,,10/25/2016,69
+942,Injustice™ 2,,5/16/2017,69
+943,INSIDE,,6/29/2016,69
+944,Instant Indie Collection: Vol. 1,,9/25/2015,69
+945,Instant Indie Collection: Vol. 3,,9/27/2016,69
+946,Instant Indie Collection: Vol. 4,,1/17/2017,69
+947,Instant Indie Collection: Vol. 5,,5/12/2017,69
+948,Into the Belly of the Beast,,6/22/2016,69
+949,iO,,2/14/2017,69
+950,Jet Car Stunts,,3/13/2015,69
+951,Joe Dever’s Lone Wolf Console Edition,,3/16/2016,69
+952,Jotun: Valhalla Edition,,9/9/2016,69
+953,JumpJet Rex,,4/29/2016,69
+954,Just Cause 3,,12/1/2015,69
+955,Just Dance 2016 &amp; Just Dance Disney Party 2,,3/9/2016,69
+956,Just Dance 2017®,,10/25/2016,69
+957,Just Dance® 2016,,10/20/2015,69
+958,Just Dance® Disney Party 2,,10/20/2015,69
+959,Just Sing,,9/15/2016,69
+960,KALIMBA,,12/17/2014,69
+961,Kick &amp; Fennick,,6/3/2016,69
+962,KickBeat Special Edition,,9/26/2014,69
+963,Kill The Bad Guy,,1/31/2017,69
+964,Killer Instinct,,3/29/2016,69
+965,Killing Floor 2,,8/29/2017,69
+966,Kinect Bundle: Boom Ball 2 + Squid Hero,,5/16/2017,69
+967,Kinect Mega Bundle: 4 in 1,,11/23/2016,69
+968,Kinect Sports Rivals,,4/8/2014,69
+969,Kinect Triple Bundle: Beats &amp; Booms &amp; Squids,,9/25/2016,69
+970,King Oddball,,9/9/2016,69
+971,King's Quest™,,7/29/2015,69
+972,Kingdom: New Lands,,8/9/2016,69
+973,Kitty Powers' Matchmaker,,3/10/2017,69
+974,Knight Squad,,11/16/2015,69
+975,Kona,,3/17/2017,69
+976,Kung Fu Panda Showdown of Legendary Legends,,12/1/2015,69
+977,Kung-Fu for Kinect,,6/24/2016,69
+978,KYUB,,7/13/2016,69
+979,KYURINAGA'S REVENGE,,10/25/2016,69
+980,L.A. Noire,,11/14/2017,69
+981,LA Cops,,3/13/2015,69
+982,Land It!,,6/22/2016,69
+983,Lara Croft and the Temple of Osiris,,12/9/2014,69
+984,LASTFIGHT,,9/20/2016,69
+985,Late Shift,,4/18/2017,69
+986,Layers of Fear,,2/16/2016,69
+987,Layers of Fear: Masterpiece Edition,,8/2/2016,69
+988,LEGO Marvel Super Heroes,,11/22/2013,69
+989,LEGO® Batman™ 3: Beyond Gotham,,11/11/2014,69
+990,LEGO® CITY Undercover,,4/4/2017,69
+991,LEGO® Jurassic World™,,6/12/2015,69
+992,LEGO® Marvel Super Heroes 2,,11/14/2017,69
+993,LEGO® Marvel's Avengers,,1/26/2016,69
+994,LEGO® STAR WARS™: The Force Awakens,,6/28/2016,69
+995,LEGO® The Hobbit™,,4/8/2014,69
+996,LEGO® Worlds,,3/7/2017,69
+997,Leo's Fortune,,9/11/2015,69
+998,Lethal League,,5/10/2017,69
+999,Letter Quest: Grimm's Journey Remastered,,4/8/2016,69
+1000,Level 22,,1/29/2016,69
+1001,Lichdom: Battlemage,,4/19/2016,69
+1002,Lies Of Astaroth,,8/12/2016,69
+1003,Life is Strange Complete Season (Episodes 1-5),,1/30/2015,69
+1004,Life is Strange: Before the Storm Complete Season,,8/31/2017,69
+1005,Lifeless Planet: Premier Edition,,5/13/2015,69
+1006,Light &amp; Dark Bundle,,10/26/2016,69
+1007,LIMBO,,12/5/2014,69
+1008,Little Nightmares,,4/28/2017,69
+1009,Livelock,,8/30/2016,69
+1010,LOOT Ultimate Games Bundle,,7/1/2016,69
+1011,Lords of the Fallen,,10/28/2014,69
+1012,Lost Grimoires: Stolen Kingdom,,4/28/2017,69
+1013,Lovely Planet,,1/8/2016,69
+1014,Lovers in a Dangerous Spacetime,,9/9/2015,69
+1015,Mad Max,,9/1/2015,69
+1016,Madden NFL 16,,8/25/2015,69
+1017,Madden NFL 17,,8/23/2016,69
+1018,Madden NFL 18,,8/25/2017,69
+1019,Mafia III,,10/7/2016,69
+1020,Magic Duels,,7/31/2015,69
+1021,Mahjong,,8/30/2016,69
+1022,Maldita Castilla EX - Cursed Castile,,7/20/2016,69
+1023,Mantis Burn Racing,,10/12/2016,69
+1024,Manual Samuel,,10/14/2016,69
+1025,Marvel Heroes Omega,,6/30/2017,69
+1026,Marvel Puzzle Quest: Dark Reign,,2/5/2016,69
+1027,MARVEL VS. CAPCOM: INFINITE,,9/20/2017,69
+1028,Marvel: Ultimate Alliance,,7/28/2016,69
+1029,Marvel: Ultimate Alliance 2,,7/28/2016,69
+1030,Marvel’s Guardians of the Galaxy: The Telltale Series - The Complete Season (Episodes 1-5),,4/18/2017,69
+1031,Mass Effect™: Andromeda,,3/21/2017,69
+1032,MASSIVE CHALICE,,6/1/2015,69
+1033,Max: The Curse of Brotherhood,,12/20/2013,69
+1034,Mayan Death Robots: Arena,,5/19/2017,69
+1035,Mega Coin Squad,,5/20/2015,69
+1036,Mega Man Legacy Collection 2,,8/8/2017,69
+1037,Mega Man® Legacy Collection,,8/25/2015,69
+1038,Mekazoo,,11/15/2016,69
+1039,METAL GEAR SOLID V: THE PHANTOM PAIN,,9/1/2015,69
+1040,Metro 2033 Redux,,8/26/2014,69
+1041,Metro Redux Bundle,,8/26/2014,69
+1042,Metro: Last Light Redux,,8/26/2014,69
+1043,Middle-earth™: Shadow of Mordor™ - Game of the Year Edition,,5/5/2015,69
+1044,Middle-earth™: Shadow of War™,,10/11/2017,69
+1045,Mighty No. 9,,6/21/2016,69
+1046,Mimic Arena,,5/18/2016,69
+1047,Minecraft,,9/21/2017,69
+1048,Minecraft: Story Mode - The Complete Adventure (Episodes 1-8),,4/12/2016,69
+1049,Mirror's Edge™,,6/22/2010,69
+1050,Mirror's Edge™ Catalyst,,6/7/2016,69
+1051,Mitsurugi Kamui Hikae,,2/16/2016,69
+1052,Momodora: Reverie Under the Moonlight,,3/17/2017,69
+1053,Momonga Pinball Adventures,,12/21/2016,69
+1054,Monochroma,,6/24/2016,69
+1055,MONOPOLY PLUS,,11/25/2014,69
+1056,MONSTER HUNTER: WORLD™,,1/26/2018,69
+1057,Monster Jam: Crush It!,,10/25/2016,69
+1058,Moon Hunters,,7/19/2017,69
+1059,Mordheim: City of the Damned,,10/18/2016,69
+1060,Morphite,,9/20/2017,69
+1061,Mortal Kombat XL,,3/1/2016,69
+1062,Moto Racer 4,,1/24/2017,69
+1063,Mount &amp; Blade: Warband,,9/16/2016,69
+1064,Mr. Pumpkin Adventure,,5/17/2017,69
+1065,Murdered: Soul Suspect,,6/3/2014,69
+1066,MX vs. ATV Supercross Encore,,7/15/2016,69
+1067,MXGP2,,6/21/2016,69
+1068,N.E.R.O.: Nothing Ever Remains Obscure,,5/15/2015,69
+1069,Narcosis,,5/10/2017,69
+1070,NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4,,2/9/2016,69
+1071,NASCAR Heat Evolution,,9/13/2016,69
+1072,NBA 2K16 Michael Jordan Special Edition,,9/29/2015,69
+1073,NBA 2K17,,9/20/2016,69
+1074,NBA 2K18,,9/19/2017,69
+1075,NBA LIVE 18:  The One Edition,,9/15/2017,69
+1076,NBA Playgrounds,,5/9/2017,69
+1077,Nebulous,,11/16/2016,69
+1078,Necropolis,,10/4/2016,69
+1079,Need for Speed Rivals,,11/22/2013,69
+1080,Need for Speed™,,11/3/2015,69
+1081,Need for Speed™ Payback - Standard Edition,,11/10/2017,69
+1082,Neon Chrome,,6/8/2016,69
+1083,NeuroVoider,,3/17/2017,69
+1084,Never Alone Arctic Collection,,8/21/2015,69
+1085,Nevermind,,1/11/2017,69
+1086,Neverwinter,,3/31/2015,69
+1087,Nightmares from the Deep 2: The Siren's Call,,8/26/2016,69
+1088,Ninja Pizza Girl,,7/20/2016,69
+1089,No Time To Explain,,5/17/2016,69
+1090,NOT A HERO: SUPER SNAZZY EDITION,,5/24/2016,69
+1091,Nutjitsu,,5/8/2014,69
+1092,Obliteracers,,8/26/2016,69
+1093,Oceanhorn - Monster of Uncharted Seas,,9/7/2016,69
+1094,Octodad: Dadliest Catch,,8/26/2015,69
+1095,Oddworld: New 'n' Tasty,,3/27/2015,69
+1096,Oh My Godheads,,12/5/2017,69
+1097,OlliOlli,,3/6/2015,69
+1098,OlliOlli2: XL Edition,,5/24/2016,69
+1099,One Hundred Ways,,10/7/2016,69
+1100,One Piece: Burning Blood,,5/31/2016,69
+1101,Onigiri,,10/2/2015,69
+1102,Ori and the Blind Forest: Definitive Edition,,3/11/2016,69
+1103,Outcast: Second Contact for Xbox One,,,69
+1104,Outlast,,6/19/2014,69
+1105,Outlast 2,,4/25/2017,69
+1106,Outlast: Bundle of Terror,,5/27/2015,69
+1107,Overcooked,,8/3/2016,69
+1108,Overlord: Fellowship of Evil,,10/20/2015,69
+1109,Overwatch® Game of the Year Edition,,5/23/2017,69
+1110,Oxenfree,,1/15/2016,69
+1111,PAC-MAN 256,,6/21/2016,69
+1112,PAC-MAN™ CHAMPIONSHIP EDITION 2,,9/13/2016,69
+1113,Paladins,,5/3/2017,69
+1114,Pang Adventures,,4/19/2016,69
+1115,Party Hard,,4/26/2016,69
+1116,Path of Exile,,8/24/2017,69
+1117,PAYDAY 2: CRIMEWAVE EDITION,,6/16/2015,69
+1118,Peggle 2,,12/9/2013,69
+1119,Phantom Dust,,5/17/2017,69
+1120,Pier Solar and the Great Architects,,11/21/2014,69
+1121,Pinball Arcade,,11/26/2014,69
+1122,Pinball FX2,,8/14/2014,69
+1123,Pixel Heroes: Byte &amp; Magic,,2/3/2017,69
+1124,Pixel Piracy,,2/16/2016,69
+1125,Plague Inc: Evolved,,9/18/2015,69
+1126,Planetbase,,5/3/2017,69
+1127,Plants vs. Zombies Garden Warfare,,2/25/2014,69
+1128,Plants vs. Zombies™ Garden Warfare 2,,2/23/2016,69
+1129,Pneuma: Breath of Life,,2/27/2015,69
+1130,Polychromatic,,10/2/2015,69
+1131,Pool Nation FX,,4/1/2015,69
+1132,PopCap Bundle,,6/24/2015,69
+1133,Portal Knights,,5/23/2017,69
+1134,Powerstar Golf,,11/22/2013,69
+1135,Premium Starter Pack,,9/21/2015,69
+1136,Prey,,5/5/2017,69
+1137,Prison Architect: All Day And A Night Edition,,8/12/2016,69
+1138,Prison Architect: Xbox One Edition,,7/1/2016,69
+1139,Pro Evolution Soccer 2017 Trial Edition,,11/25/2016,69
+1140,PRO EVOLUTION SOCCER 2018,,9/12/2017,69
+1141,Professional Farmer 2017,,6/10/2016,69
+1142,Project CARS - Game of the Year Edition,,5/6/2016,69
+1143,Project CARS 2,,9/22/2017,69
+1144,Prominence Poker,,8/16/2016,69
+1145,Prototype® Biohazard Bundle,,7/14/2015,69
+1146,Prototype®2,,8/12/2015,69
+1147,Pumped BMX +,,9/18/2015,69
+1148,Punch Club,,3/31/2017,69
+1149,Pure Chess Grandmaster Edition,,9/9/2016,69
+1150,Pure Hold'em™,,8/21/2015,69
+1151,Pure Pool,,11/14/2014,69
+1152,Q,,6/26/2015,69
+1153,Q*bert REBOOTED: The XBOX One @!#?@! Edition,,2/12/2016,69
+1154,Q.U.B.E: Director's Cut,,7/24/2015,69
+1155,Quantum Break,,4/5/2016,69
+1156,Quatros Origins,,7/29/2016,69
+1157,Quest of Dungeons,,9/4/2015,69
+1158,Quiplash,,6/30/2015,69
+1159,R.B.I. Baseball 16,,3/29/2016,69
+1160,R.B.I. Baseball 17,,3/28/2017,69
+1161,RABBIDS INVASION - GOLD EDITION,,12/9/2014,69
+1162,Rabbids Invasion : The Interactive TV Show,,11/18/2014,69
+1163,Race The Sun,,4/21/2017,69
+1164,Raiden V,,5/11/2016,69
+1165,Raiders of the Broken Planet - Founders Pack,,9/22/2017,69
+1166,Rare Replay,,8/4/2015,69
+1167,Rayman Legends,,2/18/2014,69
+1168,Reagan Gorbachev,,2/24/2016,69
+1169,Real Farm,,10/20/2017,69
+1170,Rebel Galaxy,,1/13/2016,69
+1171,ReCore,,9/14/2016,69
+1172,Red Dead Redemption 2,,12/31/2018,69
+1173,Redout: Lightspeed Edition,,8/29/2017,69
+1174,Resident Evil,,1/20/2015,69
+1175,Resident Evil 0,,1/19/2016,69
+1176,resident evil 4,,8/30/2016,69
+1177,RESIDENT EVIL 5,,6/28/2016,69
+1178,Resident Evil 6,,3/29/2016,69
+1179,RESIDENT EVIL 7 biohazard,,1/24/2017,69
+1180,RESIDENT EVIL REVELATIONS 2 (Episode One),,2/25/2015,69
+1181,Resident Evil Revelations 2 Deluxe Edition,,11/16/2015,69
+1182,Resident Evil: Deluxe Origins Bundle,,3/21/2016,69
+1183,Reus,,10/11/2016,69
+1184,RIDE,,10/6/2015,69
+1185,Ride 2,,2/14/2017,69
+1186,RiME,,5/26/2017,69
+1187,Riptide GP2,,1/23/2015,69
+1188,Riptide GP: Renegade,,2/25/2017,69
+1189,Rise &amp; Shine,,1/13/2017,69
+1190,Rise of the Tomb Raider,,11/10/2015,69
+1191,RISK,,2/3/2015,69
+1192,Risk: Urban Assault,,8/2/2016,69
+1193,ROBLOX,,1/27/2016,69
+1194,Rock 'N Racing Off Road DX,,10/16/2015,69
+1195,Rock Band™ 4 Rivals Bundle,,10/18/2016,69
+1196,Rock Zombie,,12/4/2015,69
+1197,Rocket League®,,2/17/2016,69
+1198,Rocksmith® 2014 Edition - Remastered,,10/4/2016,69
+1199,Rogue Legacy,,5/27/2015,69
+1200,Rogue Stormers,,10/7/2016,69
+1201,ROMANCE OF THE THREE KINGDOMS XIII: Fame and Strategy Expansion Pack Bundle,,4/25/2017,69
+1202,Roundabout,,2/20/2015,69
+1203,Rugby 15,,2/24/2015,69
+1204,RUGBY 18,,10/31/2017,69
+1205,Rugby Challenge 3,,4/22/2016,69
+1206,Rush: A DisneyPixar Adventure,,11/1/2017,69
+1207,RWBY: Grimm Eclipse,,1/17/2017,69
+1208,Ryse: Legendary Edition,,10/7/2014,69
+1209,Saban’s Mighty Morphin Power Rangers: Mega Battle,,1/17/2017,69
+1210,Saints Row IV: Re-Elected &amp; Gat out of Hell,,1/20/2015,69
+1211,Saints Row: Gat out of Hell,,1/20/2015,69
+1212,Saturday Morning RPG,,10/26/2016,69
+1213,Save the Ninja Clan,,5/5/2017,69
+1214,Scrabble,,6/30/2015,69
+1215,ScreamRide,,3/3/2015,69
+1216,Screencheat,,3/1/2016,69
+1217,Sea of Thieves Technical Alpha,,12/31/2799,69
+1218,Seasons after Fall,,5/16/2017,69
+1219,Serial Cleaner,,7/14/2017,69
+1220,Shadow Complex Remastered,,3/16/2016,69
+1221,Shadow Warrior,,10/24/2014,69
+1222,Shantae and the Pirate's Curse,,3/16/2016,69
+1223,Shantae: Half-Genie Hero,,12/20/2016,69
+1224,Shape Up,,11/11/2014,69
+1225,Sheltered,,3/15/2016,69
+1226,Sherlock Holmes: Crimes and Punishments,,9/30/2014,69
+1227,Sherlock Holmes: The Devil's Daughter,,10/25/2016,69
+1228,Shift Happens,,2/22/2017,69
+1229,Shiftlings,,3/4/2015,69
+1230,Shiness: The Lightning Kingdom,,4/18/2017,69
+1231,Shovel Knight: Treasure Trove,,4/29/2015,69
+1232,Shred It!,,3/18/2016,69
+1233,Siegecraft Commander,,1/17/2017,69
+1234,Silence - The Whispered World 2,,12/9/2016,69
+1235,Sixty Second Shooter Prime,,6/18/2014,69
+1236,Skate 3,,9/23/2014,69
+1237,Sky Force Anniversary,,12/9/2016,69
+1238,Skyforge,,11/10/2017,69
+1239,SkyKeepers,,3/31/2017,69
+1240,Skylanders SuperChargers Portal Owner's Pack,,9/20/2015,69
+1241,Skylar &amp; Plux: Adventure on Clover Island,,5/19/2017,69
+1242,Skyling: Garden Defense,,4/19/2016,69
+1243,Slain: Back from Hell,,10/21/2016,69
+1244,SlashDash,,7/17/2015,69
+1245,Sleeping Dogs™ Definitive Edition,,10/14/2014,69
+1246,Slender: The Arrival,,3/25/2015,69
+1247,Slice Zombies for Kinect,,5/8/2015,69
+1248,Slime Rancher,,8/1/2017,69
+1249,SMITE,,8/19/2015,69
+1250,Snake Pass,,3/29/2017,69
+1251,Sniper Elite 4,,2/14/2017,69
+1252,Sniper Ghost Warrior 3 Season Pass Edition,,4/25/2017,69
+1253,So Many Me,,7/16/2015,69
+1254,Soda Drinker Pro,,4/14/2016,69
+1255,Solitaire,,10/11/2016,69
+1256,Song of the Deep,,7/12/2016,69
+1257,SONIC FORCES,,11/7/2017,69
+1258,Sonic Mania,,8/15/2017,69
+1259,South Park™: The Fractured but Whole™ Pre-order,,10/17/2017,69
+1260,Sparkle 2,,1/27/2016,69
+1261,Sparkle Unleashed,,6/3/2015,69
+1262,Spectra,,5/8/2015,69
+1263,Speedboat Challenge,,10/5/2016,69
+1264,Spellspire,,5/26/2017,69
+1265,Spheroids,,2/10/2017,69
+1266,Spintires: MudRunner,,10/31/2017,69
+1267,Spy Chameleon,,5/22/2015,69
+1268,Squid Hero for Kinect,,7/29/2015,69
+1269,Star Hammer: The Vanguard Prophecy,,8/25/2016,69
+1270,Star Trek Online,,9/6/2016,69
+1271,STAR WARS™ Battlefront™ II Standard Edition,,11/17/2017,69
+1272,STAR WARS™ Battlefront™ Ultimate Edition,,11/17/2015,69
+1273,Stardew Valley,,12/14/2016,69
+1274,Stardust Galaxy Warriors: Stellar Climax,,9/9/2016,69
+1275,Starpoint Gemini 2,,12/11/2015,69
+1276,STARWHAL,,12/9/2015,69
+1277,State of Decay: Year-One Survival Edition,,4/28/2015,69
+1278,Stealth Inc. 2: A Game of Clones,,4/3/2015,69
+1279,SteamWorld Dig,,6/5/2015,69
+1280,Steel Rain X,,12/16/2016,69
+1281,STEEP,,12/2/2016,69
+1282,Steep and The Crew,,5/2/2017,69
+1283,Steredenn,,4/1/2016,69
+1284,Stern Pinball Arcade,,12/29/2016,69
+1285,Stikbold! A Dodgeball Adventure,,4/8/2016,69
+1286,Strider,,2/19/2014,69
+1287,Strike Suit Zero: Director's Cut,,4/8/2014,69
+1288,Styx: Master of Shadows,,10/8/2014,69
+1289,Styx: Shards of Darkness,,3/14/2017,69
+1290,Subject 13,,1/31/2017,69
+1291,Sublevel Zero Redux,,3/8/2017,69
+1292,Submerged,,8/7/2015,69
+1293,Subterrain,,1/27/2017,69
+1294,Sunset Overdrive,,10/28/2014,69
+1295,Super Cloudbuilt,,7/28/2017,69
+1296,Super Dungeon Bros,,11/1/2016,69
+1297,Super Dungeon Bros MEGA Bundle Pack,,3/21/2017,69
+1298,Super Lucky's Tale,,11/8/2017,69
+1299,Super Mega Baseball: Extra Innings,,8/14/2015,69
+1300,Super Party Sports: Football,,12/4/2015,69
+1301,Super Time Force,,5/14/2014,69
+1302,Super Toy Cars,,9/4/2015,69
+1303,SUPERHOT,,5/3/2016,69
+1304,Sword Coast Legends™,,7/19/2016,69
+1305,Syberia 3,,4/25/2017,69
+1306,Sylvio,,1/13/2017,69
+1307,Sébastien Loeb Rally EVO,,3/22/2016,69
+1308,Table Top Racing: World Tour,,3/10/2017,69
+1309,Tacoma,,8/3/2017,69
+1310,Talent Not Included,,4/5/2017,69
+1311,Tales from the Borderlands Complete Season (Episodes 1-5),,5/15/2015,69
+1312,Tango Fiesta,,5/17/2017,69
+1313,Team17 Indie Collection,,10/18/2016,69
+1314,Tekken 7,,6/2/2017,69
+1315,TEMBO THE BADASS ELEPHANT,,7/21/2015,69
+1316,Tennis in the Face,,12/9/2016,69
+1317,Terraria,,11/14/2014,69
+1318,Teslagrad,,3/9/2016,69
+1319,Tetraminos,,3/8/2016,69
+1320,Tetris® Ultimate,,12/16/2014,69
+1321,The Assembly,,1/20/2017,69
+1322,The Banner Saga,,1/12/2016,69
+1323,The Banner Saga 2,,7/1/2016,69
+1324,The Binding of Isaac: Rebirth,,7/24/2015,69
+1325,The Book of Unwritten Tales 2,,9/18/2015,69
+1326,The Bridge,,8/14/2015,69
+1327,The Bug Butcher,,10/19/2016,69
+1328,The Bunker,,9/23/2016,69
+1329,The BunnyLord Pro Hater Pack,,5/24/2016,69
+1330,The Crew,,12/2/2014,69
+1331,The Crew® 2 - Standard Edition,,3/16/2018,69
+1332,The Deer God,,9/1/2015,69
+1333,The Disney Afternoon Collection,,4/18/2017,69
+1334,The Dwarves,,12/1/2016,69
+1335,The Elder Scrolls Online: Morrowind,,6/6/2017,69
+1336,The Elder Scrolls V: Skyrim Special Edition,,10/28/2016,69
+1337,The Escapists,,2/13/2015,69
+1338,The Escapists: The Walking Dead,,9/30/2015,69
+1339,The Evil Within,,10/14/2014,69
+1340,The Evil Within® 2,,10/13/2017,69
+1341,The Fall,,7/15/2015,69
+1342,The Final Station,,9/2/2016,69
+1343,The Flame in the Flood,,2/24/2016,69
+1344,The Golf Club,,8/19/2014,69
+1345,The Incredible Adventures of Van Helsing II,,7/1/2016,69
+1346,The Inner World,,3/31/2017,69
+1347,The Jackbox Party Trilogy,,2/16/2017,69
+1348,The Legend of Korra™,,10/22/2014,69
+1349,The LEGO Movie Videogame,,2/7/2014,69
+1350,The Little Acre,,12/13/2016,69
+1351,The Long Dark,,8/1/2017,69
+1352,The Park,,5/3/2016,69
+1353,The Pure Bundle,,5/6/2016,69
+1354,The Sexy Brutale,,4/12/2017,69
+1355,The Solus Project,,7/12/2016,69
+1356,The Sun and Moon,,1/27/2017,69
+1357,The Surge,,5/16/2017,69
+1358,The Swapper,,6/5/2015,69
+1359,The Swindle,,8/7/2015,69
+1360,The Technomancer,,6/28/2016,69
+1361,The Telltale Undead Survival Bundle,,11/8/2016,69
+1362,The Turing Test,,8/30/2016,69
+1363,The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5),,12/20/2016,69
+1364,The Walking Dead: Michonne - A Telltale Miniseries,,2/23/2016,69
+1365,The Walking Dead: Season Two,,10/21/2014,69
+1366,The Walking Dead: The Complete First Season,,10/14/2014,69
+1367,The Witcher 3: Wild Hunt,,5/19/2015,69
+1368,The Witness,,9/13/2016,69
+1369,The Wolf Among Us,,11/4/2014,69
+1370,theHunter: Call of the Wild,,10/2/2017,69
+1371,Thief,,2/25/2014,69
+1372,Thimbleweed Park,,3/31/2017,69
+1373,This Is the Police,,3/22/2017,69
+1374,This War of Mine: The Little Ones,,1/29/2016,69
+1375,Thomas Was Alone,,11/21/2014,69
+1376,Three Fourths Home: Extended Edition,,11/27/2015,69
+1377,Threes!,,12/5/2014,69
+1378,Thumper,,10/19/2017,69
+1379,Tiny Troopers Joint Ops,,2/26/2016,69
+1380,Titanfall® 2,,10/28/2016,69
+1381,Toby: The Secret Mine,,1/20/2017,69
+1382,Tom Clancy's Rainbow Six Siege,,12/1/2015,69
+1383,Tom Clancy's The Division,,3/8/2016,69
+1384,Tom Clancy’s Ghost Recon® Wildlands - Standard Edition,,3/7/2017,69
+1385,Tomb Raider: Definitive Edition,,1/28/2014,69
+1386,Tony Hawk's® Pro Skater™ 5,,9/29/2015,69
+1387,Torment: Tides of Numenera,,2/28/2017,69
+1388,Toto Temple Deluxe,,9/30/2015,69
+1389,Tour de France 2016,,6/16/2016,69
+1390,TowerFall Ascension,,1/25/2017,69
+1391,Toy Odyssey,,9/21/2016,69
+1392,Toy Soldiers: War Chest,,8/11/2015,69
+1393,Trackmania® Turbo,,3/22/2016,69
+1394,TRANSFORMERS: Fall of Cybertron,,8/9/2016,69
+1395,Transformers: Rise of the Dark Spark,,6/24/2014,69
+1396,TRANSFORMERS™: Devastation,,10/6/2015,69
+1397,Trials Fusion,,4/16/2014,69
+1398,Trials Fusion: The Awesome Max Edition,,7/14/2015,69
+1399,Trials of the Blood Dragon,,6/13/2016,69
+1400,TRIVIAL PURSUIT LIVE!,,2/17/2015,69
+1401,Troll &amp; I™,,3/21/2017,69
+1402,TRON RUN/r,,4/8/2016,69
+1403,Tropico 5 - Penultimate Edition,,5/24/2016,69
+1404,Trove,,3/14/2017,69
+1405,Trulon: The Shadow Engine,,2/24/2017,69
+1406,Tumblestone,,7/16/2016,69
+1407,TurnOn,,6/1/2016,69
+1408,Typoman,,2/17/2017,69
+1409,ULTIMATE MARVEL VS. CAPCOM 3,,3/7/2017,69
+1410,Unbox: Newbie's Adventure,,7/26/2017,69
+1411,Uncanny Valley,,2/10/2017,69
+1412,Unepic,,1/8/2016,69
+1413,Unit 4,,5/24/2017,69
+1414,UNO®,,8/16/2016,69
+1415,Unravel,,2/9/2016,69
+1416,Use Your Words,,4/4/2017,69
+1417,Vaccine,,2/21/2017,69
+1418,Valentino Rossi The Game,,8/16/2016,69
+1419,Valhalla Hills - Definitive Edition,,4/25/2017,69
+1420,Valiant Hearts: The Great War,,6/25/2014,69
+1421,Valley,,8/24/2016,69
+1422,Verdun,,3/8/2017,69
+1423,Vermintide - Digital Value Pack,,3/17/2017,69
+1424,Vertical Drop Heroes HD,,2/17/2017,69
+1425,VIDEOBALL,,7/13/2016,69
+1426,Vikings - Wolves of Midgard,,3/28/2017,69
+1427,Virginia,,9/22/2016,69
+1428,"Voice Commander, a Microsoft Garage project",,10/22/2014,69
+1429,Volgarr the Viking,,10/31/2014,69
+1430,Voodoo Vince: Remastered,,4/19/2017,69
+1431,Wand Wars,,12/6/2016,69
+1432,Warframe,,9/2/2014,69
+1433,Warhammer Quest,,2/24/2017,69
+1434,Warhammer: End Times - Vermintide,,10/4/2016,69
+1435,WARRIORS OROCHI 3 Ultimate,,9/2/2014,69
+1436,Wasteland 2: Director's Cut,,10/13/2015,69
+1437,Watch Dogs®2 - Deluxe Edition,,11/15/2016,69
+1438,WATCH_DOGS™,,5/27/2014,69
+1439,We Happy Few (Game Preview),,4/13/2018,69
+1440,Wells,,1/30/2017,69
+1441,Westerado: Double Barreled,,12/9/2016,69
+1442,White Night,,3/6/2015,69
+1443,Wick,,12/21/2016,69
+1444,Wolfenstein: The New Order,,5/20/2014,69
+1445,Wolfenstein® II: The New Colossus™,,10/27/2017,69
+1446,Wonder Boy: The Dragon's Trap,,4/18/2017,69
+1447,World II:Hunting Boss,,7/15/2016,69
+1448,World of Tanks,,7/28/2015,69
+1449,World of Van Helsing: Deathtrap,,12/30/2016,69
+1450,World to the West,,5/5/2017,69
+1451,Worlds of Magic: Planar Conquest,,3/24/2017,69
+1452,Worms Anniversary Edition,,11/15/2016,69
+1453,Worms Battlegrounds,,5/30/2014,69
+1454,Worms W.M.D,,8/23/2016,69
+1455,WRC 6 FIA World Rally Championship,,3/7/2017,69
+1456,WRC 7 FIA World Rally Championship,,9/26/2017,69
+1457,WWE 2K17,,10/11/2016,69
+1458,WWE 2K18 Pre-Order,,10/17/2017,69
+1459,XCOM® 2,,9/27/2016,69
+1460,Xenoraid,,11/8/2016,69
+1461,Yasai Ninja,,8/26/2015,69
+1462,Yesterday Origins,,11/17/2016,69
+1463,Yooka-Laylee,,4/11/2017,69
+1464,Yu-Gi-Oh! Legacy of the Duelist,,7/30/2015,69
+1465,Zenith,,9/30/2016,69
+1466,ZOMBI,,8/18/2015,69
+1467,Zombie Army Trilogy,,3/6/2015,69
+1468,Zombie Driver Ultimate Edition,,7/1/2014,69
+1469,Zombie Vikings,,2/22/2017,69
+1470,Zoo Tycoon,,11/22/2013,69
+1471,Zumba Fitness World Party,,11/22/2013,69
+1472,10-Yard Fight,,10/18/1985,14
+1473,1942,,11/1/1986,14
+1474,1943: The Battle of Midway,,10/1/1988,14
+1475,The 3-D Battles of WorldRunner,,9/1/1987,14
+1476,720°,,11/1/1989,14
+1477,8 Eyes,,1/1/1990,14
+1478,Abadox,,3/1/1990,14
+1479,The Addams Family,,1/1/1992,14
+1480,The Addams Family: Pugsley's Scavenger Hunt,,8/1/1993,14
+1481,Advanced Dungeons &amp; Dragons: DragonStrike,,7/1/1992,14
+1482,Advanced Dungeons &amp; Dragons: Heroes of the Lance,,1/1/1991,14
+1483,Advanced Dungeons &amp; Dragons: Hillsfar,,2/1/1993,14
+1484,Advanced Dungeons &amp; Dragons: Pool of Radiance,,4/1/1992,14
+1485,Adventure Island,,9/1/1988,14
+1486,Adventure Island II,,2/1/1991,14
+1487,Adventure Island 3,,9/1/1992,14
+1488,Adventures in the Magic Kingdom,,6/1/1990,14
+1489,The Adventures of Bayou Billy,,6/1/1989,14
+1490,Adventures of Dino Riki,,9/1/1989,14
+1491,The Adventures of Gilligan's Island,,7/1/1990,14
+1492,Adventures of Lolo,,4/1/1989,14
+1493,Adventures of Lolo 2,,3/1/1990,14
+1494,Adventures of Lolo 3,,11/21/1991,14
+1495,The Adventures of Rad Gravity,,12/1/1990,14
+1496,The Adventures of Rocky and Bullwinkle and Friends,,12/1/1992,14
+1497,The Adventures of Tom Sawyer,,8/1/1989,14
+1498,Air Fortress,,9/1/1989,14
+1499,Airwolf,,6/1/1989,14
+1500,Al Unser Jr.'s Turbo Racing&nbsp;(NA),,3/1/1990,14
+,Turbo Racing&nbsp;(EU),,,
+1501,Alfred Chicken,,2/1/1994,14
+1502,Alien3,,3/1/1993,14
+1503,All-Pro Basketball,,12/1/1989,14
+1504,Alpha Mission,,10/1/1987,14
+1505,Amagon,,4/1/1989,14
+1506,American Gladiators,,10/1/1991,14
+1507,Anticipation,,11/1/1988,14
+1508,Arch Rivals,,11/1/1990,14
+1509,Archon,,12/1/1989,14
+1510,Arkanoid,,8/1/1987,14
+1511,Arkista's Ring,,6/1/1990,14
+1512,Astyanax,,3/1/1990,14
+1513,Athena,,8/1/1987,14
+1514,Athletic World,,1/1/1987,14
+1515,Attack of the Killer Tomatoes,,1/1/1992,14
+1516,Back to the Future,,9/1/1989,14
+1517,Back to the Future Part II &amp; III,,9/1/1990,14
+1518,Bad Dudes,,8/1/1989,14
+1519,Bad News Baseball,,6/1/1990,14
+1520,Bad Street Brawler,,9/1/1989,14
+1521,Balloon Fight,,8/1/1986,14
+1522,Bandai Golf: Challenge Pebble Beach,,2/1/1989,14
+1523,Bandit Kings of Ancient China,,12/1/1990,14
+1524,Barbie,,11/1/1991,14
+1525,The Bard's Tale,,11/1/1991,14
+1526,Barker Bill's Trick Shooting,,8/1/1990,14
+1527,Base Wars,,6/1/1991,14
+1528,Baseball,,10/18/1985,14
+1529,Baseball Simulator 1.000,,3/1/1990,14
+1530,Baseball Stars,,7/1/1989,14
+1531,Baseball Stars 2,,7/1/1992,14
+1532,Bases Loaded,,7/1/1988,14
+1533,Bases Loaded II: Second Season,,1/1/1990,14
+1534,Bases Loaded 3,,9/1/1991,14
+1535,Bases Loaded 4,,4/1/1993,14
+1536,Batman,,2/1/1990,14
+1537,Batman Returns,,1/1/1993,14
+1538,Batman: Return of the Joker,,12/1/1991,14
+1539,Battle Chess,,7/1/1990,14
+1540,The Battle of Olympus,,12/1/1989,14
+1541,Battle Tank,,9/1/1990,14
+1542,Battleship,,9/1/1993,14
+1543,Battletoads,,6/1/1991,14
+1544,Battletoads &amp; Double Dragon,,6/1/1993,14
+1545,Beetlejuice,,5/1/1991,14
+1546,Best of the Best: Championship Karate,,12/1/1992,14
+1547,Bigfoot,,8/1/1990,14
+1548,Bill &amp; Ted's Excellent Video Game Adventure,,4/1/1991,14
+1549,Bill Elliott's NASCAR Challenge,,12/1/1991,14
+1550,Bionic Commando,,12/1/1988,14
+1551,The Black Bass,,9/1/1989,14
+1552,Blades of Steel,,12/1/1988,14
+1553,Blaster Master,,11/1/1988,14
+1554,The Blue Marlin,,7/1/1992,14
+1555,The Blues Brothers,,9/1/1992,14
+1556,Bo Jackson Baseball,,10/1/1991,14
+1557,Bomberman,,1/1/1989,14
+1558,Bomberman II&nbsp;(NA),,2/1/1993,14
+,Dynablaster&nbsp;(EU),,,
+1559,Bonk's Adventure,,1/1/1994,14
+1560,Boulder Dash,,6/1/1990,14
+1561,A Boy and His Blob: Trouble on Blobolonia,,1/1/1990,14
+1562,Bram Stoker's Dracula,,9/1/1993,14
+1563,Break Time: The National Pool Tour,,1/1/1993,14
+1564,BreakThru,,11/1/1987,14
+1565,Bubble Bobble,,11/1/1988,14
+1566,Bubble Bobble Part 2,,8/1/1993,14
+1567,Bucky O'Hare,,1/1/1992,14
+1568,The Bugs Bunny Birthday Blowout,,9/1/1990,14
+1569,The Bugs Bunny Crazy Castle,,8/1/1989,14
+1570,Bump 'n' Jump,,12/1/1988,14
+1571,Burai Fighter,,3/1/1990,14
+1572,BurgerTime,,5/1/1987,14
+1573,Cabal,,6/1/1990,14
+1574,Caesars Palace,,12/1/1992,14
+1575,California Games,,6/1/1989,14
+1576,Capcom's Gold Medal Challenge '92,,8/1/1992,14
+1577,Captain America and The Avengers,,12/1/1991,14
+1578,Captain Planet and the Planeteers,,9/1/1991,14
+1579,Captain Skyhawk,,6/1/1990,14
+1580,Casino Kid,,10/1/1989,14
+1581,Casino Kid 2,,4/1/1993,14
+1582,Castelian,,6/1/1991,14
+1583,Castle of Dragon,,6/1/1990,14
+1584,Castlequest,,9/1/1989,14
+1585,Castlevania,,5/1/1987,14
+1586,Castlevania II: Simon's Quest,,12/1/1988,14
+1587,Castlevania III: Dracula's Curse,,9/1/1990,14
+1588,Caveman Games,,10/1/1990,14
+1589,Championship Bowling,,12/1/1989,14
+1590,Championship Pool,,10/1/1993,14
+1591,Chessmaster,,1/1/1990,14
+1592,Chip 'n Dale: Rescue Rangers,,6/1/1990,14
+1593,Chip 'n Dale Rescue Rangers 2,,1/1/1994,14
+1594,Chubby Cherub,,10/29/1986,14
+1595,Circus Caper,,7/1/1990,14
+1596,City Connection,,5/1/1988,14
+1597,Clash at Demonhead,,1/1/1990,14
+1598,Classic Concentration,,9/1/1990,14
+1599,Cliffhanger,,11/1/1993,14
+1600,Clu Clu Land,,10/18/1985,14
+1601,Cobra Command,,11/1/1988,14
+1602,Cobra Triangle,,7/1/1989,14
+1603,Code Name: Viper,,3/1/1990,14
+1604,Color a Dinosaur,,7/1/1993,14
+1605,Commando,,11/1/1986,14
+1606,Conan: The Mysteries of Time,,2/1/1991,14
+1607,Conflict,,3/1/1990,14
+1608,Conquest of the Crystal Palace,,11/1/1990,14
+1609,Contra,,2/1/1988,14
+1610,Contra Force,,9/1/1992,14
+1611,Cool World,,6/1/1993,14
+1612,Cowboy Kid,,1/1/1992,14
+1613,Crash 'n the Boys: Street Challenge,,10/1/1992,14
+1614,Crystalis,,7/1/1990,14
+1615,Cyberball,,1/1/1992,14
+1616,Cybernoid: The Fighting Machine,,12/1/1989,14
+1617,Dance Aerobics,,3/1/1989,14
+1618,Danny Sullivan's Indy Heat,,8/1/1992,14
+1619,Darkman,,10/1/1991,14
+1620,Dash Galaxy in the Alien Asylum,,2/1/1990,14
+1621,Day Dreamin' Davey,,6/1/1992,14
+1622,Days of Thunder,,10/1/1990,14
+1623,Deadly Towers,,9/1/1987,14
+1624,Defender II,,7/1/1988,14
+1625,Defender of the Crown,,7/1/1989,14
+1626,Defenders of Dynatron City,,7/1/1992,14
+1627,Déjà Vu,,12/1/1990,14
+1628,Demon Sword,,1/1/1990,14
+1629,Desert Commander,,6/1/1989,14
+1630,Destination Earthstar,,2/1/1990,14
+1631,Destiny of an Emperor,,9/1/1990,14
+1632,Dick Tracy,,8/1/1990,14
+1633,Die Hard,,1/1/1992,14
+1634,Dig Dug II,,12/1/1989,14
+1635,Digger T. Rock: Legend of the Lost City,,12/1/1990,14
+1636,Dirty Harry,,12/1/1990,14
+1637,Disney's Darkwing Duck,,6/1/1992,14
+1638,Disney's The Jungle Book,,8/1/1994,14
+1639,Disney's The Little Mermaid,,7/1/1991,14
+1640,Donkey Kong,,6/1/1986,14
+1641,Donkey Kong 3,,6/1/1986,14
+1642,Donkey Kong Classics,,10/1/1988,14
+1643,Donkey Kong Jr.,,6/1/1986,14
+1644,Donkey Kong Jr. Math,,6/1/1986,14
+1645,Double Dare,,4/1/1990,14
+1646,Double Dragon,,6/1/1988,14
+1647,Double Dragon II: The Revenge,,1/1/1990,14
+1648,Double Dragon III: The Sacred Stones,,2/1/1991,14
+1649,Double Dribble,,9/1/1987,14
+1650,Dr. Chaos,,11/1/1988,14
+1651,Dr. Jekyll and Mr. Hyde,,4/1/1989,14
+1652,Dr. Mario,,10/1/1990,14
+1653,Dragon Fighter,,1/1/1992,14
+1654,Dragon Power,,3/1/1988,14
+1655,Dragon Spirit,,6/1/1990,14
+1656,Dragon Warrior,,8/1/1989,14
+1657,Dragon Warrior II,,9/1/1990,14
+1658,Dragon Warrior III,,3/1/1992,14
+1659,Dragon Warrior IV,,10/1/1992,14
+1660,Dragon's Lair,,12/1/1990,14
+1661,Duck Hunt,,10/18/1985,14
+1662,DuckTales,,9/1/1989,14
+1663,DuckTales 2,,6/1/1993,14
+1664,Dungeon Magic: Sword of the Elements,,7/1/1990,14
+1665,Dusty Diamond's All-Star Softball,,7/1/1990,14
+1666,Dynowarz: Destruction of Spondylus,,4/1/1990,14
+1667,Elevator Action,,8/1/1987,14
+1668,Eliminator Boat Duel,,11/1/1991,14
+1669,Excitebike,,10/18/1985,14
+1670,F-117A Stealth Fighter,,12/1/1992,14
+1671,F-15 Strike Eagle,,2/1/1992,14
+1672,Family Feud,,5/1/1991,14
+1673,Faria: A World of Mystery and Danger,,6/1/1991,14
+1674,Faxanadu,,8/1/1989,14
+1675,Felix the Cat,,10/1/1992,14
+1676,Ferrari Grand Prix Challenge,,6/1/1992,14
+1677,Fester's Quest,,9/1/1989,14
+1678,Final Fantasy,,5/1/1990,14
+1679,Fire 'n Ice,,3/1/1993,14
+1680,Fisher-Price: Firehouse Rescue,,3/1/1992,14
+1681,Fisher-Price: I Can Remember,,3/1/1990,14
+1682,Fisher-Price: Perfect Fit,,3/1/1990,14
+1683,Fist of the North Star,,4/1/1989,14
+1684,Flight of the Intruder,,5/1/1991,14
+1685,The Flintstones: The Rescue of Dino &amp; Hoppy,,12/1/1991,14
+1686,The Flintstones: Surprise at Dinosaur Peak,,8/1/1994,14
+1687,Flying Dragon: The Secret Scroll,,8/1/1989,14
+1688,Flying Warriors,,2/1/1991,14
+1689,Formula One: Built to Win,,11/1/1990,14
+1690,Frankenstein: The Monster Returns,,7/1/1991,14
+1691,Freedom Force,,4/1/1988,14
+1692,Friday the 13th,,2/1/1989,14
+1693,Fun House,,1/1/1991,14
+1694,G.I. Joe: A Real American Hero,,1/1/1991,14
+1695,G.I. Joe: The Atlantis Factor,,3/1/1992,14
+1696,Galaga,,9/1/1988,14
+1697,Galaxy 5000,,2/1/1991,14
+1698,Gargoyle's Quest II,,10/1/1992,14
+1699,Gauntlet,,7/1/1988,14
+1700,Gauntlet II,,9/1/1990,14
+1701,Gemfire,,3/1/1992,14
+1702,Genghis Khan,,1/1/1990,14
+1703,George Foreman's KO Boxing,,12/1/1992,14
+1704,Ghostbusters,,10/1/1988,14
+1705,Ghostbusters II,,4/1/1990,14
+1706,Ghost Lion,,10/1/1992,14
+1707,Ghosts 'n Goblins,,11/1/1986,14
+1708,Ghoul School,,3/1/1992,14
+1709,Goal!,,10/1/1989,14
+1710,Goal! Two,,11/1/1992,14
+1711,Godzilla: Monster of Monsters,,10/1/1989,14
+1712,Godzilla 2: War of the Monsters,,2/1/1992,14
+1713,Golf,,10/18/1985,14
+1714,Golf Grand Slam,,11/1/1991,14
+1715,Golgo 13: Top Secret Episode,,9/1/1988,14
+1716,The Goonies II,,11/1/1987,14
+1717,Gotcha! The Sport!,,11/1/1987,14
+1718,Gradius,,12/1/1986,14
+1719,The Great Waldo Search,,12/1/1992,14
+1720,Greg Norman's Golf Power,,7/1/1992,14
+1721,Gremlins 2: The New Batch,,10/1/1990,14
+1722,The Guardian Legend,,4/1/1989,14
+1723,Guerrilla War,,6/1/1989,14
+1724,Gumshoe,,8/1/1986,14
+1725,Gun-Nac,,9/1/1991,14
+1726,Gun.Smoke,,2/1/1988,14
+1727,Gyromite,,10/18/1985,14
+1728,Gyruss,,2/1/1989,14
+1729,Harlem Globetrotters,,3/1/1991,14
+1730,Hatris,,4/1/1992,14
+1731,Heavy Barrel,,3/1/1990,14
+1732,Heavy Shreddin',,6/1/1990,14
+1733,High Speed,,7/1/1991,14
+1734,Hogan's Alley,,10/18/1985,14
+1735,Hollywood Squares,,9/1/1989,14
+1736,Home Alone,,10/1/1991,14
+1737,Home Alone 2: Lost in New York,,10/1/1992,14
+1738,Hook,,4/1/1992,14
+1739,Hoops,,6/1/1989,14
+1740,Hudson Hawk,,2/1/1992,14
+1741,The Hunt for Red October,,1/1/1991,14
+1742,Hydlide,,6/1/1989,14
+1743,Ice Climber,,10/18/1985,14
+1744,Ice Hockey,,3/1/1988,14
+1745,Ikari Warriors,,5/1/1987,14
+1746,Ikari Warriors II: Victory Road,,4/1/1988,14
+1747,Ikari Warriors III: The Rescue,,2/1/1991,14
+1748,Image Fight,,6/1/1990,14
+1749,The Immortal,,11/1/1990,14
+1750,The Incredible Crash Dummies,,8/1/1994,14
+1751,Indiana Jones and the Last Crusade,,3/1/1991,14
+1752,Indiana Jones and the Last Crusade,,12/1/1993,14
+1753,Indiana Jones and the Temple of Doom,,12/1/1988,14
+1754,Infiltrator,,1/1/1990,14
+1755,Iron Tank,,7/1/1988,14
+1756,Ironsword: Wizards & Warriors II,,12/1/1989,14
+1757,Isolated Warrior,,2/1/1991,14
+1758,Ivan 'Ironman' Stewart's Super Off Road,,4/1/1990,14
+1759,Jack Nicklaus' Greatest 18 Holes of Major Championship Golf,,3/1/1990,14
+1760,Jackal,,9/1/1988,14
+1761,Jackie Chan's Action Kung Fu,,12/1/1990,14
+1762,James Bond Jr.,,11/1/1992,14
+1763,Jaws,,11/1/1987,14
+1764,Jeopardy!,,9/1/1988,14
+1765,Jeopardy! 25th Anniversary Edition,,6/1/1990,14
+1766,Jeopardy! Junior Edition,,10/1/1989,14
+1767,The Jetsons: Cogswell's Caper!,,12/1/1992,14
+1768,Jimmy Connors Tennis,,11/1/1993,14
+1769,Joe & Mac,,12/1/1992,14
+1770,John Elway's Quarterback,,3/1/1989,14
+1771,Jordan vs. Bird: One on One,,8/1/1989,14
+1772,Journey to Silius,,9/1/1990,14
+1773,Joust,,10/1/1988,14
+1774,Jurassic Park,,6/1/1993,14
+1775,Kabuki Quantum Fighter,,1/1/1991,14
+1776,Karate Champ,,12/1/1986,14
+1777,The Karate Kid,,11/1/1987,14
+1778,Karnov,,1/1/1988,14
+1779,Kick Master,,1/1/1992,14
+1780,Kickle Cubicle,,9/1/1990,14
+1781,Kid Icarus,,7/1/1987,14
+1782,Kid Klown in Night Mayor World,,4/1/1993,14
+1783,Kid Kool,,3/1/1990,14
+1784,Kid Niki: Radical Ninja,,11/1/1987,14
+1785,King's Knight,,9/1/1989,14
+1786,Kings of the Beach,,1/1/1990,14
+1787,King's Quest V: Absence Makes the Heart Go Yonder!,,6/1/1992,14
+1788,Kirby's Adventure,,5/1/1993,14
+1789,KlashBall,,7/1/1991,14
+1790,Knight Rider,,12/1/1989,14
+1791,The Krion Conquest,,1/1/1991,14
+1792,Krusty's Fun House,,9/1/1992,14
+1793,Kung-Fu,,10/18/1985,14
+1794,Kung-Fu Heroes,,3/1/1989,14
+1795,Laser Invasion,,6/1/1991,14
+1796,Last Action Hero,,10/1/1993,14
+1797,The Last Ninja,,2/1/1991,14
+1798,The Last Starfighter,,6/1/1990,14
+1799,Lee Trevino's Fighting Golf,,9/1/1988,14
+1800,Legacy of the Wizard,,4/1/1989,14
+1801,The Legend of Kage,,8/1/1987,14
+1802,The Legend of Zelda,,8/22/1987,14
+1803,Legendary Wings,,7/1/1988,14
+1804,Legends of the Diamond,,1/1/1992,14
+1805,Lemmings,,11/1/1992,14
+1806,L'Empereur,,11/1/1991,14
+1807,Lethal Weapon,,4/1/1993,14
+1808,Life Force,,8/1/1988,14
+1809,Little League Baseball: Championship Series,,7/1/1990,14
+1810,Little Nemo: The Dream Master,,9/1/1990,14
+1811,Little Ninja Brothers,,12/1/1990,14
+1812,Little Samson,,11/1/1992,14
+1813,Lode Runner,,9/1/1987,14
+1814,The Lone Ranger,,8/1/1991,14
+1815,Loopz,,10/1/1990,14
+1816,Low G Man: The Low Gravity Man,,9/1/1990,14
+1817,Lunar Pool,,10/1/1987,14
+1818,M.C. Kids,,2/1/1992,14
+1819,M.U.L.E.,,9/1/1990,14
+1820,M.U.S.C.L.E.,,10/29/1986,14
+1821,Mach Rider,,8/1/1986,14
+1822,Mad Max,,7/1/1990,14
+1823,The Mafat Conspiracy,,6/1/1990,14
+1824,Magic Darts,,9/1/1991,14
+1825,Magic Johnson's Fast Break,,3/1/1990,14
+1826,The Magic of Scheherazade,,12/1/1989,14
+1827,Magician,,3/1/1990,14
+1828,MagMax,,10/1/1988,14
+1829,Major League Baseball,,4/1/1988,14
+1830,Maniac Mansion,,9/1/1990,14
+1831,Mappy-Land,,4/1/1989,14
+1832,Marble Madness,,3/1/1989,14
+1833,Mario Bros.,,6/1/1986,14
+1834,Mario Is Missing!,,7/1/1993,14
+1835,Mario's Time Machine,,6/1/1994,14
+1836,Mechanized Attack,,6/1/1990,14
+1837,Mega Man,,12/1/1987,14
+1838,Mega Man 2,,6/1/1989,14
+1839,Mega Man 3,,11/1/1990,14
+1840,Mega Man 4,,1/1/1992,14
+1841,Mega Man 5,,12/1/1992,14
+1842,Mega Man 6,,3/1/1994,14
+1843,Mendel Palace,,10/1/1990,14
+1844,Metal Gear,,6/1/1988,14
+1845,Metal Mech,,3/1/1991,14
+1846,Metal Storm,,2/1/1991,14
+1847,Metroid,,8/1/1987,14
+1848,Michael Andretti's World GP,,6/1/1990,14
+1849,Mickey Mousecapade,,10/1/1988,14
+1850,Mickey's Adventures in Numberland,,3/1/1994,14
+1851,Mickey's Safari in Letterland,,3/1/1993,14
+1852,Might and Magic Book One: The Secret of the Inner Sanctum,,8/1/1992,14
+1853,Mighty Bomb Jack,,7/1/1987,14
+1854,Mighty Final Fight,,7/1/1993,14
+1855,Mike Tyson's Punch-Out!!,,10/1/1987,14
+1856,Millipede,,10/1/1988,14
+1857,Milon's Secret Castle,,9/1/1988,14
+1858,The Miracle Piano Teaching System,,1/1/1990,14
+1859,Mission: Impossible,,9/1/1990,14
+1860,Monopoly,,5/1/1991,14
+1861,Monster in My Pocket,,1/1/1992,14
+1862,Monster Party,,6/1/1989,14
+1863,Monster Truck Rally,,9/1/1991,14
+1864,Motor City Patrol,,1/1/1992,14
+1865,Ms. Pac-Man,,11/1/1993,14
+1866,Muppet Adventure: Chaos at the Carnival,,11/1/1990,14
+1867,The Mutant Virus: Crisis in a Computer World,,4/1/1992,14
+1868,Mystery Quest,,4/1/1989,14
+1869,NARC,,8/1/1990,14
+1870,NES Open Tournament Golf,,9/1/1991,14
+1871,NES Play Action Football,,9/1/1990,14
+1872,Kiwi Kraze,,3/1/1991,14
+1873,NFL Football,,9/1/1989,14
+1874,Nigel Mansell's World Championship Racing,,10/1/1993,14
+1875,A Nightmare on Elm Street,,10/1/1990,14
+1876,Nightshade,,1/1/1992,14
+1877,Ninja Crusaders,,12/1/1990,14
+1878,Ninja Gaiden,,3/1/1989,14
+1879,Ninja Gaiden II: The Dark Sword of Chaos,,5/1/1990,14
+1880,Ninja Gaiden III: The Ancient Ship of Doom,,8/1/1991,14
+1881,Ninja Kid,,10/29/1986,14
+1882,Nintendo Campus Challenge,,1/1/1991,14
+1883,Nintendo World Championships,,1/1/1990,14
+1884,Nintendo World Cup,,12/1/1990,14
+1885,Nobunaga's Ambition,,6/1/1989,14
+1886,Nobunaga's Ambition II,,4/1/1991,14
+1887,North &amp; South,,12/1/1990,14
+1888,Operation Wolf,,5/1/1989,14
+1889,Orb-3D,,10/1/1990,14
+1890,Othello,,12/1/1988,14
+1891,Overlord,,1/1/1993,14
+1892,P.O.W.: Prisoners of War,,9/1/1989,14
+1893,Pac-Man,,11/1/1993,14
+1894,Pac-Man,,10/1/1988,14
+1895,Palamedes,,11/1/1990,14
+1896,Panic Restaurant,,8/1/1992,14
+1897,Paperboy,,12/1/1988,14
+1898,Paperboy 2,,4/1/1992,14
+1899,Peter Pan and the Pirates,,1/1/1991,14
+1900,Phantom Fighter,,4/1/1990,14
+1901,Pictionary,,7/1/1990,14
+1902,Pinball,,10/18/1985,14
+1903,Pinball Quest,,6/1/1990,14
+1904,Pin*Bot,,4/1/1990,14
+1905,Pipe Dream,,9/1/1990,14
+1906,Pirates!,,10/1/1991,14
+1907,Platoon,,12/1/1988,14
+1908,Popeye,,6/1/1986,14
+1909,Power Blade,,3/1/1991,14
+1910,Power Blade 2,,10/1/1992,14
+1911,Power Punch II,,6/1/1992,14
+1912,Predator,,4/1/1989,14
+1913,Prince of Persia,,11/1/1992,14
+1914,Princess Tomato in the Salad Kingdom,,2/1/1991,14
+1915,Pro Sport Hockey,,11/1/1993,14
+1916,Pro Wrestling,,3/1/1987,14
+1917,Punch-Out!!,,8/1/1990,14
+1918,The Punisher,,11/1/1990,14
+1919,Puss 'n Boots: Pero's Great Adventure,,6/1/1990,14
+1920,Puzznic,,11/1/1990,14
+1921,Q*bert,,2/1/1989,14
+1922,Qix,,1/1/1991,14
+1923,R.B.I. Baseball,,6/1/1988,14
+1924,R.C. Pro-Am,,3/1/1988,14
+1925,R.C. Pro-Am II,,12/1/1992,14
+1926,Race America,,5/1/1992,14
+1927,Racket Attack,,10/1/1988,14
+1928,Rad Racer,,10/1/1987,14
+1929,Rad Racer II,,6/1/1990,14
+1930,Raid on Bungeling Bay,,9/1/1987,14
+1931,Rainbow Islands,,6/1/1991,14
+1932,Rally Bike,,9/1/1990,14
+1933,Rambo,,5/1/1988,14
+1934,Rampage,,12/1/1988,14
+1935,Rampart,,1/1/1992,14
+1936,Remote Control,,5/1/1990,14
+1937,The Ren &amp; Stimpy Show: Buckaroo$!,,11/1/1993,14
+1938,Renegade,,1/1/1988,14
+1939,Rescue: The Embassy Mission,,1/1/1990,14
+1940,Ring King,,9/1/1987,14
+1941,River City Ransom,,1/1/1990,14
+1942,RoadBlasters,,1/1/1990,14
+1943,Robin Hood: Prince of Thieves,,11/1/1991,14
+1944,RoboCop,,12/1/1989,14
+1945,RoboCop 2,,4/1/1991,14
+1946,RoboCop 3,,8/1/1992,14
+1947,Robowarrior,,12/1/1988,14
+1948,Rock 'n' Ball,,1/1/1990,14
+1949,Rocket Ranger,,6/1/1990,14
+1950,The Rocketeer,,5/1/1991,14
+1951,Rockin' Kats,,9/1/1991,14
+1952,Roger Clemens' MVP Baseball,,10/1/1991,14
+1953,Rollerball,,2/1/1990,14
+1954,Rollerblade Racer,,2/1/1993,14
+1955,RollerGames,,9/1/1990,14
+1956,Romance of the Three Kingdoms,,10/1/1989,14
+1957,Romance of the Three Kingdoms II,,9/1/1991,14
+1958,Roundball: 2 on 2 Challenge,,5/1/1992,14
+1959,Rush'n Attack,,4/1/1987,14
+1960,Rygar,,7/1/1987,14
+1961,S.C.A.T.: Special Cybernetic Attack Team,,6/1/1991,14
+1962,Section Z,,7/1/1987,14
+1963,Seicross,,10/1/1988,14
+1964,Sesame Street: 1-2-3,,1/1/1989,14
+1965,Sesame Street: A-B-C,,9/1/1989,14
+1966,Sesame Street: A-B-C/1-2-3,,11/1/1991,14
+1967,Sesame Street: Big Bird's Hide &amp; Speak,,10/1/1990,14
+1968,Sesame Street: Countdown,,2/1/1992,14
+1969,Shadow of the Ninja,,12/1/1990,14
+1970,Shadowgate,,12/1/1989,14
+1971,Shatterhand,,12/1/1991,14
+1972,Shingen the Ruler,,6/1/1990,14
+1973,Shooting Range,,6/1/1989,14
+1974,Short Order / Eggsplode!,,12/1/1989,14
+1975,Side Pocket,,11/30/1987,14
+1976,Silent Service,,12/1/1989,14
+1977,Silkworm,,6/1/1990,14
+1978,Silver Surfer,,11/1/1990,14
+1979,The Simpsons: Bart vs. the Space Mutants,,2/1/1991,14
+1980,The Simpsons: Bart vs. the World,,12/1/1991,14
+1981,The Simpsons: Bartman Meets Radioactive Man,,12/1/1992,14
+1982,Skate or Die!,,12/1/1988,14
+1983,Skate or Die 2: The Search for Double Trouble,,9/1/1990,14
+1984,Ski or Die,,2/1/1991,14
+1985,Sky Kid,,9/1/1987,14
+1986,Sky Shark,,9/1/1989,14
+1987,Slalom,,3/1/1987,14
+1988,Smash TV,,9/1/1991,14
+1989,Snake Rattle 'n' Roll,,7/1/1990,14
+1990,Snake's Revenge,,4/1/1990,14
+1991,Snoopy's Silly Sports Spectacular,,4/1/1990,14
+1992,Snow Brothers,,11/1/1991,14
+1993,Soccer,,10/18/1985,14
+1994,Solar Jetman: Hunt for the Golden Warpship,,9/1/1990,14
+1995,Solomon's Key,,7/1/1987,14
+1996,Solstice: The Quest for the Staff of Demnos,,6/1/1990,14
+1997,Space Shuttle Project,,11/1/1991,14
+1998,Spelunker,,9/1/1987,14
+1999,Spider-Man: Return of the Sinister Six,,10/1/1992,14
+2000,Spot: The Video Game,,9/1/1990,14
+2001,Spy Hunter,,9/1/1987,14
+2002,Spy vs. Spy,,10/1/1988,14
+2003,Sqoon,,9/1/1987,14
+2004,Stack-Up,,10/18/1985,14
+2005,Stadium Events,,9/1/1987,14
+2006,Stanley: The Search for Dr. Livingston,,10/1/1992,14
+2007,Star Force,,11/1/1987,14
+2008,Star Soldier,,1/1/1989,14
+2009,Star Trek: 25th Anniversary,,2/1/1992,14
+2010,Star Trek: The Next Generation,,9/1/1993,14
+2011,Star Voyager,,9/1/1987,14
+2012,Star Wars,,11/1/1991,14
+2013,Star Wars: The Empire Strikes Back,,3/1/1992,14
+2014,Starship Hector,,6/1/1990,14
+2015,StarTropics,,12/1/1990,14
+2016,Stealth ATF,,10/1/1989,14
+2017,Stinger,,9/1/1987,14
+2018,Street Cop,,6/1/1989,14
+2019,Street Fighter 2010: The Final Fight,,9/1/1990,14
+2020,Strider,,7/1/1989,14
+2021,Super C,,4/1/1990,14
+2022,Super Cars,,2/1/1991,14
+2023,Super Dodge Ball,,7/1/1989,14
+2024,Super Glove Ball,,10/1/1990,14
+2025,Super Jeopardy!,,9/1/1991,14
+2026,Super Mario Bros.,,10/18/1985,14
+2027,Super Mario Bros./Duck Hunt,,11/1/1988,14
+2028,Super Mario Bros./Duck Hunt/World Class Track Meet,,12/1/1990,14
+2029,Super Mario Bros. 2,,10/10/1988,14
+2030,Super Mario Bros. 3,,2/12/1990,14
+2031,Super Pitfall,,11/1/1987,14
+2032,Super Spike V'Ball,,2/1/1990,14
+2033,Super Spike V'Ball/Nintendo World Cup,,12/1/1990,14
+2034,Super Spy Hunter,,2/1/1992,14
+2035,Super Team Games,,11/1/1988,14
+2036,Superman,,12/1/1988,14
+2037,Swamp Thing,,12/1/1992,14
+2038,Sword Master,,1/1/1992,14
+2039,Swords and Serpents,,8/1/1990,14
+2040,Taboo: The Sixth Sense,,4/1/1989,14
+2041,Tag Team Wrestling,,10/1/1986,14
+2042,TaleSpin,,12/1/1991,14
+2043,Target: Renegade,,3/1/1990,14
+2044,Tecmo Baseball,,1/1/1989,14
+2045,Tecmo Bowl,,2/1/1989,14
+2046,Tecmo Cup Soccer Game,,9/1/1992,14
+2047,Tecmo NBA Basketball,,11/1/1992,14
+2048,Tecmo Super Bowl,,12/1/1991,14
+2049,Tecmo World Wrestling,,4/1/1990,14
+2050,Teenage Mutant Ninja Turtles,,6/1/1989,14
+2051,Teenage Mutant Ninja Turtles II: The Arcade Game,,12/1/1990,14
+2052,Teenage Mutant Ninja Turtles III: The Manhattan Project,,2/1/1992,14
+2053,Teenage Mutant Ninja Turtles: Tournament Fighters,,2/1/1994,14
+2054,Tennis,,10/18/1985,14
+2055,The Terminator,,12/1/1992,14
+2056,Terminator 2: Judgment Day,,2/1/1992,14
+2057,Terra Cresta,,3/1/1990,14
+2058,Tetris,,11/1/1989,14
+2059,Tetris 2,,10/1/1993,14
+2060,The Three Stooges,,10/1/1989,14
+2061,Thunder &amp; Lightning,,12/1/1990,14
+2062,Thunderbirds,,9/1/1990,14
+2063,Thundercade,,7/1/1989,14
+2064,Tiger Heli,,9/1/1987,14
+2065,Time Lord,,9/1/1990,14
+2066,Times of Lore,,5/1/1991,14
+2067,Tiny Toon Adventures,,12/1/1991,14
+2068,Tiny Toon Adventures 2: Trouble in Wackyland,,4/1/1993,14
+2069,Tiny Toon Adventures Cartoon Workshop,,12/1/1992,14
+2070,To the Earth,,11/1/1989,14
+2071,Toki,,12/1/1991,14
+2072,Tom and Jerry,,12/1/1991,14
+2073,Tombs &amp; Treasure,,6/1/1991,14
+2074,Top Gun,,11/1/1987,14
+2075,Top Gun: The Second Mission,,1/1/1990,14
+2076,Top Players' Tennis,,1/1/1990,14
+2077,Total Recall,,8/1/1990,14
+2078,Totally Rad,,3/1/1991,14
+2079,Touch Down Fever,,2/1/1991,14
+2080,Town &amp; Country Surf Designs: Wood &amp; Water Rage,,2/1/1988,14
+2081,Town &amp; Country II: Thrilla's Surfari,,3/1/1992,14
+2082,Toxic Crusaders,,4/1/1992,14
+2083,Track & Field,,4/1/1987,14
+2084,Track &amp; Field II,,6/1/1989,14
+2085,Treasure Master,,12/1/1991,14
+2086,Trog!,,10/1/1991,14
+2087,Trojan,,2/1/1987,14
+2088,Twin Cobra,,1/1/1990,14
+2089,Twin Eagle,,10/1/1989,14
+2090,Ultima III: Exodus,,2/1/1989,14
+2091,Ultima IV: Quest of the Avatar,,12/1/1990,14
+2092,Ultima V: Warriors of Destiny,,1/1/1993,14
+2093,Ultimate Air Combat,,4/1/1992,14
+2094,Ultimate Basketball,,9/1/1990,14
+2095,The Uncanny X-Men,,12/1/1989,14
+2096,Uncharted Waters,,11/1/1991,14
+2097,Uninvited,,6/1/1991,14
+2098,The Untouchables,,1/1/1991,14
+2099,Urban Champion,,8/1/1986,14
+2100,Vegas Dream,,3/1/1990,14
+2101,Vice: Project Doom,,11/1/1991,14
+2102,Videomation,,6/1/1991,14
+2103,Volleyball,,3/1/1987,14
+2104,Wacky Races,,5/1/1992,14
+2105,Wall Street Kid,,6/1/1990,14
+2106,Wario's Woods,,12/10/1994,14
+2107,Wayne Gretzky Hockey,,1/1/1991,14
+2108,Wayne's World,,11/1/1993,14
+2109,WCW Wrestling,,4/1/1990,14
+2110,Werewolf: The Last Warrior,,11/1/1990,14
+2111,Wheel of Fortune,,9/1/1988,14
+2112,Wheel of Fortune Family Edition,,3/1/1990,14
+2113,Wheel of Fortune: Featuring Vanna White,,1/1/1992,14
+2114,Wheel of Fortune Junior Edition,,10/1/1989,14
+2115,Where in Time Is Carmen Sandiego?,,10/1/1991,14
+2116,Where's Waldo?,,9/17/1991,14
+2117,Who Framed Roger Rabbit,,9/1/1989,14
+2118,Whomp 'Em,,3/1/1991,14
+2119,Widget,,11/1/1992,14
+2120,Wild Gunman,,10/18/1985,14
+2121,Willow,,12/1/1989,14
+2122,"Win, Lose, or Draw",,3/1/1990,14
+2123,Winter Games,,9/1/1987,14
+2124,Wizardry: Proving Grounds of the Mad Overlord,,7/1/1990,14
+2125,Wizardry II: The Knight of Diamonds,,4/1/1992,14
+2126,Wizards &amp; Warriors,,12/1/1987,14
+2127,Wizards & Warriors III: Kuros: Visions of Power,,3/1/1992,
+2128,Wolverine,,10/1/1991,14
+2129,World Champ,,4/1/1991,14
+2130,World Class Track Meet,,8/1/1988,14
+2131,World Games,,3/1/1989,14
+2132,Wrath of the Black Manta,,4/1/1990,14
+2133,Wrecking Crew,,10/18/1985,14
+2134,Wurm: Journey to the Center of the Earth,,11/1/1991,14
+2135,WWF King of the Ring,,11/1/1993,14
+2136,WWF WrestleMania,,1/1/1989,14
+2137,WWF WrestleMania Challenge,,11/1/1990,14
+2138,WWF WrestleMania: Steel Cage Challenge,,9/1/1992,14
+2139,Xenophobe,,12/1/1988,14
+2140,Xevious,,9/1/1988,14
+2141,Xexyz,,4/1/1990,14
+2142,Yo! Noid,,11/1/1990,14
+2143,Yoshi,,6/1/1992,14
+2144,Yoshi's Cookie,,4/1/1993,14
+2145,The Young Indiana Jones Chronicles,,12/1/1992,14
+2146,Zanac,,10/1/1987,14
+2147,Zelda II: The Adventure of Link,,12/1/1988,14
+2148,Zen the Intergalactic Ninja,,3/1/1993,14
+2149,Zoda's Revenge: StarTropics II,,3/1/1994,14
+2150,Zombie Nation,,1/1/1991,14
